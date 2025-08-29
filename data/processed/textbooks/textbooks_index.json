@@ -1,0 +1,34 @@
+[
+  {
+    "source": "PMC4283661.xml",
+    "text_file": "PMC4283661.txt",
+    "text_length": 23711,
+    "type": "textbook",
+    "title": "Screening and Diagnosis of Gestational Diabetes Mellitus",
+    "source_name": "NCBI Bookshelf"
+  },
+  {
+    "source": "PMC7011201.xml",
+    "text_file": "PMC7011201.txt",
+    "text_length": 87682,
+    "type": "textbook",
+    "title": "Nutrition Therapy for Adults With Diabetes or Prediabetes",
+    "source_name": "ADA Guidelines"
+  },
+  {
+    "source": "PMC7144926.xml",
+    "text_file": "PMC7144926.txt",
+    "text_length": 62767,
+    "type": "textbook",
+    "title": "Gestational Diabetes Mellitus",
+    "source_name": "Endotext"
+  },
+  {
+    "source": "PMC9036566.xml",
+    "text_file": "PMC9036566.txt",
+    "text_length": 49844,
+    "type": "textbook",
+    "title": "Diabetes Mellitus in Pregnancy",
+    "source_name": "StatPearls"
+  }
+]
