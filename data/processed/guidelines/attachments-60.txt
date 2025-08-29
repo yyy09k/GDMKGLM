@@ -1,0 +1,828 @@
+WINGS PROJECT SUMMARY REPORT
+THE IDF APPROACH FOR CARE 
+AND MANAGEMENT OF GESTATIONAL 
+DIABETES MELLITUS
+
+Managing Editor: Belma Malanda
+Editor: The International Diabetes Federation
+All correspondence and enquiries 
+should be addressed to:
+The International Diabetes Federation 
+Chaussée de la Hulpe 166
+1170 Brussels (Belgium)
+Phone: +32-2-5385511 
+Fax: +32-2-5385114
+info@idf.org
+More information on WINGS is available 
+on our website www.idf.org/wings 
+© International Diabetes Federation, 2017 
+All rights reserved. No part of this publication may 
+be reproduced or transmitted in any form or by any 
+means without the written prior permission of the 
+International Diabetes Federation (IDF). Requests 
+to reproduce or translate IDF publications should 
+be addressed to IDF, Chaussée de la Hulpe 166, 
+B-1170 Brussels, by fax +32-2-5385114, 
+or by e-mail at communications@idf.org.
+The information in this publication is for 
+information purposes only. IDF makes no 
+representations or warranties about the accuracy 
+and reliability of any content in the publication. 
+Any opinions expressed are those of their 
+authors, and do not necessarily represent the 
+views of IDF. IDF shall not be liable for any loss 
+or damage in connection with your use of this 
+publication. Through this publication, you may 
+link to third-party websites, which are not under 
+IDF’s control. The inclusion of such links does 
+not imply a recommendation or an endorsement 
+by IDF of any material, information, products 
+and services advertised on third-party websites, 
+and IDF disclaims any liability with regard to 
+your access of such linked websites and use 
+of any products or services advertised there. 
+While some information in this publication is 
+about medical issues, it is not medical advice 
+and should not be construed as such.
+FULL DETAILS:
+
+TABLE OF CONTENTS
+INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 05
+AIM OF THE WINGS PROJECT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 05
+KEY ACCOMPLISHMENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 06
+METHODS AND TIMELINE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 06
+DEVELOPING THE BASELINE REQUIREMENTS 
+FOR THE GDM MODEL OF CARE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 09
+Healthcare professional’s survey . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Knowledge Attitude practice survey of women with GDM . . . . . . . . . . . . . 10
+Pilot Screening study. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+IMPLEMENTATION OF THE MODEL OF CARE . . . . . . . . . . . . . . . . . . . . . . . . 11
+Outreach Education programmes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+EVALUTION OF THE MODEL OF CARE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Key Findings and Outcomes of the WINGS project . . . . . . . . . . . . . . . . . . 14
+THE FRAMEWORK OF THE MODEL OF CARE . . . . . . . . . . . . . . . . . . . . . . . . 16
+DISSEMINATION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+National Promotion of the IDF Model of Care . . . . . . . . . . . . . . . . . . . . . . 17
+Global Promotion of the IDF Model of Care . . . . . . . . . . . . . . . . . . . . . . . . 17
+THE WAY FORWARD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+CONCLUSIONS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+
+4
+MRS PARIMALA, DIAGNOSED WITH GDM DURING THE THIRD MONTH 
+OF HER SECOND PREGNANCY:
+ I have a three-year-old child and I am currently seven 
+months pregnant. I did not have high blood glucose 
+levels during my first pregnancy, and back then I was 
+not aware about GDM. Now I am aware about this 
+condition and related complications… I was advised 
+to follow a diet – restrict sugar and carbohydrates, 
+eat more wheat products; and to exercise. Besides, 
+my mother-in-law has diabetes so it is easy for me to 
+follow the diet for GDM.
+ 
+ I feel relaxed to tell others that I have GDM. Many people 
+in my area have similar problems. I sometimes get advice 
+from other people with diabetes about diet and I am 
+receiving support from everyone I know. Also, I am willing 
+to support with all information I can should someone 
+come to me for an advice. 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+SUMMARY REPORT 
+05
+INTRODUCTION
+Diabetes is a serious reproductive, maternal and child 
+health issue, with gestational diabetes mellitus (GDM) 
+contributing to maternal morbidity and mortality. 
+GDM is a temporary disease that occurs during 
+pregnancy and can lead to an increased risk of devel-
+oping type 2 diabetes (T2D) later in life. Additionally, 
+the disease poses great risk to pregnant women and 
+their children. Despite the increase in the prevalence 
+of GDM it yet remains a neglected issue, particularly 
+in low- and middle- income countries.
+Currently at 66 million, India is the second most 
+prevalent country in the world with people living with 
+T2D. Global estimates of pregnancies associated 
+with hyperglycaemia were at 20.9 million, of which 
+approximately 17.8 million being associated with 
+GDM1. Over 5 million of these GDM cases were in 
+India alone. Moreover, many of these women expe-
+rience pregnancy related complications including 
+high blood pressure, large birth weight babies and 
+obstructed labour. 
+Source: IDF Atlas 6th edition, 2013
+20.9 Million
+17.8 Million
+> 5.4 Million
+GLOBAL 
+HYPERGLYCAEMIA 
+IN PREGNANCY
+GLOBAL 
+GDM CASES
+INDIA 
+GDM CASES
+The IDF and the Abbott fund from the global health-
+care company Abbott, together committed to raising 
+this important health issue onto the global develop-
+ment agenda and improving pregnancy outcomes 
+in women with GDM. This project had support from 
+the local partners the Madras Diabetes Research 
+Foundation (MRDF Chennai, India) who played an 
+important role in implementation in surrounding 
+semi-urban and rural areas of the city.
+The Women in India with GDM Strategy (WINGS 
+project) is one of IDF’s flagship projects which aimed 
+to tackle the growing problem of GDM in low-re-
+source settings.
+This project aimed to provide a situational exam-
+ination of the burden of GDM in India. It looked to 
+establish a model of care using evidence-based 
+guidelines for GDM treatment that could be applied 
+in low-resource settings globally.
+AIM OF THE WINGS PROJECT
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+KEY ACCOMPLISHMENTS 
+* This presents a good opportunity for a T2D prevention project in women who experienced GDM as follow up 
+rates in India after delivery are generally much lower (10-20% general follow up rate in post-partum women)
+This is a succinct report of the WINGS project on GDM after four successful years in Chennai (2012-2016).
+1,126 
+women 
+screened
+247 
+cases of GDM 
+identified
+212 
+(95.8%) pregnant women followed 
+throughout their pregnancy 
+under the IDF GDM MOC*
+203 
+(95.8%) successfully 
+completed the follow 
+up postpartum
+6 
+collaborating 
+clinics
+06
+This programme provided community-based 
+interventions for women with GDM and educa-
+tional material for health outreach workers. Over 
+2,100 pregnant women were involved in this project.
+An emphasis was placed on close patient-healthcare 
+worker interaction.
+METHODS AND TIMELINE
+>2,100 
+women 
+involved 
+in this project
+>60 
+physicians 
+trained on 
+implementation
+Key findings suggested that adverse maternal and 
+neonatal outcomes, for example the numbers of 
+obstructed labour and caesarean sections, were signif-
+icantly reduced. As a result of this project dozens of 
+healthcare professionals are now able to manage GDM 
+in their clinics. Educational resources and protocols, 
+such as the Wings Toolkit, are now available in the local 
+languages; English; French and Spanish. 
+250 
+health workers 
+involved in 
+community 
+outreach
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+SUMMARY REPORT 
+07
+PHASE 1: INITIATION 
+ Gaining ethical clearance to conduct studies
+ Identifying sites and installing 
+data collection systems
+ Recruiting local workers and adapting 
+resources and materials
+PHASE 2: INITIATION 
+ Establishing a comprehensive baseline 
+analysis of GDM models of care in India
+ Training, engaging and mobilising healthcare 
+providers, public health authorities and the broader 
+community on the prevention and care of GDM
+ Pilot screening study
+PHASE 3: IMPLEMENTATION 
+OF THE GDM MODEL OF CARE
+ Initial testing of recruited pregnant women: 
+testing involved a fasting oral glucose tolerance 
+test (OGTT) and in cases where this was not 
+possible, a non-fasting glucose challenge test 
+followed by a OGTT as a definitive diagnostic test
+ Providing women with GDM both individual 
+and group education, guidance and care 
+where appropriate
+ Structured treatment programme 
+for pregnant women to ensure safe delivery
+ Six-weeks post-delivery check up – 
+to monitor future risk of developing T2D
+PHASE 4: EVALUATION AND FOLLOW UP
+ Collecting outcome data
+ Producing and evaluation report looking 
+into the effectiveness of the MOC
+FUTURE PHASE: ADAPTING AND 
+ADVOCATING THIS MOC FOR 
+OTHER LOW RESOURCE COUNTRIES
+1 _ Literature review
+2 _ Retrospective review of medical records
+3 _ Healthcare professionals survey
+4 _ Knowledge Attitude Practice survey 
+of women with/without GDM
+5 _ Training of workers
+BASELINE 
+ANALYSIS
+Initial project plan
+Age 2012
+Jul. 2012
+Oct. 2012
+Oct. 2015
+Jan. 2015
+World Diabetes 
+Congress, 
+Melbourne 2013
+World Diabetes 
+Congress, 
+Vancouver 2015
+Ethical clearance
+Build, install, 
+test data 
+collection 
+system
+Identify sites
+Recruit local staff
+Adapt materials
+Identification and recruitment 
+of participants
+Data collection and monitoring
+Monthly Reports from Project 
+Coordinator to IDF Executive Office
+Mid-Point Review
+Mid-Point training
+Publications of Phase 2 findings
+Situation analysis
+Retrospective 
+record review
+Training
+Baseline Report
+Collect all outcomes 
+and post-natal 
+screening results
+End-point 
+evaluation report
+Publications of 
+project findings
+PHASE 1: 
+Initiation
+12 weeks
+PHASE 3: Implementation
+110 weeks
+PHASE 2: 
+Development
+12 weeks
+PHASE 4: 
+Evaluation 
+and follow up
+48 weeks
+Dissemination
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+8
+MRS RAZIYA, DIAGNOSED WITH GDM AT NINETEEN WEEKS OF GESTATION:
+ When I was diagnosed with GDM, I was very worried about my child developing diabetes. 
+I am now following a meal plan prescribed by the Doctor and my sugar levels are 
+well under control. It is sometimes very difficult to follow the advice as most of the 
+times I feel hungry soon after having the meal. Luckily, my husband is very strict 
+about me following the diet plan. He is the only person who really supports me. 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+SUMMARY REPORT 
+DEVELOPING THE BASELINE REQUIREMENTS 
+FOR THE GDM MODEL OF CARE
+KEY REQUIREMENTS
+CRITERIA FOR SCREENING
+✔ Low cost
+✔ No difficulty in preparation
+✔ High sensitivity and specificity
+✔ Short turn-around time
+✔ Easy administration with minimal training
+✔ Needs little maintenance 
+STANDARDS FOR MANAGEMENT
+✔ Medical Nutrition therapy (MNT)al activity 
+to improve glucose levels
+✔ Insulin & Oral Hypoglycaemic Agents (OHA) 
+for glycaemic control
+✔ Breastfeeding – short-term and long-term benefits
+✔ Follow up meetings
+OVERCOMING BARRIERS TO TREATMENT
+✔ Financial difficulties
+✔ Culturally ingrained lifestyle
+✔ Language and communication difficulties
+> 90 scientific sources 
+Reviewed from 1996 – 2012
+Capillary blood 
+glucose feasible 
+where OGTT is 
+unavailable 
+Diagnosis 
+should be made 
+from 24th week 
+of gestation
+Need for 
+universal 
+screening & 
+diagnostic 
+cut-offs
+Reduce caloric 
+intake in obese 
+women by 30%
+Reccomended 
+follow up of 
+6 weeks 
+postpartum
+Group 
+meetings 
+& family 
+support
+Counselling 
+on diet & 
+lifestyle
+LITTERATURE REVIEW
+09
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+10
+HEALTHCARE PROFESSIONAL’S SURVEY
+KEY MESSAGE — This survey highlighted the need for proper training for healthcare professionals in global GDM 
+screening and management.
+KNOWLEDGE ATTITUDE PRACTICE SURVEY OF WOMEN WITH GDM
+102 PREGNANT 
+WOMEN
+50% 
+did not complete 
+secondary education
+97% 
+Unemployed
+40% 
+from rural 
+areas
+60% 
+from urban 
+areas
+67% 
+first time 
+pregnancies
+KEY MESSAGE — This survey highlighted the need for a proper education regarding GDM and its consequences to 
+the mother and baby. 
+PILOT SCREENING STUDY [January 2013 – November 2013]
+WHO 1999 
+criteria
+WHO 2013/
+IADPSG 
+1,031 ORAL GLUCOSE TOLERANCE TESTS
+Important other parameters – HbA1c, Age, BMI, Family History
+DIAGNOSTIC CRITERIA
+24 DIFFERENT 
+STATES IN INDIA
+1,821 
+Obstetricians / 
+Gynaecologists 
+3,841 
+Doctors 
+2,020 
+Diabetologists / 
+Endocrinologists 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+11
+AWARENESS ACTIVITIES
+• Villages in Nilgiris 
+Tamil Nadu 
+• Andhra Mahila Sabha 
+Hospital, Chennai; 
+15 pregnant women and 
+their caregivers took part
+USE OF FLYERS 
+AND POSTERS 
+RURAL PROGRAMMES
+• Chunampet, 
+October 2015
+• 51 pregnant women 
+took part and their 
+family members
+USING GAMES AS 
+EDUCATIONAL TOOLS
+• A “snakes and ladders” 
+game was developed 
+and used as an 
+educational tool
+FIELD VISITS AND TRIPS
+• Monthly visits to 
+assist implementation
+PRESS 
+MEETINGS
+PHYSICAL ACTIVITY 
+WORKSHOPS
+Regular activities & 
+organised exercise 
+during pregnancy
+HEALTHY COOKING 
+AND DIET TUTORIALS 
+• Anuradha Maternity Centre
+• Punjab association Clinic
+• Seethapathy Hospital
+OUTREACH EDUCATION PROGRAMMES
+IMPLEMENTATION OF THE MODEL OF CARE
+The IDF approach for care and management of Gestational Diabetes Mellitus
+11
+ ADVOCACY
+ PROMOTION
+ MANAGEMENT
+ SUPPORT
+SUMMARY REPORT 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+12
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+13
+SUMMARY REPORT 
+MRS DHANYAPRIYA, DIAGNOSED WITH GDM AT EIGHT WEEKS 
+OF PREGNANCY:
+ When I was eight weeks pregnant, the Doctor told 
+me that my blood sugar levels are too high. First 
+I felt fear. But after consulting my new Dietician 
+and Diabetologist I gained confidence.
+ 
+ I am now following a meal plan and engaging in 
+physical activity. Both my husband and mother-
+in-law support me in following my diet plan. 
+My Doctor advised me to walk 30 minutes every day. 
+I felt so good afterwards that now I walk more than 
+40 minutes a day. I am managing to keep my blood 
+sugar levels well under control. 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+14
+EVALUATION OF THE MODEL OF CARE
+KEY FINDINGS AND OUTCOMES OF THE WINGS PROJECT
+After implementation of the IDF WINGS MOC, there were a total of 11 scientific 
+articles published based on findings from the project. Additionally there were over 
+14 oral and poster presentations communicated at national and international event.
+Comparison of 
+maternal and 
+fetal outcomes 
+among Asian Indian 
+women with and 
+without gestational 
+diabetes mellitus
+AIMS — Comparing different maternal and foetal outcomes 
+among pregnant women with and without GDM.
+CONCLUSIONS — Women with GDM had significantly higher 
+caesarean sections, pre-eclampsia and macrosomia 
+than women without GDM. However this was significantly 
+reduced when women with GDM used insulin therapy.
+DOI:10.4103/2230-8210.183469
+Glucose tolerance 
+status of women 
+with gestational 
+diabetes at 6 
+to 12 weeks 
+postpartum
+AIMS — To determine postpartum glucose tolerance in 
+pregnant women with GDM.
+CONCLUSIONS — Among Asian Indians rapid conversion to 
+dysglycaemia occurs (even by 6-12 weeks postpartum). 
+Therefore there is a need for a strategy to increase 
+postpartum follow-up rates among women with GDM.
+DOI:10.1016/J.DIABRES.2016.04.050
+Prevalence of 
+gestational diabetes 
+mellitus (GDM) in 
+Asian Indians using 
+the world health 
+organization criteria 
+and the international 
+association of diabetes 
+and pregnancy study 
+groups criteria
+AIMS — To compare the prevalence rates of gestational 
+diabetes mellitus using the World Health Organization 
+and the International Association of Diabetes and 
+Pregnancy Study Groups Criteria in Asian Indian women.
+CONCLUSIONS — Use of the IADPSG criteria results in almost 
+50% higher prevalence rates of GDM in Asian Indians. 
+Moreover, the IADPSG and WHO 1999 criteria identify 
+different individuals as having GDM.
+SOURCE: At the 74th scientific sessions of 
+the American Diabetes Association (ADA 
+Congress 2014, San Francisco , USA)
+Gestational weight 
+gain and preg-
+nancy outcomes 
+in relation to body 
+mass index in Asian 
+Indian women
+AIMS — To compare weight gain and outcomes in relation 
+to obesity among pregnant women.
+CONCLUSIONS — Normal and underweight women did not 
+gain enough weight during pregnancy. Frequency of low 
+birth weight babies is independent of maternal obesity. 
+Generally, worse pregnancy outcomes are associated 
+with maternal obesity.
+Manuscript in preparation
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+15
+SUMMARY REPORT 
+AIMS — To develop a context adapted Model of Care to 
+improve health outcomes in women with GDM and their 
+babies in low and middle income countries.
+CONCLUSIONS — The IDF WINGS Model of Care for GDM is a 
+community- and facility-based intervention to address 
+the need for better care for women with GDM. The project 
+underscores the need for educating HCPs and the public 
+regarding GDM and particularly about the improvement 
+of postpartum follow up.
+Methodology 
+of the IDF women 
+in india with GDM 
+strategy (WINGS) 
+Model of Care
+DOI:10.4103/2230-8210.189230
+Pregnancy 
+outcomes in women 
+with gestational 
+diabetes using 
+the WINGS 
+Model of Care
+AIMS — To evaluate the WINGS model of care by comparing 
+the maternal and foetal outcomes of women with GDM 
+and women without GDM.
+CONCLUSIONS — Proper GDM management through the WINGS 
+model of care showed that women with GDM had similar 
+maternal and foetal outcomes to women without GDM.
+DOI:10.1111/JOG.13249
+AIMS — To compare physical activity patterns in pregnant 
+women with and without GDM and to assess the effect of 
+an exercise intervention on changes in physical activity 
+patterns, blood glucose levels and pregnancy outcomes 
+in women with GDM.
+CONCLUSIONS — A low cost culturally appropriate model 
+of care can bring about significant improvements in 
+physical activity in women with GDM. The increases in 
+physical activity are associated with improved glycaemic 
+control and a reduction in adverse neonatal outcomes.
+Physical activity 
+patterns and 
+gestational 
+diabetes outcomes 
+– the WINGS project
+DOI:10.1016/J.DIABRES.2016.04.041
+Glucose tolerance 
+status of Asian 
+Indian women 
+with gestational 
+diabetes at 6 weeks 
+– 1 year postpartum 
+(WINGS – 7)
+AIMS — To determine postpartum glucose tolerance in 
+pregnant women with GDM.
+CONCLUSIONS — Among Asian Indians rapid conversion to 
+dysglycaemia occurs (even by 6-12 weeks postpartum). 
+Therefore there is a need for a strategy to increase 
+postpartum follow-up rates among women with GDM.
+DOI:10.1016/J.DIABRES.2016.04.050 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+16
+THE FRAMEWORK OF THE MODEL OF CARE
+The WINGS MOC was developed targeting the indi-
+vidual (pregnant women) their families, the health 
+facility, community, and the global scientific audience.
+ At the individual and family level, it aimed to 
+build the awareness and education on GDM 
+through one-on-one counselling, educational 
+programs, and various educational materials. 
+It also aimed to improve pregnancy outcomes
+ At the health facility level, capacity building was 
+done by training HCPs in identifying, treating, 
+and managing GDM. A training curriculum was 
+developed for this purpose
+ At the larger community level, especially 
+the remote and the rural regions which have 
+limited access and
+ Availability to GDM care, community health 
+workers were trained with basic awareness 
+and information about GDM. A separate 
+training module was used for this purpose
+ Global audience: The implementation of the 
+model in India will help to provide insights and 
+recommendations for improved care of women 
+diagnosed with GDM in other low-resource 
+settings. 
+Through scientific publications, the model will be 
+disseminated and made available to the global 
+community.
+GLOBAL
+Dissemination and advocacy 
+(Page 17) of the success of 
+the GDM MOC to the global 
+community through scientific 
+publications (Pages 14-15), 
+websites and social media 
+and national/international 
+workshops.
+COMMUNITY
+Education programs on GDM, 
+targeting pregnant women, 
+families and community health 
+workers. 
+HEALTH SYSTEM
+Capacity building of HCPs on 
+GDM MOC, hand books on 
+GDM MOC, training manuals, 
+implementation protocol, 
+information booklet for women 
+with GDM. 
+I N T E R N AT I O N A L D I A B E T E S F E D E R AT I O N
+IDF GDM MODEL OF CARE
+IMPLEMENTATION 
+PROTOCOL
+GUIDELINES FOR HEALTHCARE 
+PROFESSIONALS
+WINGS
+WOMEN IN
+INDIA with GDM 
+STRATEGY
+An International Diabetes Federation Project
+Training Manual for Community Health Workers
+WINGS
+WOMEN IN
+INDIA with GDM 
+STRATEGY
+An International Diabetes Federation Project
+INDIVIDUAL
+Counseling on GDM and 
+its complications, educa-
+tion booklet, SMBG. 
+HAVING A BABY?
+Now is the time to learn
+more about
+gestational diabetes
+WINGS
+WOMEN IN
+INDIA with GDM 
+STRATEGY
+An International Diabetes Federation Project
+FAMILY
+Awareness about GDM 
+and its complications, 
+education programs on 
+diet and physical activity. 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+17
+SUMMARY REPORT 
+DISSEMINATION 
+GLOBAL PROMOTION OF THE IDF MODEL OF CARE
+NATIONAL PROMOTION OF THE IDF MODEL OF CARE
+NATIONAL WORKSHOP IN INDIA
+Chennai 26-27th September 2015
+Organised jointly by the IDF and MDRF
+23 
+local and national 
+media groups
+300 
+delegates
+39 
+faculties
+2 EXECUTIVE SESSIONS ON THE WINGS PROJECT 
+AND MODEL OF CARE
+ The IDF GDM Model of Care was launched 
+in front of an international audience
+ Over 1,000 educational toolkit materials 
+were distributed to attendees
+IDF WORLD DIABETES CONGRESS 2015
+WINGS Satellite Symposium 
+Vancouver Convention Centre
+The results from the 
+WINGS Model of Care 
+demonstrated impressive 
+success in managing more 
+than 85% of women with 
+GDM without drugs and 
+also showed a significant 
+improvement in physical 
+activity of women 
+with GDM under GDM 
+Model of Care.
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+18
+MRS VEERAMMAL, DIAGNOSED WITH GDM AT THE SEVENTH MONTH OF HER THIRD PREGNANCY:
+ My blood glucose levels were regularly monitored and they were normal 
+until the diagnosis. At first I felt very sad. Nobody in my family has 
+diabetes. So why me?
+ 
+ I often felt tired, dizzy and not able to do my day to day activities. The 
+Doctor told me that the blood sugar levels should be back to normal 
+after delivery while in some cases they may continue to be high. 
+Everyone around me was aware of my condition. But the mistake was mine. 
+I was not able to follow proper diet during my pregnancy as I could not 
+prepare food separately only for me.
+Now I often feel very weak and tired due to my high blood sugar levels. I do 
+regret for not following the Doctor’s advice from the beginning. 
+
+The IDF approach for care and management of Gestational Diabetes Mellitus
+19
+SUMMARY REPORT 
+THE WAY FORWARD
+Three independent external experts concluded 
+that, the major strong point of the IDF WINGS Model 
+of Care is that there was a strong follow up rate 
+among postpartum women with GDM. This required 
+intensive effort and perseverance and created an 
+opportunity to prevent the development of Type 2 
+Diabetes in these women. 
+1 _ The local cultural practices of pregnant women after 
+giving birth was a major challenge in getting women 
+to attend follow up and postpartum screening 
+ Local community sensitization on the useful-
+ness of follow up and postpartum screening 
+is extremely important
+2 _ There was a strong need for refresher training 
+sessions to ensure that new healthcare profes-
+sionals were up to date
+3 _ Future adaptations of the IDF Model of Care should 
+attempt to implement it into rural areas
+ The WINGS project came across difficulties 
+in gaining permission from local state health 
+authorities in piloting the Model of care in 
+rural areas
+ Consistent communication between IDF, MRDF 
+and local health authorities was key in over-
+coming this challenge
+CONCLUSIONS
+After implementation of the IDF Model of Care, women 
+with GDM were found to have pregnancy outcomes 
+comparable to women without GDM. These over-
+whelming positive results suggest that the IDF 
+Model of Care was successful in preventing adverse 
+outcomes in women with GDM. The Model of Care 
+was adapted for implementation in Low- to Middle – 
+income countries and local conditions. It was designed 
+to be scaled up in other countries worldwide and is 
+suitable for integration into existing maternal and 
+child health systems.
+The WINGS Model of Care for GDM offers a compre-
+hensive package of tools for every level of care which 
+includes guides for health care professionals providing 
+care for women diagnosed with GDM, community 
+health workers who follow up women in remote areas 
+having limited medical access and also to pregnant 
+women with educational games to improve awareness 
+on GDM. 
+The full IDF GDM educational toolkit developed as 
+part of the IDF Model of Care is available to down-
+load for free on the IDF website: http://www.idf.org/
+women-and-diabetes/resource-centre. 
+Additionally, adapted questionnaires on physical 
+activity and food frequency and a case report follow 
+up form are also available. 
+These outputs of the WINGS project represent the 
+IDF strategy to tackle the rising prevalence of GDM in 
+low – to middle- income countries. IDF are seeking 
+financial and technical partners at both the interna-
+tional and national level to disseminate the IDF Model 
+of Care in Asia and Africa. 
+
+DESIGN BY EX NIHILO
+ACKNOWLEDGEMENTS
+The WINGS programme was developed through a partnership 
+between the International Diabetes Federation (IDF), the Madras 
+Diabetes Research Foundation (MDRF) in Chennai, India, and the 
+Abbott Fund, the philanthropic foundation of the global healthcare 
+company, Abbott. 
+IDF is grateful to the Abbott Fund, the philanthropic foundation of the 
+global healthcare company Abbott, for providing a full unrestricted 
+grant to run this project. 
+Special thanks to Dr V. Mohan, the Principal Investigator, and his 
+dedicated team at MDRF for his personal outstanding involvement 
+in this project and the professional implementation work they have 
+carried out.
+We would also like to place on record our sincere thanks to the Health 
+Secretary, Tamil Nadu state and the Director of Public Health for 
+granting permission to carry out the project. We also thank our collab-
+orating centres- Seethapathy hospital, Dr.Mohan Diabetes Specialities 
+centre, Prashanth hospital, Anuradha Maternity Centre, Andhra 
+Mahila Sabha Hospital and Punjab Association Clinic in Chennai city. 
+Finally, we thank the project teams at both IDF Executive Offices in 
+Brussels and on the field in Chennai, India.

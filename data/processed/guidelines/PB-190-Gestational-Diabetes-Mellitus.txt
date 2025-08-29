@@ -1,0 +1,1660 @@
+VOL. 131, NO. 2, FEBRUARY 2018 
+OBSTETRICS & GYNECOLOGY e49
+Gestational Diabetes Mellitus
+Gestational diabetes mellitus (GDM) is one of the most common medical complications of pregnancy. However, 
+debate continues to surround the diagnosis and treatment of GDM despite several recent large-scale studies address-
+ing these issues. The purposes of this document are the following: 1) provide a brief overview of the understanding of 
+GDM, 2) review management guidelines that have been validated by appropriately conducted clinical research, and 
+3) identify gaps in current knowledge toward which future research can be directed.
+NUMBER 190, FEBRUARY 2018 
+(Replaces Practice Bulletin Number 180, July 2017)
+Background
+Definition and Prevalence
+Gestational diabetes mellitus is a condition in which 
+carbohydrate intolerance develops during pregnancy. 
+Gestational diabetes that is adequately controlled with-
+out medication is often termed diet-controlled GDM or 
+class A1GDM. Gestational diabetes mellitus that requires 
+medication to achieve euglycemia is often termed class 
+A2GDM. Because many women do not receive screening 
+for diabetes mellitus before pregnancy, it can be chal-
+lenging to distinguish GDM from preexisting diabetes. 
+However, it has been estimated that in 2009, 7% of preg-
+nancies were complicated by any type of diabetes and that 
+approximately 86% of these cases represented women 
+with GDM (1). Additionally, the prevalence of GDM var-
+ies in direct proportion to the prevalence of type 2 diabetes 
+in a given population or racial or ethnic group. Caucasian 
+women generally have the lowest rates of GDM. There is 
+an increased prevalence of GDM among Hispanic, African 
+American, Native American, and Asian or Pacific Islander 
+women (2). Gestational diabetes also increases with the 
+same risk factors seen for type 2 diabetes such as obesity 
+and increased age (3). With a greater prevalence of obe- 
+sity and sedentary lifestyles, the prevalence of GDM 
+among reproductive-aged women is increasing globally.
+Maternal and Fetal Complications
+Women with GDM have a higher risk of developing 
+preeclampsia (9.8% in those with a fasting glucose 
+less than 115 mg/dL and 18% in those with a fast-
+ing glucose greater than or equal to 115 mg/dL) and 
+undergoing a cesarean delivery (25% of women with 
+GDM who require medication and 17% of women with 
+diet-controlled GDM underwent cesarean delivery ver-
+sus 9.5% of controls) (4, 5). Furthermore, women with 
+GDM have an increased risk of developing diabetes 
+(predominantly type 2 diabetes) later in life. It is esti-
+mated that up to 70% of women with GDM will develop 
+diabetes within 22–28 years after pregnancy (6–8). The 
+progression to diabetes also is influenced by race, ethnic-
+ity, and obesity. For example, 60% of Latin American 
+women with GDM may develop type 2 diabetes within 
+5 years of their index pregnancy (9).
+The offspring of women with GDM are at increased 
+risk of macrosomia, neonatal hypoglycemia, hyperbiliru-
+binemia, shoulder dystocia, and birth trauma. There also 
+is an increased risk of stillbirth, although how much this 
+ACOG PRACTICE BULLETIN
+Clinical Management Guidelines for Obstetrician–Gynecologists
+INTERIM UPDATE
+INTERIM UPDATE: This Practice Bulletin is updated as highlighted to reflect a limited, focused change to clarify and pro-
+vide additional information on the pharmacologic treatment of gestational diabetes mellitus.
+Committee on Practice Bulletins—Obstetrics. This Practice Bulletin was developed by the American College of Obstetricians and Gynecologists 
+Committee on Practice Bulletins—Obstetrics with the assistance of Aaron B. Caughey, MD, PhD, and Mark Turrentine, MD.
+
+e50 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+factors, including those with a prior history of GDM 
+(see Box 1) (16, 20). However, the best test for early 
+GDM or type 2 diabetes screening is not clear. The test-
+ing used to diagnose type 2 diabetes in nonpregnant indi-
+viduals (ie, a fasting blood glucose followed by a 75-g 
+glucose load and a 2-hour plasma glucose measurement) 
+could be used for early pregnancy screening (21). Many 
+obstetricians or obstetric care providers use the two-
+step screening process that is used for GDM and start 
+with a 50-g OGTT. The American Diabetes Association 
+(ADA) has noted that measurement of hemoglobin A1C 
+also can be used, but it may not be suitable for use alone 
+because of decreased sensitivity compared with OGTT 
+approaches (20). Even if the results of early testing are 
+negative, GDM screening still is recommended at 24–28 
+weeks of gestation because of the large proportion of 
+women who had negative early pregnancy screening but 
+who will go on to develop GDM (22). In women who 
+have positive 50-g screening test results, but negative 
+follow-up test results early in pregnancy, it is common 
+to use the follow-up test at 24–28 weeks of gestation 
+without repeating the 50-g screening test.
+The two-step approach to testing for GDM that is 
+commonly used in the United States is based on first 
+screening with the administration of a 50-g oral glucose 
+solution followed by a 1-hour venous glucose determi-
+nation. Women whose glucose levels meet or exceed an 
+institution’s screening threshold then undergo a 100-g, 
+3-hour diagnostic OGTT. Gestational diabetes mellitus 
+is most often diagnosed in women who have two or more 
+abnormal values on the 3-hour OGTT.
+Institutional screening thresholds for the 1-hour 
+glucose challenge vary from 130 mg/dL to 140 mg/dL, 
+with a range of sensitivities and specificities reported. 
+However, there are no randomized trials that have 
+examined whether one cutoff is more effective than oth-
+ers. Data regarding the ideal threshold value to screen 
+for gestational diabetes in order to improve pregnancy 
+outcomes also are insufficient, although standardization 
+of a screening threshold has been recommended (23). 
+For example, one cohort study showed that a value of 
+140 mg/dL had lower false-positive rates and improved 
+positive predictive values across various racial and 
+ethnic groups. This analysis also showed that sensitivi-
+ties were only marginally improved when using lower 
+thresholds (ie, 130 mg/dL and 135 mg/dL) (24). Using 
+a higher standardized threshold of 140 mg/dL may 
+lower the rate of false-positive screening test results and 
+unnecessary administration of the 3-hour OGTTs, which 
+has been shown to be associated with increased mater-
+nal stress and dissatisfaction regarding the process of 
+screening for and diagnosing GDM (25–27). However, 
+in the absence of clear evidence that supports one 
+is related to glycemic control is debated (10). The results 
+of the Hyperglycemia and Adverse Pregnancy Outcome 
+study (HAPO), an international, multicenter study, dem-
+onstrated a continuous relationship between maternal 
+glucose levels on each of the three values of the 75-g, 
+2-hour oral glucose tolerance test (OGTT) and cesarean 
+delivery, birth weight greater than the 90th percentile, 
+clinical neonatal hypoglycemia, and fetal hyperinsu-
+linemia (11). Other studies have demonstrated that fetal 
+exposure to maternal diabetes contributes to childhood 
+and adult-onset obesity and diabetes in offspring, which 
+is independent of risks associated with obesity and 
+genetic predisposition (12, 13).
+Screening Practices, Diagnostic 
+Thresholds, and Treatment Benefits
+Historically, screening for GDM consisted of obtaining 
+the patient’s medical history and focused primarily on 
+past obstetric outcomes and a family medical history of 
+type 2 diabetes. A 1973 study proposed the use of the 
+50-g, 1-hour OGTT as a screening tool for GDM (14). 
+This test has since become widely accepted, and 95% of 
+obstetricians in the United States use it as the tool for 
+universal screening of pregnant women (15, 16). 
+The use of historic factors (family or personal his-
+tory of diabetes, previous adverse pregnancy outcome, 
+glycosuria, and obesity) to identify GDM will fail to 
+identify approximately one half of women with GDM 
+(17). Although certain factors place women at low risk 
+of GDM, it may not be cost effective to screen that group 
+of women with glucose tolerance testing. However, such 
+low-risk women represent only 10% of pregnant women 
+and identifying those who should not be screened may 
+add unnecessary complexity to the screening process 
+(18). Therefore, in 2014, the U.S. Preventive Services 
+Task Force made a recommendation to screen all preg-
+nant women for GDM at or beyond 24 weeks of gesta-
+tion (16). 
+Clinical Considerations and 
+Recommendations
+ How is gestational diabetes mellitus 
+diagnosed? 
+All pregnant women should be screened for GDM with 
+a laboratory-based screening test(s) using blood glucose 
+levels. Screening for GDM generally is performed at 
+24–28 weeks of gestation (19). Early pregnancy screen-
+ing for undiagnosed type 2 diabetes, preferably at the 
+initiation of prenatal care, is suggested in over- 
+weight and obese women with additional diabetic risk 
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e51
+cutoff value over another (ie, 130 mg/dL, 135 mg/dL, 
+or 140 mg/dL) for the 1-hour glucose screening test, 
+obstetricians and obstetric care providers may select one 
+of these as a single consistent cutoff for their practice, 
+using factors such as community prevalence rates of 
+GDM when making their decision. 
+Different cutoffs for the 3-hour OGTT also have 
+been proposed. Table 1 (19, 20) lists the diagnostic 
+thresholds established for the 3-hour OGTT by the 
+National Diabetes Data Group and by Carpenter and 
+Coustan, with the latter using lower thresholds that 
+subsequently result in higher rates of GDM diagnosis 
+(20). In the absence of clear comparative trials, one set 
+of diagnostic criteria for the 3-hour OGTT cannot be 
+clearly recommended over the other. For example, in a 
+cross-sectional study that compared the two sets of crite-
+ria in more than 26,000 women found that the diagnosis 
+of GDM increased on average by 50% with the use of 
+the Carpenter and Coustan thresholds (28). However, a 
+study that examined the clinical outcomes showed that 
+the women in whom GDM would have been incremen-
+tally diagnosed by the Carpenter and Coustan criteria 
+alone had higher rates of perinatal complications than the 
+women with values below these diagnostic thresholds 
+(29). Women who have even one abnormal value on the 
+100-g, 3-hour OGTT have a significantly increased risk 
+of adverse perinatal outcomes compared with women 
+without GDM (29). Although a higher level of scrutiny 
+may be focused on this subset of women, further research 
+is needed to clarify the risk of adverse outcomes in 
+patients with one abnormal value on the 100-g, 3-hour 
+OGTT and whether they would benefit from treatment.
+Given the benefits of standardization, practitioners 
+and institutions should select a single set of diagnostic 
+criteria, either plasma or serum glucose levels desig- 
+nated by the Carpenter and Coustan criteria or the 
+Box 1. Screening Strategy for 
+Detecting Pregestational Diabetes or 
+Early Gestational Diabetes Mellitus ^
+Consider testing in all women who are overweight or 
+obese (ie, have a body mass index greater than 25 or 
+greater than 23 in Asian Americans) and have one 
+or more of the following additional risk factors:
+• Physical inactivity
+• First-degree relative with diabetes
+• High-risk race or ethnicity (eg, African American, 
+Latino, Native American, Asian American, Pacific 
+Islander)
+• Have previously given birth to an infant weighing 
+4,000g (approximately 9 lb) or more 
+• Previous gestational diabetes mellitus
+• Hypertension (140/90 mm Hg or on therapy for 
+hypertension)
+• High-density lipoprotein cholesterol level less than 
+35 mg/dL (0.90 mmol/L), a triglyceride level greater 
+than 250 mg/dL (2.82 mmol/L)
+• Women with polycystic ovarian syndrome 
+• A1C greater than or equal to 5.7%, impaired glucose 
+tolerance, or impaired fasting glucose on previous 
+testing
+• Other clinical conditions associated with insulin 
+resistance (eg, prepregnancy body mass index greater 
+than 40 kg/m2, acanthosis nigricans)
+• History of cardiovascular disease
+If pregestational or gestational diabetes mellitus is not 
+diagnosed, blood glucose testing should be repeated at 
+24–28 weeks of gestation.
+Adapted with permission from the American Diabetes Association. 
+Classification and Diagnosis of Diabetes. Diabetes Care 2017;40 
+(Suppl. 1):S11–S24. Copyright 2017 American Diabetes Association.
+Table 1. Proposed Diagnostic Criteria for Gestational Diabetes Mellitus* ^
+ 
+Plasma or Serum Glucose 
+Plasma Level 
+ 
+Level Carpenter and 
+National Diabetes 
+ 
+ 
+Coustan Conversion 
+Data Group Conversion
+Status 
+mg/dL 
+mmol/L 
+mg/dL 
+mmol/L
+Fasting 
+95 
+5.3 
+105 
+5.8
+1 hour 
+180 
+10.0 
+190 
+10.6
+2 hours 
+155 
+8.6 
+165 
+9.2
+3 hours 
+140 
+7.8 
+145 
+8.0
+*A diagnosis generally requires that two or more thresholds be met or exceeded, although some clinicians choose to use 
+just one elevated value. 
+Adapted with permission from the American Diabetes Association. Classification and Diagnosis of Diabetes. Diabetes Care 
+2017;40 (Suppl. 1):S11–S24. Copyright 2017 American Diabetes Association.
+
+e52 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+be studied before they are proposed at a national level. 
+However, individual practices and institutions may 
+choose to use the IADPSG’s recommendation, if appro-
+priate, for the population they serve. 
+ What are the benefits of treating gestational 
+diabetes mellitus? 
+The 2005 Australian Carbohydrate Intolerance Study 
+in Pregnant Women trial, the first large-scale (1,000 
+women), randomized treatment trial for GDM (34) 
+found the treatment was associated with a significant 
+reduction in the rate of the primary outcome, a compos-
+ite of serious newborn complications (perinatal death, 
+shoulder dystocia, and birth trauma, including fracture 
+or nerve palsy). Treatment also reduced preeclampsia 
+(from 18% to 12%) as well as reduced the frequency of 
+infants who were large for gestational age (LGA) (from 
+22% to 13%) and who had a birth weight greater than 
+4,000 g (from 21% to 10%). A subsequent random-
+ized, multicenter treatment trial of 958 women with 
+mild GDM conducted in the United States found that, 
+although there were no differences in the frequency of 
+the primary composite outcome (perinatal death, neo-
+natal hypoglycemia, elevated umbilical cord C-peptide 
+level, and birth trauma), several significant differences 
+in secondary outcomes were observed with treatment, 
+including a lower frequency of LGA infants, lower fre-
+quency of birth weight exceeding 4,000 g, and reduced 
+neonatal fat mass (35). Moreover, the rates of cesarean 
+delivery, shoulder dystocia, and hypertensive disorders 
+were significantly reduced in women who were treated 
+for GDM. A U.S. Preventive Services Task Force sys-
+tematic review underscored the demonstrated benefits 
+of treating GDM and highlighted the reduced risks of 
+preeclampsia, shoulder dystocia, and macrosomia (36). 
+The treatment in such studies has consisted of dietary 
+counseling with specific nutritional approaches (37–39) 
+and exercise (40, 41). Based on this evidence, women in 
+whom GDM is diagnosed should receive nutrition and 
+exercise counseling, and when this fails to adequately 
+control glucose levels, medication should be used for 
+maternal and fetal benefit. It is important to note that 
+in both trials described above, women with elevated 
+glucose values were treated with insulin, not oral agents, 
+when medical nutrition treatment did not control glucose 
+values.
+ How should blood glucose be monitored in a 
+woman with gestational diabetes mellitus? 
+Once a woman with GDM begins nutrition therapy 
+(dietary counseling), surveillance of blood glucose lev-
+els is required to confirm that glycemic control has been 
+plasma levels established by the National Diabetes Data 
+Group, for consistent use within their patient popula-
+tions. Considerations for selection of one set of diag-
+nostic criteria over the other could include, but are not 
+limited to, the baseline prevalence of diabetes in their 
+specific communities and the availability of resources 
+to appropriately manage women in whom GDM will 
+be diagnosed by any given protocol. This approach, 
+although imperfect, avoids establishment of a single set 
+of diagnostic criteria across all populations based on 
+expert opinion alone.
+A one-step approach to establishing the diagnosis 
+of GDM using a 75-g, 2-hour OGTT has been used 
+and promoted by other organizations. For example, in 
+2010, the International Association of Diabetes and 
+Pregnancy Study Group (IADPSG) recommended that 
+a universal 75-g, 2-hour OGTT be performed during 
+pregnancy and that the diagnosis of GDM be established 
+when any single threshold value was met or exceeded 
+(fasting value, 92 mg/dL; 1-hour value, 180 mg/dL; 
+or 2-hour value, 153 mg/dL) (30). Overall, using the 
+proposed IADPSG criteria would identify approxi-
+mately 18% of pregnant women in the United States 
+as having GDM; in some subpopulations, the propor-
+tion of women in whom GDM is diagnosed would be 
+even higher. In 2011, the ADA endorsed these criteria 
+while acknowledging that adopting these cutoffs would 
+significantly increase the prevalence of GDM (31). 
+The additional women in whom GDM would be diag-
+nosed may be at a lower risk of adverse outcomes 
+than and may not derive similar benefits from diag-
+nosis and treatment as women in whom GDM was 
+diagnosed by traditional criteria (32). As of 2017, the 
+ADA continues to recognize that there is an absence of 
+clear evidence that supports the IADPSG-recommended 
+approach versus the more traditional two-step screening 
+approach (20).
+In 2013, a Eunice Kennedy Shriver National Institute 
+of Child Health and Human Development Consensus 
+Development Conference on Diagnosing Gestational 
+Diabetes recommended that obstetricians and obstetric 
+care providers continue to use a two-step approach to 
+screen for and diagnose GDM. The report underscored 
+the lack of evidence that the use of the one-step 75-g, 
+2-hour OGTT to diagnose GDM leads to clinically 
+significant improvements in maternal or newborn out-
+comes and highlighted the significant increase in health 
+care costs that would result (23). Additionally, a 2015 
+Cochrane review supported that no specific screening 
+strategy has been shown to be optimal (33). In light 
+of this, the American College of Obstetricians and 
+Gynecologists (ACOG) supports the two-step process 
+and recommends that implications of suggested changes 
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e53
+demonstrated a reduction in large-for-gestational-age 
+neonates, macrosomia (defined as 4,000 g or more), and 
+neonatal fat mass in neonates born to women random-
+ized to lifestyle interventions (48). Additionally, women 
+randomized to the lifestyle interventions were more 
+likely to meet postpartum weight goals 1 year after preg-
+nancy. Despite these promising findings, the specific 
+dietary and exercise approaches are less well studied.
+The goal of medical nutrition therapy in women 
+with GDM is to achieve normal blood glucose levels, 
+prevent ketosis, provide adequate weight gain, and 
+contribute to appropriate fetal growth and develop-
+ment. The ADA recommends nutritional counseling by 
+a registered dietitian and development of a personal-
+ized nutrition plan based on the individual’s body mass 
+index for all patients with GDM (19). In some clinical 
+settings in which a dietitian is not readily available, a 
+clinician should be able to provide recommendations to 
+the patient based on three major nutritional components: 
+1) caloric allotment, 2) carbohydrate intake, and 3) 
+caloric distribution.
+A diet composed of 50–60% carbohydrates often 
+will result in excessive weight gain and postpran-
+dial hyperglycemia. Therefore, it has been suggested 
+that carbohydrate intake be limited to 33–40% of 
+calories, with the remaining calories divided between 
+protein (20%) and fat (40%) (49); however, the actu-
+al dietary composition that optimizes perinatal out-
+comes is unknown. For example, a randomized trial of 
+99 women with GDM that compared a low-glycemic 
+index nutrition plan with a conventional high-fiber diet 
+found that both produced similar pregnancy outcomes 
+(39). A small, recent randomized trial demonstrated 
+that women with GDM randomized to a complex car-
+bohydrate diet had lower fasting glucose values as 
+compared with those on a conventional diet (50). Given 
+these findings and the results of other treatment trials, 
+complex carbohydrates are recommended over simple 
+carbohydrates because they are digested more slowly, 
+are less likely to produce significant postprandial hyper-
+glycemia, and potentially reduce insulin resistance (38). 
+There is little evidence evaluating or supporting differ-
+ent dietary approaches to the treatment of GDM (37). 
+In practice, three meals and two to three snacks are 
+recommended to distribute carbohydrate intake and to 
+reduce postprandial glucose fluctuations.
+Although there are multiple randomized trials that 
+have examined exercise and lifestyle interventions in 
+adults with diabetes who are not pregnant, there are 
+few published exercise trials in women with GDM. 
+Even though most of these published trials have small 
+sample sizes, they do appear to show improvement 
+in glucose levels (40, 51–54). In adults with diabetes 
+established. However, there is insufficient evidence to 
+define the optimal frequency of blood glucose testing 
+in women with GDM. Based on the data available, the 
+general recommendation is for daily glucose monitoring 
+four times a day, once after fasting and again after each 
+meal.
+Mean fasting glucose values may be useful for 
+managing diabetes in pregnant women because they are 
+predictive of increased neonatal fat mass in the women’s 
+offspring. Neonatal fat mass has been shown to be 
+associated with the development of childhood obe-
+sity and diabetes (42). Another study, a randomized 
+controlled trial that compared the value of prepran-
+dial versus postprandial measurements for blood glu- 
+cose monitoring of women with GDM, showed that use 
+of the 1-hour postprandial measurement was associated 
+with better glycemic control, a lower incidence of LGA 
+infants, and lower rates of cesarean delivery for cepha-
+lopelvic disproportion (43). Given this evidence, fasting 
+and postprandial values should be used for monitor- 
+ing blood glucose in women with GDM. Assessment of 
+postprandial blood glucose can be undertaken at either 
+1 hour or 2 hours after meals. No study to date has 
+demonstrated the superiority of either approach (44–46), 
+and this may be because postprandial glucose peaks 
+at approximately 90 minutes, between the two time 
+points (47). 
+Once the patient’s glucose levels are well controlled 
+by diet, the frequency of glucose monitoring may be 
+modified depending on gestational age, overall concerns 
+for adherence, and likely need for future adjustments to 
+care. It is unusual to recommend obtaining fewer than 
+two measurements per day.
+In addition, no controlled trials have been per-
+formed to identify optimal glycemic targets. The ADA 
+and ACOG recommend that fasting or preprandial 
+blood glucose values be below 95 mg/dL and post-
+prandial blood glucose values be below 140 mg/dL at 
+1 hour or 120 mg/dL at 2 hours to reduce the risk of 
+macrosomia (19). Generally, these values are reviewed 
+weekly; however, when there are many abnormal val-
+ues, more frequent review is common. Alternatively, 
+with stable, normal values, less frequent review is 
+acceptable.
+ What nonpharmacologic treatments are 
+effective in managing gestational diabetes 
+mellitus? 
+Most commonly, GDM management begins with the 
+nonpharmacologic approaches of dietary modifications, 
+exercise, and glucose monitoring. A recent meta-analysis 
+of lifestyle modification trials in women with GDM 
+
+e54 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+intermediate-acting insulin, NPH insulin has been the 
+mainstay, but more recently insulin glargine and insulin 
+detemir have been described for long-acting use (57–
+59). For short-acting insulin, insulin analogues—includ-
+ing insulin lispro and insulin aspart—have been used 
+in pregnancy, and these insulin analogues do not cross 
+the placenta. Insulin lispro and insulin aspart should be 
+used preferentially over regular insulin because both 
+have a more rapid onset of action, enabling the patient 
+to administer her insulin right at the time of a meal 
+rather than 10–15 minutes before an anticipated meal. 
+This provides better glycemic control and helps avoid 
+hypoglycemic episodes from errors in timing (60, 61) 
+(Table 2).
+Oral Antidiabetic Medications
+Oral antidiabetic medications (eg, metformin and gly-
+buride) increasingly are being used among women with 
+GDM, despite the fact that they have not been approved 
+by the U.S. Food and Drug Administration for this indi-
+cation (62) and even though insulin continues to be the 
+ADA-recommended first-line therapy (19). 
+Metformin is a biguanide that inhibits hepatic 
+gluconeogenesis and glucose absorption and stimu-
+lates glucose uptake in peripheral tissues. Historically, 
+metformin primarily has been used in women with pre-
+gestational diabetes or those with polycystic ovary syn-
+drome and infertility. In women with polycystic ovary 
+syndrome, metformin is often continued until the end 
+of the first trimester, despite only limited evidence to 
+suggest that such use decreases the risks of adverse 
+pregnancy outcomes, including first-trimester loss (63). 
+Metformin crosses the placenta with levels that can 
+be as high as maternal concentrations. The long-term 
+metabolic influence on the offspring is unknown (64); 
+however, one recent study found similar developmental 
+outcomes by 2 years of age (65). This concern about the 
+who are not pregnant, exercise—particularly weight 
+training—increases lean muscle mass and improves tis-
+sue sensitivity to insulin. In overweight or obese women 
+with GDM, exercise also may be able to improve glyce-
+mic control. Therefore, a moderate exercise program is 
+recommended as part of the treatment plan for women 
+with GDM (19). Such a plan should mirror diabetes 
+care in general, and women with GDM should aim for 
+30 minutes of moderate-intensity aerobic exercise at 
+least 5 days a week or a minimum of 150 minutes 
+per week (31). Simple exercise such as walking for 
+10–15 minutes after each meal can lead to improved 
+glycemic control and is commonly recommended (55).
+ What pharmacologic treatments are effective 
+in managing gestational diabetes mellitus? 
+Pharmacologic treatment is recommended when target 
+glucose levels cannot be consistently achieved through 
+nutrition therapy and exercise. However, a system-
+atic review found no conclusive evidence for a spe-
+cific threshold value at which medical therapy should 
+be started (56). Insulin historically has been considered 
+the standard therapy for GDM management in cases 
+refractory to nutrition therapy and exercise and this has 
+continued to be reinforced by the ADA (19). 
+Insulin, which does not cross the placenta, can 
+achieve tight metabolic control and traditionally has 
+been added to nutrition therapy if fasting blood glucose 
+levels consistently are greater than or equal to 95 mg/dL, 
+if 1-hour levels consistently are greater than or equal to 
+140 mg/dL, or if 2-hour levels consistently are greater 
+than or equal to 120 mg/dL. These thresholds largely have 
+been extrapolated from recommendations for managing 
+pregnancy in women with preexisting diabetes. If insulin 
+is used throughout the day in women in whom fasting 
+and postprandial hyperglycemia are present after most 
+meals, a typical starting total dosage is 0.7–1.0 units/kg 
+daily. This dosage should be divided with a regimen of 
+multiple injections using long-acting or intermediate-
+acting insulin in combination with short-acting insulin. 
+However, if there are only isolated abnormal values 
+at a specific time of day, focusing the insulin regimen 
+to correct the specific hyperglycemia is preferred. For 
+example, in women with only elevated fasting values, 
+nighttime administration of intermediate-acting insulin, 
+such as NPH insulin, may be adequate. Similarly, in 
+women with elevated values only for breakfast postpran-
+dial, short-acting insulin before breakfast may be the 
+only insulin needed. Regardless of the starting dosage, 
+subsequent dosage adjustments should be individual-
+ized according to the woman’s monitored blood glucose 
+levels at particular times of the day. For long-acting and 
+Table 2. Action Profile of Commonly Used Insulin Agents ^
+ 
+Onset of 
+Peak of 
+Duration of 
+Type 
+Action 
+Action (h) 
+Action (h)
+Insulin lispro 
+1–15 min 
+1–2 
+4–5 
+Insulin aspart 
+1–15 min 
+1–2 
+4–5 
+Regular insulin 
+30–60 min 
+2–4 
+6–8 
+Isophane insulin 
+1–3 h 
+5–7 
+13–18 
+suspension 
+(NPH insulin)
+Insulin glargine 
+1–2 h 
+No peak 
+24 
+Insulin detemir 
+1–3 h 
+Minimal peak 
+18–26 
+ 
+ 
+at 8–10
+Modified from Gabbe SG, Graves CR. Management of diabetes mellitus compli-
+cating pregnancy. Obstet Gynecol 2003;102:857–68.
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e55
+twice daily. Because metformin generally is not used in 
+patients with chronic renal disease, creatinine often is 
+checked at baseline to ensure adequate renal function. 
+The most common adverse effects of metformin are 
+abdominal pain and diarrhea, which are minimized by 
+slowly increasing the dosage. Such adverse effects were 
+reported in 2.5–45.7% of patients enrolled in studies 
+of metformin in pregnancy (68), and it is common to 
+recommend taking the medication with meals to reduce 
+symptoms. If higher doses are needed, the maximum 
+dose is usually 2,500–3,000 mg per day in two to three 
+divided doses. In women who decline insulin therapy or 
+who the obstetricians or obstetric care providers believe 
+will be unable to safely administer insulin, or for women 
+who cannot afford insulin, metformin is a reasonable 
+alternative choice.
+Glyburide is a sulfonylurea that binds to pancre-
+atic beta-cell adenosine triphosphate potassium chan-
+nel receptors to increase insulin secretion and insulin 
+sensitivity of peripheral tissues. It should not be used 
+in patients who report a sulfa allergy. Previous meta-
+analyses have noted increased risks of macrosomia and 
+hypoglycemia with glyburide compared with insulin in 
+the treatment of GDM (66, 67); whereas a more recent 
+meta-analysis only demonstrated higher rates of neonatal 
+hypoglycemia (72). These worse outcomes are despite 
+the fact that individual trials comparing glyburide 
+with insulin failed to show any significant difference 
+in degree of glycemic control (73–75). Observational 
+studies have reported higher rates of preeclampsia, 
+hyperbilirubinemia, and stillbirth with use of glyburide 
+as compared with insulin, but many other outcomes have 
+not been statistically significantly different (62, 76–81). 
+The common dosage of glyburide is 2.5–20 mg daily in 
+divided doses, although pharmacokinetic studies during 
+pregnancy indicate daily doses up to 30 mg may be nec-
+essary to achieve adequate control (82). Additionally, 
+4–16% (or more) women required the addition of insulin 
+to maintain good glycemic control when glyburide was 
+used as initial treatment (73, 77, 83, 84). Despite the 
+increased use of glyburide over the past decade (62), the 
+evidence indicates that glyburide treatment should not be 
+recommended as a first-choice pharmacologic treatment 
+because, in most studies, it does not yield equivalent 
+outcomes to insulin or metformin.
+Concerns also have been raised about the safety of 
+oral antidiabetic agents during pregnancy. For exam-
+ple, although an initial study that analyzed umbilical 
+cord blood revealed no detectable glyburide in exposed 
+pregnancies (73), a subsequent study demonstrated that 
+glyburide does cross the placenta (82). As mentioned 
+previously, metformin also has been found to freely cross 
+the placenta, and the fetus is exposed to concentrations 
+fetal exposure to metformin and the absence of long-
+term neonatal follow-up after in-utero metformin expo-
+sure is one reason the ADA continues to recommend that 
+when pharmacologic treatment of GDM is indicated, 
+insulin is considered the preferred treatment for diabetes 
+in pregnancy (19).
+In one large trial, 751 women with GDM were ran-
+domly assigned to receive insulin therapy or metformin 
+(plus insulin if needed). Both groups experienced similar 
+rates of a composite outcome of perinatal morbidity, 
+consisting of neonatal hypoglycemia, respiratory dis-
+tress, need for phototherapy, birth trauma, prematurity, 
+and low Apgar scores (66). In another prospective trial, 
+women randomized to metformin had lower mean glu-
+cose levels, less gestational weight gain, and neonates 
+with lower rates of hypoglycemia than those randomized 
+to insulin (67). 
+Meta-analyses comparing metformin to insulin have 
+been conflicting dependent upon whether unpublished 
+studies or women with type II diabetes mellitus are 
+included. In an initial meta-analysis that included only 
+published data, the differences between neonates deliv-
+ered to women randomized to metformin versus insulin 
+were minimal (68, 69). Yet, women randomized to met-
+formin experienced a higher rate of preterm birth (risk 
+ratio [RR], 1.5), but a lower rate of gestational hyperten-
+sion (RR, 0.53) (68). 
+In a recent meta-analysis that included unpublished 
+trials, a network meta-analysis was performed (70). This 
+method combines information across multiple treatments 
+simultaneously with the analysis of direct evidence 
+(which comes from studies directly randomizing treat-
+ments of interest) and indirect evidence (which comes 
+from studies comparing treatments of interest with a 
+common comparator). The effect size did not demon-
+strate superiority when metformin was compared with 
+insulin on the outcomes of large for gestational age, 
+macrosomia, neonatal hypoglycemia, or cesarean deliv-
+ery. Interestingly, in the dichotomous meta-analysis 
+performed, no difference in preterm delivery was dem-
+onstrated (RR 1.37, 95%; CI 0.62–3.01). A subsequent 
+meta-analysis with trials that included women with type 
+II diabetes and GDM also noted no increase in preterm 
+delivery (71). Thus, although metformin may be a rea-
+sonable alternative approach to treat gestational diabetes, 
+it is important to counsel women about the lack of supe-
+riority when compared with insulin, the placental transfer 
+of the drug, and the absence of long-term data in exposed 
+offspring. Additionally, in the aforementioned prospec-
+tive trials, between 26% and 46% of women who took 
+metformin alone eventually required insulin (66, 67). 
+The dosage for metformin usually starts at 500 mg 
+nightly for 1 week at initiation, then increases to 500 mg 
+
+e56 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+GDM with poor glycemic control. Additionally, because 
+those women who are treated medically with insulin or 
+oral agents had suboptimal glycemic control at some 
+time, fetal surveillance usually is recommended for 
+these patients as well (87). Antenatal fetal testing in 
+women with poorly controlled or medication-requiring 
+GDM without other morbidities usually is initiated at 
+32 weeks of gestation. If other factors associated with 
+increased risk of adverse pregnancy outcome are pres-
+ent, it may be reasonable to start surveillance earlier in 
+pregnancy. 
+Studies have not specifically demonstrated an 
+increase in stillbirth with well-controlled A1GDM before 
+40 weeks of gestation. Thus, antepartum fetal testing may 
+not be necessary in these women. There is no consensus 
+regarding antepartum fetal testing among women with 
+well-controlled GDM who are not medically treated 
+(A1GDM). If antepartum testing is to be used in such 
+patients, it is generally started later than in women with 
+A2GDM. The specific antepartum test and frequency 
+of testing may be chosen according to local practice; 
+however, because polyhydramnios can result from fetal 
+hyperglycemia, it is common for clinicians to use testing 
+that incorporates serial measures of amniotic fluid.
+ What are delivery considerations in 
+pregnancies complicated by gestational 
+diabetes mellitus? 
+Women with GDM with good glycemic control and no 
+other complications are commonly managed expectantly 
+until term (88, 89). In most cases, women with good 
+glycemic control who are receiving medical therapy 
+do not require delivery before 39 weeks of gestation. 
+The recent GINEXMAL trial of GDM-only patients 
+randomized women to induction of labor at 38 weeks 
+of gestation versus expectant management up to 
+41 weeks of gestation (90). Although the study did not 
+achieve its intended sample size, there was no difference 
+in cesarean delivery rates (12.6% versus 11.8%, P=.81) 
+or many other outcomes. There was, however, a higher 
+rate of hyperbilirubinemia in the induced group (10.0% 
+versus 4.1%, P=.03). In a randomized trial in which 
+women with insulin-treated GDM and fetuses believed 
+to be of appropriate weight for gestational age were ran-
+domized at 38 weeks of gestation to induction of labor 
+within 1 week or expectant management, there was no 
+difference in cesarean delivery rates (91). However, 
+there was a smaller proportion of LGA infants in the 
+induction group. Furthermore, a multiple time series 
+cohort study showed that there were no significant 
+differences in either macrosomia or cesarean delivery 
+rates among women with insulin-treated GDM who 
+similar to maternal levels (85). Theoretic concerns include 
+the potential effects of in utero metformin exposure on 
+long-term glucose homeostasis of developing offspring. 
+It also is not yet known whether oral antidiabetic medi-
+cations affect the progression to type 2 diabetes later 
+in life in women who were treated during pregnancy. 
+A recent Cochrane meta-analysis, reporting data on 
+7,381 women, that compared insulin versus any type of 
+oral antidiabetic pharmacological therapies noted similar 
+effects on health outcomes. This investigation combined 
+women taking either metformin, glyburide, or both, and 
+acarbose (86). Individually these oral antidiabetic medica-
+tions have been noted to have different clinical efficacies 
+on maternal and neonatal outcomes with diverse safety 
+profiles, hence pooling these trials may have a confound-
+ing effect limiting the conclusions drawn from this meta-
+analysis. Although current data demonstrate no adverse 
+short-term effects on maternal or neonatal health from 
+oral antidiabetic therapy during pregnancy, long-term 
+outcomes are not yet available. Thus, health care provid-
+ers should counsel women of the limitations in safety data 
+when prescribing oral agents to women with GDM.
+Taking into account that oral antidiabetic medi-
+cations are not approved by the U.S. Food and Drug 
+Administration for the treatment of GDM, cross the 
+placenta, and lack long-term neonatal safety data; and 
+considering that summaries of the current medical lit-
+erature note poor trial quality while not being designed 
+to assess equivalence or noninferiority when comparing 
+oral agents to insulin; insulin is considered the preferred 
+treatment when pharmacologic treatment of GDM is 
+indicated. Although this recommendation aligns with 
+the ADA recommendation, ACOG recognizes that clini-
+cal situations may occur that necessitate the use of oral 
+agents. As aforementioned, in women who decline insu-
+lin or who the obstetricians or obstetric care providers 
+believe will be unable to safely administer insulin, or 
+for women who cannot afford insulin, metformin (and 
+rarely glyburide) is a reasonable alternative choice in the 
+context of discussing with the patient the limitations of 
+the safety data and a high rate of treatment failure that 
+requires insulin supplementation.
+ Is fetal assessment indicated in pregnancies 
+complicated by gestational diabetes mellitus? 
+Antepartum fetal testing is recommended for patients 
+with pregestational diabetes. Because the increased risk 
+of fetal demise in patients with pregestational diabetes 
+is related to suboptimal glycemic control, it would be 
+expected that women with GDM who have poor glyce-
+mic control also would be at increased risk. Therefore, 
+fetal surveillance may be beneficial for women with 
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e57
+LGA at birth (100). Additionally, in women whose 
+fetuses received an LGA diagnosis, the risk of cesar-
+ean delivery was increased independent of actual birth 
+weight. It has been estimated that up to 588 cesarean 
+deliveries would be needed to prevent a single case of 
+permanent brachial plexus palsy for an estimated fetal 
+weight of 4,500 g, and up to 962 cesarean deliveries 
+would be needed for an estimated fetal weight of 4,000 g 
+(101, 102). Based on the available data, it is not possible 
+to determine whether the potential benefits of planned 
+cesarean delivery at a given estimated fetal weight are 
+similar for women with GDM and women with pre-
+existing diabetes. Therefore, it appears reasonable to 
+recommend that women with GDM should be counseled 
+regarding the risks and benefits of a scheduled cesarean 
+delivery when the estimated fetal weight is 4,500 g or 
+more (103).
+ How should women with a history of gesta-
+tional diabetes mellitus be screened and 
+counseled postpartum? 
+Although the carbohydrate intolerance of GDM fre-
+quently resolves after delivery, up to one third of 
+affected women will have diabetes or impaired glucose 
+metabolism at postpartum screening. It has been esti-
+mated that between 15% and 70% will develop diabe-
+tes (predominantly type 2) later in life (8, 104–107). 
+Another study showed that women with a history of 
+GDM have a sevenfold increased risk of developing 
+type 2 diabetes compared with women without a history 
+of GDM (108). Therefore, screening at 4–12 weeks post-
+partum is recommended for all women who had GDM to 
+identify women with diabetes, impaired fasting glucose 
+levels, or impaired glucose tolerance (IGT) (Fig. 1) 
+(19). A fasting plasma glucose test and the 75-g, 2-hour 
+OGTT have been used for diagnosing overt diabetes 
+in the postpartum period. Although the fasting plasma 
+glucose test is easier to perform, it lacks sensitivity for 
+detecting other forms of abnormal glucose metabolism. 
+Results of the OGTT can confirm an impaired fasting 
+glucose level and impaired glucose tolerance. Therefore, 
+the Fifth International Workshop on Gestational Diabetes 
+Mellitus recommends that women with GDM undergo a 
+75-g, 2-hour OGTT in the postpartum period (109). This 
+usually should include a fasting plasma glucose as well. 
+All women who had GDM should follow up with 
+a primary care physician. Additionally, women with 
+impaired fasting glucose, IGT, or diabetes should be 
+referred for preventive or medical therapy. Women with 
+impaired fasting glucose or IGT may respond to life-
+style modification and pharmacologic interventions to 
+decrease incident diabetes. Women with frank diabetes 
+underwent induction of labor at 38–39 weeks of gestation 
+when compared with expectantly managed historic con- 
+trols (92). Shoulder dystocia was experienced by 10% 
+of the expectant management group after more than 
+40 weeks of gestation versus 1.4% in the group with 
+labor induction at 38–39 weeks of gestation. A systemat-
+ic review later confirmed these findings (93). However, 
+a recent study that compared induction of labor before 
+40 weeks of gestation with expectant management dem-
+onstrated a reduction in cesarean delivery among women 
+with GDM who were induced (94). A decision analysis 
+demonstrated that delivery of women with GDM at 
+38 weeks or 39 weeks of gestation would reduce overall 
+perinatal mortality without increasing cesarean delivery 
+rates (95). Although persuasive, these data have not 
+been confirmed by large randomized trials. Therefore, 
+the timing of delivery in women with GDM that is 
+controlled with only diet and exercise (A1GDM) should 
+not be before 39 weeks of gestation, unless otherwise 
+indicated. In such women, expectant management up to  
+40 6/7 weeks of gestation in the setting of indicated 
+antepartum testing is generally appropriate. For women 
+with GDM that is well controlled by medications 
+(A2GDM), delivery is recommended from 39 0/7 weeks 
+to 39 6/7 weeks of gestation.
+In contrast, expert opinion has supported earlier 
+delivery for women with poorly controlled GDM (88, 
+89). But clear guidance about the degree of glycemic 
+control that necessitates earlier delivery is lacking, and 
+the recommendations about timing of delivery lack spe-
+cific guidance as well (96). In light of this, consideration 
+of timing should incorporate tradeoffs between the risks 
+of prematurity and the ongoing risks of stillbirth. In such 
+a setting, delivery between 37 0/7 weeks and 38 6/7 
+weeks of gestation may be justified, but delivery in the 
+late preterm period from 34 0/7 weeks to 36 6/7 weeks of 
+gestation should be reserved for those women who fail 
+in-hospital attempts to improve glycemic control or who 
+have abnormal antepartum fetal testing. 
+Because macrosomia is distinctly more common 
+in women with GDM and because shoulder dystocia 
+is more likely at any given fetal weight in pregnancies 
+complicated by diabetes than in pregnancies not compli-
+cated by diabetes (97–99), it is reasonable for clinicians 
+to assess fetal growth by ultrasonography or by clinical 
+examination late in the third trimester to attempt to iden-
+tify macrosomia among women with GDM. However, 
+data are insufficient to determine whether cesarean 
+delivery should be performed to reduce the risk of birth 
+trauma in cases of suspected macrosomia. Although 
+the use of ultrasonography to estimate fetal weight is 
+common, one recent study found that among cases of 
+ultrasonography-diagnosed LGA infants, only 22% were 
+
+e58 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+The following recommendations and conclusions 
+are based on limited or inconsistent scientific 
+evidence (Level B):
+ All pregnant women should be screened for GDM 
+with a laboratory-based screening test(s) using 
+blood glucose levels. 
+ In women who decline insulin therapy or who the 
+obstetricians or other obstetric care providers 
+believe will be unable to safely administer insulin, 
+or for women who cannot afford insulin, metformin 
+is a reasonable alternative choice. 
+ Glyburide treatment should not be recommended as 
+a first-choice pharmacologic treatment because, in 
+most studies, it does not yield equivalent outcomes 
+to insulin. 
+ Health care providers should counsel women of the 
+limitations in safety data when prescribing oral 
+agents to women with GDM.
+ Women with GDM should be counseled regarding 
+the risks and benefits of a scheduled cesarean deliv-
+ery when the estimated fetal weight is 4,500 g or 
+more. 
+The following recommendations and conclusions 
+are based primarily on consensus and expert 
+opinion (Level C):
+benefit from ongoing intensive medical therapy. The 
+ADA and ACOG recommend repeat testing every 
+1–3 years for women who had a pregnancy affected by 
+GDM and normal postpartum screening test results (19).
+For women who may have subsequent pregnan-
+cies, screening more frequently between pregnancies 
+can detect abnormal glucose metabolism before fer-
+tilization and provides an opportunity to ensure pre-
+pregnancy glucose control (109). Women should be 
+encouraged to discuss their GDM history and need 
+for screening with their obstetricians or obstetric care 
+providers.
+Summary of 
+Recommendations and 
+Conclusions
+The following recommendations and conclusions 
+are based on good and consistent scientific 
+evidence (Level A):
+ Women in whom GDM is diagnosed should receive 
+nutrition and exercise counseling, and when this 
+fails to adequately control glucose levels, medica-
+tion should be used for maternal and fetal benefit.
+ When pharmacologic treatment of GDM is indicat-
+ed, insulin is considered the preferred treatment for 
+diabetes in pregnancy. 
+Figure 1. Management of postpartum screening results. Abbreviations: FPG, fasting plasma glucose; OGTT, oral glucose tolerance 
+test; IGT, impaired glucose tolerance. ^
+Gestational diabetes
+FPG or 75-g, 2-hr OGTT at 4–12 weeks postpartum
+FPG >125 mg/dL or
+2-hr glucose >199 mg/dL
+FPG <100 mg/dL or
+2-hr glucose <140 mg/dL
+FPG 100–125 mg/dL or
+2-hr glucose 140–199 mg/dL
+Impaired fasting glucose or IGT or both
+Diabetes mellitus
+Normal
+Consider referral for management
+Weight loss and physical activity 
+counseling as needed
+Consider metformin if combined 
+impaired fasting glucose and IGT
+Medical nutrition therapy
+Yearly assessment of glycemic status
+Assess glycemic status every 1–3 years
+Weight loss and physical activity 
+counseling as needed
+Refer for diabetes management
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e59
+For More Information
+The American College of Obstetricians and Gynecol-
+ogists has identified additional resources on topics 
+related to this document that may be helpful for ob-
+gyns, other health care providers, and patients. You 
+may view these resources at www.acog.org/More-Info/
+GestationalDiabetes.
+These resources are for information only and are not 
+meant to be comprehensive. Referral to these resources 
+does not imply the American College of Obstetricians 
+and Gynecologists’ endorsement of the organization, the 
+organization’s website, or the content of the resource. 
+These resources may change without notice.
+References
+ 
+1. Correa A, Bardenheier B, Elixhauser A, Geiss LS, Gregg 
+E. Trends in prevalence of diabetes among delivery hos-
+pitalizations, United States, 1993-2009. Matern Child 
+Health J 2015;19:635-42. (Level II-3) ^
+ 
+2. Caughey AB, Cheng YW, Stotland NE, Washington AE, 
+Escobar GJ. Maternal and paternal race/ethnicity are 
+both associated with gestational diabetes. Am J Obstet 
+Gynecol 2010;202:616.e1–5. (Level II-3) ^
+ 
+3. Bouthoorn SH, Silva LM, Murray SE, Steegers EA, 
+Jaddoe VW, Moll H, et al. Low-educated women have 
+an increased risk of gestational diabetes mellitus: the 
+Generation R Study. Acta Diabetol 2015;52:445–52. 
+(Level II-3) ^
+ 
+4. Yogev Y, Xenakis EM, Langer O. The association 
+between preeclampsia and the severity of gestational 
+diabetes: the impact of glycemic control. Am J Obstet 
+Gynecol 2004;191:1655–60. (Level II-3) ^
+ 
+5. Ehrenberg HM, Durnwald CP, Catalano P, Mercer 
+BM. The influence of obesity and diabetes on the risk 
+of cesarean delivery. Am J Obstet Gynecol 2004;191: 
+969–74. (Level II-3) ^
+ 
+6. England LJ, Dietz PM, Njoroge T, Callaghan WM, 
+Bruce C, Buus RM, et al. Preventing type 2 diabetes: 
+public health implications for women with a history 
+of gestational diabetes mellitus. Am J Obstet Gynecol 
+2009;200:365.e1–8. (Level III) ^
+ 
+7. O’Sullivan JB. Body weight and subsequent diabetes 
+mellitus. JAMA 1982;248:949–52. (Level II-3) ^
+ 
+8. Kim C, Newton KM, Knopp RH. Gestational diabetes 
+and the incidence of type 2 diabetes: a systematic review. 
+Diabetes Care 2002;25:1862–8. (Systematic Review) ^
+ 
+9. Kjos SL, Peters RK, Xiang A, Henry OA, Montoro 
+M, Buchanan TA. Predicting future diabetes in Latino 
+women with gestational diabetes. Utility of early post-
+partum glucose tolerance testing. Diabetes 1995;44: 
+586–91. (Level II-3) ^
+ 10. Rosenstein MG, Cheng YW, Snowden JM, Nicholson 
+JM, Doss AE, Caughey AB. The risk of stillbirth and 
+infant death stratified by gestational age in women with 
+ In the absence of clear evidence that supports one 
+cutoff value over another (ie, 130 mg/dL, 135 mg/
+dL, or 140 mg/dL) for the 1-hour glucose screening 
+test, obstetricians and obstetric care providers may 
+select one of these as a single consistent cutoff for 
+their practice, using factors such as community prev-
+alence rates of GDM when making their decision.
+ In the absence of clear comparative trials, one set of 
+diagnostic criteria for the 3-hour OGTT cannot be 
+clearly recommended over the other. Given the ben-
+efits of standardization, practitioners and institutions 
+should select a single set of diagnostic criteria, 
+either plasma or serum glucose levels designated by 
+the Carpenter and Coustan criteria or the plasma 
+levels established by the National Diabetes Data 
+Group, for consistent use within their patient popu-
+lations. 
+ Once a woman with GDM begins nutrition therapy 
+(dietary counseling), surveillance of blood glucose 
+levels is required to confirm that glycemic control 
+has been established. 
+ In practice, three meals and two to three snacks are 
+recommended to distribute carbohydrate intake and 
+to reduce postprandial glucose fluctuations.
+ Women with GDM should aim for 30 minutes of 
+moderate-intensity aerobic exercise at least 5 days a 
+week or a minimum of 150 minutes per week.
+ The timing of delivery in women with GDM that is 
+controlled with only diet and exercise (A1GDM) 
+should not be before 39 weeks of gestation, unless 
+otherwise indicated. In such women, expectant 
+management up to 40 6/7 weeks of gestation in the 
+setting of indicated antepartum testing is general-
+ly appropriate. 
+ For women with GDM that is well controlled by 
+medications (A2GDM), delivery is recommended at 
+39 0/7 to 39 6/7 weeks of gestation.
+ Screening at 4–12 weeks postpartum is recommend-
+ed for all women who had GDM to identify women 
+with diabetes, impaired fasting glucose levels, or 
+impaired glucose tolerance. Women with impaired 
+fasting glucose, IGT, or diabetes should be referred 
+for preventive or medical therapy. The ADA and 
+ACOG recommend repeat testing every 1–3 years 
+for women who had a pregnancy affected by GDM 
+and normal postpartum screening test results.
+ Women with GDM should be counseled regarding 
+the risks and benefits of a scheduled cesarean deliv-
+ery when the estimated fetal weight is 4,500 g or 
+more.
+
+e60 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+ 24. Esakoff TF, Cheng YW, Caughey AB. Screening for 
+gestational diabetes: different cut-offs for different 
+ethnicities? Am J Obstet Gynecol 2005;193:1040–4. 
+(Level II-3) ^
+ 25. Rumbold AR, Crowther CA. Women’s experiences of 
+being screened for gestational diabetes mellitus. Aust N 
+Z J Obstet Gynaecol 2002;42:131–7. (Level II-3) ^
+ 26. Lydon K, Dunne FP, Owens L, Avalos G, Sarma KM, 
+O’Connor C, et al. Psychological stress associated 
+with diabetes during pregnancy: a pilot study. Ir Med J 
+2012;105:26–8. (Level II-3) ^
+ 27. Dalfra MG, Nicolucci A, Bisson T, Bonsembiante B, 
+Lapolla A. Quality of life in pregnancy and post-partum: 
+a study in diabetic patients. QLISG (Quality of Life 
+Italian Study Group). Qual Life Res 2012;21:291–8. 
+(Level II-3) ^
+ 28. Ferrara A, Hedderson MM, Quesenberry CP, Selby JV. 
+Prevalence of gestational diabetes mellitus detected 
+by the national diabetes data group or the Carpenter 
+and Coustan plasma glucose thresholds. Diabetes Care 
+2002;25:1625–30. (Level II-3) ^
+ 29. Cheng YW, Block-Kurbisch I, Caughey AB. Carpenter-
+Coustan criteria compared with the national diabetes 
+data group thresholds for gestational diabetes mellitus. 
+Obstet Gynecol 2009;114:326–32. (Level II-3) ^
+ 30. Metzger BE, Gabbe SG, Persson B, Buchanan TA, 
+Catalano PA, Damm P, et al. International Association 
+of Diabetes and Pregnancy Study Groups recommenda-
+tions on the diagnosis and classification of hyperglyce-
+mia in pregnancy. International Association of Diabetes 
+and Pregnancy Study Groups Consensus Panel. Diabetes 
+Care 2010;33:676–82. (Level III) ^
+ 31. Standards of medical care in diabetes—2011. American 
+Diabetes Association. Diabetes Care 2011;34(suppl 1): 
+S11–61. (Level III) ^
+ 32. Horvath K, Koch K, Jeitler K, Matyas E, Bender R, 
+Bastian H, et al. Effects of treatment in women with 
+gestational diabetes mellitus: systematic review and 
+meta-analysis. BMJ 2010;340:c1395. (Meta-analysis) ^
+ 33. Farrar D, Duley L, Medley N, Lawlor DA. Different 
+strategies for diagnosing gestational diabetes to improve 
+maternal and infant health. Cochrane Database of 
+Systematic Reviews 2015, Issue 1. Art. No.: CD007122. 
+(Meta-analysis) ^
+ 34. Crowther CA, Hiller JE, Moss JR, McPhee AJ, Jeffries 
+WS, Robinson JS. Effect of treatment of gestational 
+diabetes mellitus on pregnancy outcomes.  Australian 
+Carbohydrate Intolerance Study in Pregnant Women 
+(ACHOIS) Trial Group. N Engl J Med 2005;352: 
+2477–86. (Level I) ^
+ 35. Landon MB, Spong CY, Thom E, Carpenter MW, 
+Ramin SM, Casey B, et al. A multicenter, randomized 
+trial of treatment for mild gestational diabetes.  Eunice 
+Kennedy Shriver National Institute of Child Health and 
+Human Development Maternal-Fetal Medicine Units 
+Network. N Engl J Med 2009;361:1339–48. (Level I) ^
+ 36. Hartling L, Dryden DM, Guthrie A, Muise M, 
+Vandermeer B, Donovan L. Benefits and harms of treat-
+ing gestational diabetes mellitus: a systematic review 
+gestational diabetes. Am J Obstet Gynecol 2012;206:309.
+e1–7. (Level II-3) ^
+ 11. Metzger BE, Lowe LP, Dyer AR, Trimble ER, 
+Chaovarindr U, Coustan DR, et al. Hyperglycemia and 
+adverse pregnancy outcomes. HAPO Study Cooperative 
+Research Group. N Engl J Med 2008;358:1991–2002. 
+(Level II-3) ^
+ 12. Dabelea D, Hanson RL, Lindsay RS, Pettitt DJ, 
+Imperatore G, Gabir MM, et al. Intrauterine exposure to 
+diabetes conveys risks for type 2 diabetes and obesity: a 
+study of discordant sibships. Diabetes 2000;49:2208–11. 
+(Level II-2) ^
+ 13. Clausen TD, Mathiesen ER, Hansen T, Pedersen O, 
+Jensen DM, Lauenborg J, et al. Overweight and the 
+metabolic syndrome in adult offspring of women 
+with diet-treated gestational diabetes mellitus or type 1 
+diabetes. J Clin Endocrinol Metab 2009;94:2464–70. 
+(Level II-3) ^
+ 14. O’Sullivan JB, Mahan CM, Charles D, Dandrow RV. 
+Screening criteria for high-risk gestational diabetic 
+patients. Am J Obstet Gynecol 1973;116:895–900. 
+(Level II-3) ^
+ 15. Gabbe SG, Gregory RP, Power ML, Williams SB, 
+Schulkin J. Management of diabetes mellitus by obstetri-
+cian-gynecologists. Obstet Gynecol 2004;103:1229–34. 
+(Level III) ^
+ 16. Moyer VA. Screening for gestational diabetes mellitus: 
+U.S. Preventive Services Task Force recommendation 
+statement. U.S. Preventive Services Task Force. Ann 
+Intern Med 2014;160:414–20. (Level III) ^
+ 17. Coustan DR, Nelson C, Carpenter MW, Carr SR, 
+Rotondo L, Widness JA. Maternal age and screening for 
+gestational diabetes: a population-based study. Obstet 
+Gynecol 1989;73:557–61. (Level II-3) ^
+ 18. Danilenko-Dixon DR, Van Winter JT, Nelson RL, 
+Ogburn PL Jr. Universal versus selective gestational dia-
+betes screening: application of 1997 American Diabetes 
+Association recommendations. Am J Obstet Gynecol 
+1999;181:798–802. (Level II-3) ^
+ 19. Management of diabetes in pregnancy. American 
+Diabetes Association. Diabetes Care 2017;40:S114–9. 
+(Level III) ^
+ 20. Classification and diagnosis of diabetes. American 
+Diabetes Association. Diabetes Care 2017;40:S11–24. 
+(Level III) ^
+ 21. Chamberlain JJ, Rhinehart AS, Shaefer CF Jr, 
+Neuman A. Diagnosis and management of diabetes: 
+synopsis of the 2016 American Diabetes Association 
+Standards of Medical Care in Diabetes. Ann Intern Med 
+2016;164:542–52. (Level III) ^
+ 22. Amylidi S, Mosimann B, Stettler C, Fiedler GM, Surbek 
+D, Raio L. First-trimester glycosylated hemoglobin in 
+women at high risk for gestational diabetes. Acta Obstet 
+Gynecol Scand 2016;95:93–7. (Level II-3) ^
+ 23. Vandorsten JP, Dodson WC, Espeland MA, Grobman 
+WA, Guise JM, Mercer BM, et al. NIH consensus devel-
+opment conference: diagnosing gestational diabetes 
+mellitus. NIH Consens State Sci Statements 2013;29: 
+1–31. (Level III) ^
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e61
+and meta-analysis for the U.S. Preventive Services 
+Task Force and the National Institutes of Health Office 
+of Medical Applications of Research. Ann Intern Med 
+2013;159:123–9. (Meta-analysis) ^
+ 37. Han S, Middleton P, Shepherd E, Van Ryswyk E, 
+Crowther CA. Different types of dietary advice for 
+women with gestational diabetes mellitus. Cochrane 
+Database of Systematic Reviews 2017, Issue 2. Art. No.: 
+CD009275. (Meta-analysis) ^
+ 38. Moses RG, Barker M, Winter M, Petocz P, Brand-Miller 
+JC. Can a low-glycemic index diet reduce the need for 
+insulin in gestational diabetes mellitus? A randomized 
+trial. Diabetes Care 2009;32:996–1000. (Level I) ^
+ 39. Louie JC, Markovic TP, Perera N, Foote D, Petocz P, 
+Ross GP, et al. A randomized controlled trial investigat-
+ing the effects of a low-glycemic index diet on pregnancy 
+outcomes in gestational diabetes mellitus. Diabetes Care 
+2011;34:2341–6. (Level I) ^
+ 40. Ceysens G, Rouiller D, Boulvain M. Exercise for 
+diabetic pregnant women. Cochrane Database of Sys- 
+tematic Reviews 2006, Issue 3. Art. No.: CD004225. 
+(Meta-analysis) ^
+ 41. Barakat R, Pelaez M, Lopez C, Lucia A, Ruiz JR. 
+Exercise during pregnancy and gestational diabetes-
+related adverse effects: a randomised controlled trial. Br 
+J Sports Med 2013;47:630–6. (Level I) ^
+ 42. Durnwald CP, Mele L, Spong CY, Ramin SM, Varner 
+MW, Rouse DJ, et al. Glycemic characteristics and neo-
+natal outcomes of women treated for mild gestational 
+diabetes.  Eunice Kennedy Shriver National Institute 
+of Child Health and Human Development (NICHD) 
+Maternal-Fetal Medicine Units Network (MFMU). 
+Obstet Gynecol 2011;117:819–27. (Level II-2) ^
+ 43. de Veciana M, Major CA, Morgan MA, Asrat T, Toohey 
+JS, Lien JM, et al. Postprandial versus preprandial blood 
+glucose monitoring in women with gestational diabe-
+tes mellitus requiring insulin therapy. N Engl J Med 
+1995;333:1237–41. (Level I) ^
+ 44. Weisz B, Shrim A, Homko CJ, Schiff E, Epstein GS, 
+Sivan E. One hour versus two hours postprandial glu-
+cose measurement in gestational diabetes: a prospective 
+study. J Perinatol 2005;25:241–4. (Level II-3) ^
+ 45. Moses RG, Lucas EM, Knights S. Gestational diabetes 
+mellitus. At what time should the postprandial glu-
+cose level be monitored? Aust N Z J Obstet Gynaecol 
+1999;39:457–60. (Level II-3) ^
+ 46. Sivan E, Weisz B, Homko CJ, Reece EA, Schiff E. One 
+or two hours postprandial glucose measurements: are 
+they the same? Am J Obstet Gynecol 2001;185:604–7. 
+(Level II-3) ^
+ 47. Ben-Haroush A, Yogev Y, Chen R, Rosenn B, Hod 
+M, Langer O. The postprandial glucose profile in the 
+diabetic pregnancy. Am J Obstet Gynecol 2004;191: 
+576–81. (Level II-3) ^
+ 48. Brown J, Alwan NA, West J, Brown S, McKinlay CJ, 
+Farrar D, et al. Lifestyle interventions for the treat-
+ment of women with gestational diabetes. Cochrane 
+Database of Systematic Reviews 2017, Issue 5. Art. No.: 
+CD011970. (Systematic Review) ^
+ 49. Mulford MI, Jovanovic-Peterson L, Peterson CM. 
+Alternative therapies for the management of gestational 
+diabetes. Clin Perinatol 1993;20:619–34. (Level III) ^
+ 50. Hernandez TL, Van Pelt RE, Anderson MA, Reece MS, 
+Reynolds RM, de la Houssaye BA, et al. Women with 
+gestational diabetes mellitus randomized to a higher-
+complex carbohydrate/low-fat diet manifest lower adi-
+pose tissue insulin resistance, inflammation, glucose, and 
+free fatty acids: a pilot study. Diabetes Care 2016;39:39–
+42. (Level I) ^
+ 51. Jovanovic-Peterson L, Durak EP, Peterson CM. 
+Randomized trial of diet versus diet plus cardiovascular 
+conditioning on glucose levels in gestational diabetes. 
+Am J Obstet Gynecol 1989;161:415–9. (Level I) ^
+ 52. Bung P, Bung C, Artal R, Khodiguian N, Fallenstein F, 
+Spatling L. Therapeutic exercise for insulin-requiring 
+gestational diabetics: effects on the fetus—results of a 
+randomized prospective longitudinal study. J Perinat 
+Med 1993;21:125–37. (Level I) ^
+ 53. Halse RE, Wallman KE, Newnham JP, Guelfi KJ. Home-
+based exercise training improves capillary glucose profile 
+in women with gestational diabetes. Med Sci Sports 
+Exerc 2014;46:1702–9. (Level I) ^
+ 54. Anjana RM, Sudha V, Lakshmipriya N, Anitha C, 
+Unnikrishnan R, Bhavadharini B, et al. Physical activ-
+ity patterns and gestational diabetes outcomes - the 
+wings project. Diabetes Res Clin Pract 2016;116:253–62. 
+(Level II-3) ^
+ 55. Davenport MH, Mottola MF, McManus R, Gratton R. 
+A walking intervention improves capillary glucose con- 
+trol in women with gestational diabetes mellitus: a 
+pilot study. Appl Physiol Nutr Metab 2008;33:511–7. 
+(Level II-2) ^
+ 56. Agency for Healthcare Research and Quality. Therapeutic 
+management, delivery, and postpartum risk assessment 
+and screening in gestational diabetes. Evidence Report/
+Technology Assessment No. 162. Rockville (MD): 
+AHRQ; 2008. (Systematic Review) ^
+ 57. Herrera KM, Rosenn BM, Foroutan J, Bimson BE, Al 
+Ibraheemi Z, Moshier EL, et al. Randomized controlled 
+trial of insulin detemir versus NPH for the treatment of 
+pregnant women with diabetes. Am J Obstet Gynecol 
+2015;213:426.e1–7. (Level I) ^
+ 58. Koren R, Toledano Y, Hod M. The use of insulin detemir 
+during pregnancy: a safety evaluation. Expert Opin Drug 
+Saf 2015;14:593–9. (Level III) ^
+ 59. Lv S, Wang J, Xu Y. Safety of insulin analogs dur-
+ing pregnancy: a meta-analysis. Arch Gynecol Obstet 
+2015;292:749–56. (Meta-analysis) ^
+ 60. Zinman B, Tildesley H, Chiasson JL, Tsui E, Strack 
+T. Insulin lispro in CSII: results of a double-blind 
+crossover study [published erratum appears in Diabetes 
+1997;46:1239]. Diabetes 1997;46:440–3. (Level II-3) ^
+ 61. Anderson JH Jr, Brunelle RL, Koivisto VA, Pfutzner A, 
+Trautmann ME, Vignati L, et al. Reduction of postpran-
+dial hyperglycemia and frequency of hypoglycemia in 
+IDDM patients on insulin-analog treatment. Multicenter 
+Insulin Lispro Study Group. Diabetes 1997;46:265–70. 
+(Level II-3) ^
+
+e62 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+ 62. Camelo Castillo W, Boggess K, Sturmer T, Brookhart 
+MA, Benjamin DK Jr, Jonsson Funk M. Trends in 
+glyburide compared with insulin use for gestational dia-
+betes treatment in the United States, 2000-2011. Obstet 
+Gynecol 2014;123:1177–84. (Level II-3) ^
+ 63. De Leo V, Musacchio MC, Piomboni P, Di Sabatino A, 
+Morgante G. The administration of metformin during 
+pregnancy reduces polycystic ovary syndrome related 
+gestational complications. Eur J Obstet Gynecol Reprod 
+Biol 2011;157:63–6. (Level II-2) ^
+ 64. Eyal S, Easterling TR, Carr D, Umans JG, Miodovnik 
+M, Hankins GD, et al. Pharmacokinetics of metformin 
+during pregnancy. Drug Metab Dispos 2010;38:833–40. 
+(Level II-3) ^
+ 65. Wouldes TA, Battin M, Coat S, Rush EC, Hague WM, 
+Rowan JA. Neurodevelopmental outcome at 2 years in 
+offspring of women randomised to metformin or insulin 
+treatment for gestational diabetes. Arch Dis Child Fetal 
+Neonatal Ed 2016;101:F488–F493. (Level I) ^
+ 66. Rowan JA, Hague WM, Gao W, Battin MR, Moore MP. 
+Metformin versus insulin for the treatment of gestational 
+diabetes.  MiG Trial Investigators [published erratum 
+appears in N Engl J Med 2008;359:106]. N Engl J Med 
+2008;358:2003–15. (Level I) ^
+ 67. Spaulonci CP, Bernardes LS, Trindade TC, Zugaib M, 
+Francisco RP. Randomized trial of metformin vs insulin 
+in the management of gestational diabetes. Am J Obstet 
+Gynecol 2013;209:34.e1–7. (Level I) ^
+ 68. Balsells M, Garcia-Patterson A, Sola I, Roque M, Gich 
+I, Corcoy R. Glibenclamide, metformin, and insulin for 
+the treatment of gestational diabetes: a systematic review 
+and meta-analysis. BMJ 2015;350:h102. (Meta-analysis) 
+^
+ 69. Poolsup N, Suksomboon N, Amin M. Efficacy and 
+safety of oral antidiabetic drugs in comparison to insulin 
+in treating gestational diabetes mellitus: a meta-analysis. 
+PLoS One 2014;9:e109985. (Meta-analysis) ^
+ 70. Farrar D, Simmonds M, Bryant M, Sheldon TA, Tuffnell 
+D, Golder S, et al. Treatments for gestational diabe-
+tes: a systematic review and meta-analysis. BMJ Open 
+2017;7:e015557. (Systematic Review and Meta-analysis) ^
+ 71. Butalia S, Gutierrez L, Lodha A, Aitken E, Zakariasen A, 
+Donovan L. Short- and long-term outcomes of metformin 
+compared with insulin alone in pregnancy: a systematic 
+review and meta-analysis. Diabet Med 2017;34:27–36. 
+(Systematic Review and Meta-analysis) ^
+ 72. Song R, Chen L, Chen Y, Si X, Liu Y, Liu Y, et al. 
+Comparison of glyburide and insulin in the manage-
+ment of gestational diabetes: a meta-analysis. PLoS One 
+2017;12:e0182488. (Meta-analysis) ^
+ 73. Langer O, Conway DL, Berkus MD, Xenakis EM, 
+Gonzales O. A comparison of glyburide and insulin in 
+women with gestational diabetes mellitus. N Engl J Med 
+2000;343:1134–8. (Level I) ^
+ 74. Anjalakshi C, Balaji V, Balaji MS, Seshiah V. A pro-
+spective study comparing insulin and glibenclamide in 
+gestational diabetes mellitus in Asian Indian women. 
+Diabetes Res Clin Pract 2007;76:474–5. (Level I) ^
+ 75. Lain KY, Garabedian MJ, Daftary A, Jeyabalan A. 
+Neonatal adiposity following maternal treatment of ges-
+tational diabetes with glyburide compared with insulin. 
+Am J Obstet Gynecol 2009;200:501.e1–6. (Level I) ^
+ 76. Langer O, Yogev Y, Xenakis EM, Rosenn B. Insulin and 
+glyburide therapy: dosage, severity level of gestational 
+diabetes, and pregnancy outcome. Am J Obstet Gynecol 
+2005;192:134–9. (Level II-3) ^
+ 77. Jacobson GF, Ramos GA, Ching JY, Kirby RS, Ferrara 
+A, Field DR. Comparison of glyburide and insulin for 
+the management of gestational diabetes in a large man-
+aged care organization. Am J Obstet Gynecol 2005;193: 
+118–24. (Level II-3) ^
+ 78. Chmait R, Dinise T, Moore T. Prospective observa-
+tional study to establish predictors of glyburide success 
+in women with gestational diabetes mellitus. J Perinatol 
+2004;24:617–22. (Level II-3) ^
+ 79. Kahn SE, Haffner SM, Heise MA, Herman WH, Holman 
+RR, Jones NP, et al. Glycemic durability of rosigli-
+tazone, metformin, or glyburide monotherapy.  ADOPT 
+Study Group [published erratum appears in N Engl 
+J Med 2007;356:1387-8]. N Engl J Med 2006;355: 
+2427–43. (Level I) ^
+ 80. Rochon M, Rand L, Roth L, Gaddipati S. Glyburide 
+for the management of gestational diabetes: risk factors 
+predictive of failure and associated pregnancy outcomes. 
+Am J Obstet Gynecol 2006;195:1090–4. (Level II-3) ^
+ 81. Cheng YW, Chung JH, Block-Kurbisch I, Inturrisi M, 
+Caughey AB. Treatment of gestational diabetes mellitus: 
+glyburide compared to subcutaneous insulin therapy and 
+associated perinatal outcomes. J Matern Fetal Neonatal 
+Med 2012;25:379–84. (Level II-2) ^
+ 82. Hebert MF, Ma X, Naraharisetti SB, Krudys KM, 
+Umans JG, Hankins GD, et al. Are we optimizing ges-
+tational diabetes treatment with glyburide? The pharma-
+cologic basis for better clinical practice. Obstetric-Fetal 
+Pharmacology Research Unit Network. Clin Pharmacol 
+Ther 2009;85:607–14. (Level III) ^
+ 83. Moore LE, Clokey D, Rappaport VJ, Curet LB. Metformin 
+compared with glyburide in gestational diabetes: a ran-
+domized controlled trial. Obstet Gynecol 2010;115:55–9. 
+(Level I) ^
+ 84. Camelo Castillo W, Boggess K, Sturmer T, Brookhart 
+MA, Benjamin DK Jr, Jonsson Funk M. Association of 
+adverse pregnancy outcomes with glyburide vs insulin 
+in women with gestational diabetes. JAMA Pediatr 
+2015;169:452–8. (Level II-3) ^
+ 85. Vanky E, Zahlsen K, Spigset O, Carlsen SM. Placental 
+passage of metformin in women with polycystic ovary 
+syndrome. Fertil Steril 2005;83:1575–8. (Level III) ^
+ 86. Brown J, Grzeskowiak L, Williamson K, Downie MR, 
+Crowther CA. Insulin for the treatment of women with ges-
+tational diabetes. Cochrane Database of Systematic Reviews 
+2017, Issue 11. Art. No.: CD012037. (Systematic Review) ^
+ 87. Antepartum fetal surveillance. Practice Bulletin No. 145. 
+American College of Obstetricians and Gynecologists. 
+Obstet Gynecol 2014;124:182–92. (Level III) ^
+ 88. Spong CY, Mercer BM, D’alton M, Kilpatrick S, 
+Blackwell S, Saade G. Timing of indicated late-preterm 
+
+VOL. 131, NO. 2, FEBRUARY 2018 
+Practice Bulletin Gestational Diabetes Mellitus e63
+ 99. Esakoff TF, Cheng YW, Sparks TN, Caughey AB. 
+The association between birthweight 4000 g or greater 
+and perinatal outcomes in patients with and without 
+gestational diabetes mellitus. Am J Obstet Gynecol 
+2009;200:672.e1–4. (Level II-2) ^
+ 100. Scifres CM, Feghali M, Dumont T, Althouse AD, 
+Speer P, Caritis SN, et al. Large-for-gestational-age 
+ultrasound diagnosis and risk for cesarean delivery 
+in women with gestational diabetes mellitus. Obstet 
+Gynecol 2015;126:978–86. (Level II-2) ^
+ 101. Rouse DJ, Owen J, Goldenberg RL, Cliver SP. The 
+effectiveness and costs of elective cesarean delivery 
+for fetal macrosomia diagnosed by ultrasound. JAMA 
+1996;276:1480–6. (Level II-3) ^
+ 102. Garabedian C, Deruelle P. Delivery (timing, route, 
+peripartum glycemic control) in women with gestational 
+diabetes mellitus. Diabetes Metab 2010;36:515–21. 
+(Level III) ^
+ 103. Fetal macrosomia. Practice Bulletin No. 173. American 
+College of Obstetricians and Gynecologists. Obstet 
+Gynecol 2016;128:e195–209. (Level III) ^
+ 104. Kaaja RJ, Greer IA. Manifestations of chronic disease 
+during pregnancy. JAMA 2005;294:2751–7. (Level III) 
+^ 
+ 105. Buchanan TA, Xiang AH. Gestational diabetes mellitus. 
+J Clin Invest 2005;115:485–91. (Level III) ^
+ 106. Russell MA, Phipps MG, Olson CL, Welch HG, Carpenter 
+MW. Rates of postpartum glucose testing after gesta-
+tional diabetes mellitus. Obstet Gynecol 2006;108:1456–
+62. (Level II-2) ^
+ 107. Chodick G, Elchalal U, Sella T, Heymann AD, Porath A, 
+Kokia E, et al. The risk of overt diabetes mellitus among 
+women with gestational diabetes: a population-based 
+study. Diabet Med 2010;27:779–85. (Level II-3) ^
+ 108. Bellamy L, Casas JP, Hingorani AD, Williams D. Type 2 
+diabetes mellitus after gestational diabetes: a systematic 
+review and meta-analysis. Lancet 2009;373:1773–9. 
+(Meta-analysis) ^
+ 109. Metzger BE, Buchanan TA, Coustan DR, de Leiva A, 
+Dunger DB, Hadden DR, et al. Summary and recommen-
+dations of the Fifth International Workshop-Conference 
+on Gestational Diabetes Mellitus [published erratum 
+appears in Diabetes Care 2007;30:3154]. Diabetes Care 
+2007;30 Suppl 2:S251–60. (Level III) ^
+and early-term birth. Obstet Gynecol 2011;118:323–33. 
+(Level III) ^
+ 89. Medically indicated late-preterm and early-term deliv-
+eries. Committee Opinion No. 560. American College 
+of Obstetricians and Gynecologists. Obstet Gynecol 
+2013;121:908–10. (Level III) ^
+ 90. Alberico S, Erenbourg A, Hod M, Yogev Y, Hadar E, 
+Neri F, et al. Immediate delivery or expectant manage-
+ment in gestational diabetes at term: the GINEXMAL 
+randomised controlled trial. GINEXMAL Group. BJOG 
+2017;124:669–77. (Level I) ^
+ 91. Kjos SL, Henry OA, Montoro M, Buchanan TA, 
+Mestman JH. Insulin-requiring diabetes in pregnancy: 
+a randomized trial of active induction of labor and 
+expectant management. Am J Obstet Gynecol 1993;169: 
+611–5. (Level I) ^
+ 92. Lurie S, Insler V, Hagay ZJ. Induction of labor at 38 to 
+39 weeks of gestation reduces the incidence of shoulder 
+dystocia in gestational diabetic patients class A2. Am J 
+Perinatol 1996;13:293–6. (Level II-3) ^
+ 93. Witkop CT, Neale D, Wilson LM, Bass EB, Nicholson 
+WK. Active compared with expectant delivery manage-
+ment in women with gestational diabetes: a systematic 
+review. Obstet Gynecol 2009;113:206–17. (Systematic 
+Review) ^
+ 94. Melamed N, Ray JG, Geary M, Bedard D, Yang C, 
+Sprague A, et al. Induction of labor before 40 weeks is 
+associated with lower rate of cesarean delivery in women 
+with gestational diabetes mellitus. Am J Obstet Gynecol 
+2016;214:364.e1–8. (Level II-2) ^
+ 95. Niu B, Lee VR, Cheng YW, Frias AE, Nicholson JM, 
+Caughey AB. What is the optimal gestational age for 
+women with gestational diabetes type A1 to deliver? Am 
+J Obstet Gynecol 2014;211:418.e1–6. (Level III) ^
+ 96. Caughey AB, Valent AM. When to deliver women with 
+diabetes in pregnancy? Am J Perinatol 2016;33:1250–4. 
+(Level III) ^
+ 97. Acker DB, Sachs BP, Friedman EA. Risk factors 
+for shoulder dystocia. Obstet Gynecol 1985;66:762–8. 
+(Level II-3) ^
+ 98. Langer O, Berkus MD, Huff RW, Samueloff A. Shoulder 
+dystocia: should the fetus weighing greater than or equal 
+to 4000 grams be delivered by cesarean section? Am J 
+Obstet Gynecol 1991;165:831–7. (Level II-3) ^
+
+e64 Practice Bulletin Gestational Diabetes Mellitus 
+OBSTETRICS & GYNECOLOGY
+Copyright February 2018 by the American College of Ob ste-
+tri cians and Gynecologists. All rights reserved. No part of this 
+publication may be reproduced, stored in a re triev al sys tem, 
+posted on the Internet, or transmitted, in any form or by any 
+means, elec tron ic, me chan i cal, photocopying, recording, or 
+oth er wise, without prior written permission from the publisher.
+Requests for authorization to make photocopies should be 
+directed to Copyright Clearance Center, 222 Rosewood Drive, 
+Danvers, MA 01923, (978) 750-8400.
+The American College of Obstetricians and Gynecologists 
+409 12th Street, SW, PO Box 96920, Washington, DC 20090-6920
+Gestational diabetes mellitus. ACOG Practice Bulletin No. 190. 
+American College of Obstetricians and Gynecologists. Obstet Gyne-
+col 2018;131:e49–64.
+This information is designed as an educational resource to aid clinicians in providing obstetric and gynecologic care, and use of this information is vol-
+untary. This information should not be considered as inclusive of all proper treatments or methods of care or as a statement of the standard of care. It is 
+not intended to substitute for the independent professional judgment of the treating clinician. Variations in practice may be warranted when, in the reason-
+able judgment of the treating clinician, such course of action is indicated by the condition of the patient, limitations of available resources, or advances in 
+knowledge or technology. The American College of Obstetricians and Gynecologists reviews its publications regularly; however, its publications may not 
+reflect the most recent evidence. Any updates to this document can be found on www.acog.org or by calling the ACOG Resource Center.
+While ACOG makes every effort to present accurate and reliable information, this publication is provided “as is” without any warranty of accuracy, reli-
+ability, or otherwise, either express or implied. ACOG does not guarantee, warrant, or endorse the products or services of any firm, organization, or person. 
+Neither ACOG nor its officers, directors, members, employees, or agents will be liable for any loss, damage, or claim with respect to any liabilities, including 
+direct, special, indirect, or consequential damages, incurred in connection with this publication or reliance on the information presented.
+The MEDLINE database, the Cochrane Library, and 
+ACOG’s own internal resources and documents were used 
+to con duct a lit er a ture search to lo cate rel e vant ar ti cles 
+pub lished be tween January 1990 and May 2017. The search 
+was re strict ed to ar ti cles pub lished in the English lan guage. 
+Pri or i ty was given to articles re port ing results of orig i nal 
+re search, although re view ar ti cles and com men tar ies also 
+were consulted. Ab stracts of re search pre sent ed at sym po-
+sia and sci en tif ic con fer enc es were not con sid ered adequate 
+for in clu sion in this doc u ment. Guide lines pub lished by 
+or ga ni za tions or in sti tu tions such as the Na tion al In sti tutes 
+of Health and the Amer i can Col lege of Ob ste tri cians and 
+Gy ne col o gists were re viewed, and ad di tion al studies were 
+located by re view ing bib liographies of identified articles. 
+When re li able research was not available, expert opinions 
+from ob ste tri cian–gynecologists were used.
+Studies were reviewed and evaluated for qual i ty ac cord ing 
+to the method outlined by the U.S. Pre ven tive Services 
+Task Force:
+I 
+Evidence obtained from at least one prop er ly 
+de signed randomized controlled trial.
+II-1 Evidence obtained from well-designed con trolled 
+tri als without randomization.
+II-2 Evidence obtained from well-designed co hort or 
+case–control analytic studies, pref er a bly from more 
+than one center or research group.
+II-3 Evidence obtained from multiple time series with or 
+with out the intervention. Dra mat ic re sults in un con-
+trolled ex per i ments also could be regarded as this 
+type of ev i dence.
+III 
+Opinions of respected authorities, based on clin i cal 
+ex pe ri ence, descriptive stud ies, or re ports of ex pert 
+committees.
+Based on the highest level of evidence found in the data, 
+recommendations are provided and grad ed ac cord ing to the 
+following categories:
+Level A—Recommendations are based on good and con-
+sis tent sci en tif ic evidence.
+Level B—Recommendations are based on limited or in con-
+sis tent scientific evidence.
+Level C—Recommendations are based primarily on con-
+sen sus and expert opinion.

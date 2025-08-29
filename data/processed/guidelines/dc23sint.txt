@@ -1,0 +1,641 @@
+Introduction and Methodology:
+Standards of Care in Diabetes—2023
+Diabetes Care 2023;46(Suppl. 1):S1–S4 | https://doi.org/10.2337/dc23-SINT
+Nuha A. ElSayed, Grazia Aleppo,
+Vanita R. Aroda, Raveendhara R. Bannuru,
+Florence M. Brown, Dennis Bruemmer,
+Billy S. Collins, Kenneth Cusi, Sandeep R. Das,
+Christopher H. Gibbons, John M. Giurini,
+Marisa E. Hilliard, Diana Isaacs,
+Eric L. Johnson, Scott Kahan, Kamlesh Khunti,
+Mikhail Kosiborod, Jose Leon,
+Sarah K. Lyons, Lisa Murdock,
+Mary Lou Perry, Priya Prahalad,
+Richard E. Pratley, Jane Jeffrie Seley,
+Robert C. Stanton, Jennifer K. Sun,
+Crystal C. Woodward, Deborah Young-Hyman,
+and Robert A. Gabbay, on behalf of the
+American Diabetes Association
+Diabetes is a complex, chronic condition
+requiring continuous medical care with
+multifactorial risk-reduction strategies be-
+yond glucose management. Ongoing dia-
+betes self-management education and
+support are critical to empowering peo-
+ple, preventing acute complications, and
+reducing the risk of long-term complica-
+tions. Signiﬁcant evidence exists that
+supports a range of interventions to im-
+prove diabetes outcomes.
+The American Diabetes Association (ADA)
+“Standards of Care in Diabetes,” referred
+to here as the Standards of Care, is in-
+tended to provide clinicians, researchers,
+policy makers, and other interested indi-
+viduals with the components of diabetes
+care, general treatment goals, and tools
+to evaluate the quality of care.
+The ADA Professional Practice Com-
+mittee (PPC) updates the Standards of
+Care annually and strives to include dis-
+cussion of emerging clinical considerations
+in the text, and as evidence evolves, clini-
+cal guidance is added to the recommen-
+dations in the Standards of Care. The
+Standards of Care is a “living” document
+where important updates are published
+online should the PPC determine that new
+evidence or regulatory changes (e.g., drug
+or technology approvals, label changes)
+merit immediate inclusion. More informa-
+tion on the “Living Standards” can be
+found on the ADA professional website
+DiabetesPro at professional.diabetes.org/
+content-page/living-standards. The Stand-
+ards of Care supersedes all previously
+published ADA position statements—and
+the recommendations therein—on clini-
+cal topics within the purview of the
+Standards of Care; while still containing
+valuable analysis, ADA position state-
+ments should not be considered the cur-
+rent position of the ADA. The Standards
+of Care receives annual review and ap-
+proval by the ADA Board of Directors and
+is reviewed by ADA staff and clinical lead-
+ership. The Standards of Care also under-
+goes external peer review annually.
+SCOPE OF THE GUIDELINES
+The recommendations in the Standards
+of Care include screening, diagnostic,
+and therapeutic actions that are known
+or believed to favorably affect health
+outcomes of people with diabetes. They
+also cover the prevention, screening, di-
+agnosis, and management of diabetes-
+associated complications and comorbid-
+ities. The recommendations encompass
+care throughout the lifespan, for youth
+(children aged birth to 11 years and ado-
+lescents aged 12–17 years), adults (aged
+18–64 years), and older adults (aged
+$65 years). The recommendations cover
+the management of type 1 diabetes, type 2
+diabetes, gestational diabetes mellitus,
+and other types of diabetes.
+The Standards of Care does not pro-
+vide comprehensive treatment plans for
+complications associated with diabetes,
+such as diabetic retinopathy or diabetic
+foot ulcers, but offers guidance on how
+and when to screen for diabetes compli-
+cations, management of complications
+in the primary care and diabetes care
+settings, and referral to specialists as
+appropriate. Similarly, regarding the psy-
+chosocial factors often associated with
+diabetes and that can affect diabetes
+care, the Standards of Care provides
+guidance on how and when to screen,
+management in the primary care and
+The “Standards of Care in Diabetes,” formerly called “Standards of Medical Care in Diabetes,” was originally approved in 1988. Most recent review/
+revision: December 2022.
+Disclosure information for each author is available at https://doi.org/10.2337/dc23-SDIS.
+Suggested citation: ElSayed NA, Aleppo G, Aroda VR, et al., American Diabetes Association. Introduction and methodology: Standards of Care in
+Diabetes—2023. Diabetes Care 2023;46(Suppl. 1):S1–S4
+© 2022 by the American Diabetes Association. Readers may use this article as long as the work is properly cited, the use is educational and not
+for proﬁt, and the work is not altered. More information is available at https://www.diabetesjournals.org/journals/pages/license.
+INTRODUCTION AND METHODOLOGY
+Diabetes Care Volume 46, Supplement 1, January 2023
+S1
+Downloaded from http://diabetesjournals.org/care/article-pdf/46/Supplement_1/S1/693607/dc23sint.pdf by guest on 21 July 2025
+
+diabetes care settings, and referral but
+does not provide comprehensive manage-
+ment plans for conditions that require
+specialized care, such as mental illness.
+TARGET AUDIENCE
+The target audience for the Standards of
+Care includes primary care physicians, en-
+docrinologists, nurse practitioners, physi-
+cian
+associates/assistants,
+pharmacists,
+dietitians, and diabetes care and education
+specialists. The Standards of Care also pro-
+vides guidance to specialists caring for peo-
+ple with diabetes and its multitude of
+complications, such as cardiologists, neph-
+rologists, emergency physicians, internists,
+pediatricians, psychologists, neurologists,
+ophthalmologists, and podiatrists. Addi-
+tionally, these recommendations help
+payers, policy makers, researchers, re-
+search funding organizations, and advo-
+cacy groups to align their policies and
+resources and deliver optimal care for
+people living with diabetes.
+The ADA strives to improve and up-
+date the Standards of Care to ensure
+that clinicians, health plans, and policy
+makers can continue to rely on it as
+the most authoritative source for cur-
+rent guidelines for diabetes care. The
+Standards of Care recommendations
+are not intended to preclude clinical
+judgment. They must be applied in the
+context of excellent clinical care, with
+adjustments for individual preferences,
+comorbidities, and other patient factors.
+For more detailed information about the
+management of diabetes, please refer to
+Medical Management of Type 1 Diabetes
+(1) and Medical Management of Type 2
+Diabetes (2).
+METHODOLOGY AND PROCEDURE
+The Standards of Care includes discussion
+of evidence and clinical practice recom-
+mendations intended to optimize care for
+people with diabetes by assisting pro-
+viders and individuals in making shared
+decisions about diabetes care. The recom-
+mendations are informed by a systematic
+review of evidence and an assessment of
+the beneﬁts and risks of alternative care
+options.
+Professional Practice Committee
+The PPC of the ADA is responsible for the
+Standards of Care. The PPC is a multidisci-
+plinary expert committee comprising physi-
+cians, nurse practitioners, pharmacists,
+diabetes care and education specialists,
+registered dietitian nutritionists, behavioral
+health scientists, and others who have ex-
+pertise in a range of areas including but
+not limited to adult/pediatric endocri-
+nology, epidemiology, public health,
+behavioral health, cardiovascular risk
+management, microvascular complica-
+tions, nephrology, neurology, ophthal-
+mology, podiatry, clinical pharmacology,
+preconception and pregnancy care, weight
+management and diabetes prevention,
+and use of technology in diabetes man-
+agement. Appointment to the PPC is
+based on excellence in clinical practice
+and research, with attention to appropri-
+ate representation of members based on
+considerations including but not limited to
+demographic, geographic, work setting, or
+identity characteristics (e.g., gender, ethnic-
+ity, ability level). For the 2023 Standards of
+Care, as in previous years, two representa-
+tives from the American College of Cardi-
+ology
+(ACC)
+acted
+as
+ad
+hoc
+PPC
+members and reviewed and approved
+Section 10, “Cardiovascular Disease and
+Risk Management.” A PPC chairperson is
+appointed by the ADA (currently N.A.E.) for
+a 1-year term and oversees the committee.
+Each section of the Standards of Care
+is reviewed annually and updated with
+the latest evidence-based recommenda-
+tions by a PPC member designated as the
+section lead as well as subcommittee
+members. The subcommittees perform
+systematic literature reviews and iden-
+tify and summarize the scientiﬁc evi-
+dence. An information specialist with
+knowledge and experience in literature
+searching (a librarian) is consulted as
+necessary. A guideline methodologist
+(R.R.B. for the 2023 Standards of Care)
+with expertise and training in evidence-
+based medicine and guideline develop-
+ment methodology oversees all methodo-
+logical aspects of the development of the
+Standards of Care and serves as a statisti-
+cal analyst.
+Disclosure and Duality of Interest
+Management
+All members of the expert panel (the PPC
+members, ad hoc members, and subject
+matter experts) and ADA staff are re-
+quired to comply with the ADA policy on
+duality of interest, which requires disclo-
+sure of any ﬁnancial, intellectual, or other
+interests that might be construed as con-
+stituting an actual, potential, or apparent
+conﬂict, regardless of relevancy to the
+guideline topic. For transparency, ADA re-
+quires full disclosure of all relationships.
+Full disclosure statements from all com-
+mittee members are solicited and re-
+viewed
+during
+the
+appointment
+process. Disclosures are then updated
+throughout the guideline development
+process (speciﬁcally before the start of
+every meeting), and disclosure state-
+ments are submitted by every Stand-
+ards of Care author upon submission of
+the revised Standards of Care section.
+Members are required to disclose for a
+time frame that includes 1 year prior to
+initiation of the committee appoint-
+ment process until publication of that
+year’s Standards of Care. Potential dual-
+ities of interest are evaluated by a des-
+ignated review group and, if necessary,
+the Legal Affairs Division of the ADA. The
+duality of interest assessment is based
+on the relative weight of the ﬁnancial re-
+lationship (i.e., the monetary amount)
+and the relevance of the relationship
+(i.e., the degree to which an independent
+observer might reasonably interpret an
+association as related to the topic or rec-
+ommendation of consideration). In addi-
+tion, the ADA adheres to Section 7 of the
+Council for Medical Specialty Societies
+“Code for Interactions with Companies”
+(3). The duality of interest review group
+also ensures the majority of the PPC and
+the PPC chair are without potential con-
+ﬂict relevant to the subject area. Further-
+more, the PPC chair is required to remain
+unconﬂicted for 1 year after the publica-
+tion of the Standards of Care. Members
+of the committee who disclose a poten-
+tial duality of interest pertinent to any
+speciﬁc recommendation are prohibited
+from participating in discussions related
+to those recommendations. No expert
+panel members were employees of any
+pharmaceutical or medical device com-
+pany during the development of the
+2023 Standards of Care. Members of the
+PPC, their employers, and their disclosed
+potential dualities of interest are listed in
+the section “Disclosures: Standards of
+Medical Care in Diabetes—2023.” The
+ADA funds the development of the Stand-
+ards of Care from general revenue and
+does not use industry support for this
+purpose.
+Evidence Review
+The Standards of Care subcommittee for
+each section creates an initial list of
+S2
+Introduction and Methodology
+Diabetes Care Volume 46, Supplement 1, January 2023
+Downloaded from http://diabetesjournals.org/care/article-pdf/46/Supplement_1/S1/693607/dc23sint.pdf by guest on 21 July 2025
+
+relevant clinical questions that is reviewed
+and discussed by the expert panel. In con-
+sultation with a systematic review expert,
+each subcommittee devises and executes
+systematic literature searches. For the
+2023 Standards of Care, PubMed, Med-
+line, and EMBASE were searched for the
+time periods of 1 June 2021 to 26 July
+2022. Searches are limited to studies pub-
+lished in English. Subcommittee members
+also manually search journals, reference
+lists of conference proceedings, and regu-
+latory agency websites. All potentially rel-
+evant citations are then subjected to a
+full-text review. In consultation with the
+methodologist, the subcommittees pre-
+pare the evidence summaries and grading
+for each section of the Standards of Care.
+All PPC members discuss and review the
+evidence summaries and make revisions
+as appropriate. The ﬁnal evidence sum-
+maries are then deliberated on by the
+PPC, and the recommendations that will
+appear in the Standards of Care are
+drafted.
+Grading of Evidence and
+Recommendation Development
+A grading system (Table 1) developed
+by the ADA and modeled after existing
+methods is used to clarify and codify
+the evidence that forms the basis for
+the recommendations in the Standards
+of Care. All of the recommendations in
+the Standards of Care are critical to
+comprehensive care regardless of rating.
+ADA recommendations are assigned rat-
+ings of A, B, or C, depending on the qual-
+ity of the evidence in support of the
+recommendation. Expert opinion E is a
+separate category for recommendations
+in which there is no evidence from clinical
+trials, clinical trials may be impractical, or
+there is conﬂicting evidence. Recommen-
+dations assigned an E level of evidence
+are informed by key opinion leaders in
+the ﬁeld of diabetes (members of the
+PPC) and cover important elements of
+clinical care. All Standards of Care recom-
+mendations receive a rating for the
+strength of the evidence and not for the
+strength of the recommendation. Recom-
+mendations with A-level evidence are
+based on large, well-designed random-
+ized controlled trials or well-done meta-
+analyses of randomized controlled trials.
+Generally, these recommendations have
+the best chance of improving outcomes
+when applied to the population for which
+they are appropriate. Recommendations
+with lower levels of evidence may be
+equally important but are not as well
+supported.
+Of course, published evidence is only
+one component of clinical decision-making.
+Clinicians care for people, not populations;
+guidelines must always be interpreted
+with the individual person in mind. Indi-
+vidual circumstances, such as comorbid
+and coexisting diseases, age, education,
+disability, and, above all, the values and
+preferences of the person with diabetes,
+must be considered and may lead to dif-
+ferent treatment targets and strategies.
+Furthermore, conventional evidence hier-
+archies, such as the one adapted by the
+ADA, may miss nuances important in dia-
+betes care. For example, although there
+is excellent evidence from clinical trials
+supporting the importance of achieving
+multiple risk factor control, the optimal
+way to achieve this result is less clear. It
+is difﬁcult to assess each component of
+such a complex intervention.
+In preparation of the 2023 Standards
+of Care, the expert panel met for a 2-day
+in-person/virtual meeting in Arlington,
+Virginia, in July 2022, to present the evi-
+dence summaries and to develop the rec-
+ommendations. All PPC members participate
+annually in updating the Standards of Care
+and approve the recommendations therein.
+Revision Process
+Public comment is particularly impor-
+tant in the development of clinical
+practice recommendations; it promotes
+transparency and provides key stake
+holders the opportunity to identify and
+address gaps in care. The ADA holds a
+year-long public comment period re-
+questing feedback on the Standards of
+Care. The PPC reviews compiled feedback
+from the public in preparation for the an-
+nual update but considers more pressing
+updates throughout the year, which may
+be published as “living” Standards up-
+dates. Feedback from the larger clinical
+community and general public was in-
+valuable for the revision of the Standards
+of Care—2022. Readers who wish to
+comment on the 2023 Standards of Care
+are invited to do so at professional.
+diabetes.org/SOC.
+Feedback for the Standards of Care is
+also obtained from external peer re-
+viewers. The Standards of Care is re-
+viewed by ADA clinical leadership and
+scientiﬁc and medical staff and is ap-
+proved by the ADA Board of Directors,
+which includes health care professionals,
+scientists, and lay people. The ACC per-
+forms an independent external peer re-
+view and the ACC Board of Directors
+provides endorsement of Section 10,
+“Cardiovascular and Metabolic Risk.” The
+Table 1—ADA evidence-grading system for Standards of Care in Diabetes
+Level of
+evidence
+Description
+A
+Clear evidence from well-conducted, generalizable randomized controlled trials
+that are adequately powered, including:
+� Evidence from a well-conducted multicenter trial
+� Evidence from a meta-analysis that incorporated quality ratings in the
+analysis
+Supportive evidence from well-conducted randomized controlled trials that are
+adequately powered, including:
+� Evidence from a well-conducted trial at one or more institutions
+� Evidence from a meta-analysis that incorporated quality ratings in the
+analysis
+B
+Supportive evidence from well-conducted cohort studies
+� Evidence from a well-conducted prospective cohort study or registry
+� Evidence from a well-conducted meta-analysis of cohort studies
+Supportive evidence from a well-conducted case-control study
+C
+Supportive evidence from poorly controlled or uncontrolled studies
+� Evidence from randomized clinical trials with one or more major or three or
+more minor methodological ﬂaws that could invalidate the results
+� Evidence from observational studies with high potential for bias (such as
+case series with comparison with historical controls)
+� Evidence from case series or case reports
+Conﬂicting evidence with the weight of evidence supporting the recommendation
+E
+Expert consensus or clinical experience
+diabetesjournals.org/care
+Introduction and Methodology
+S3
+Downloaded from http://diabetesjournals.org/care/article-pdf/46/Supplement_1/S1/693607/dc23sint.pdf by guest on 21 July 2025
+
+ADA adheres to the Council for Medical
+Specialty Societies “Revised CMSS Prin-
+ciples for Clinical Practice Guideline
+Development” (4).
+ADA STANDARDS, STATEMENTS,
+REPORTS, AND REVIEWS
+The ADA has been actively involved in
+developing and disseminating diabetes
+care clinical practice recommendations
+and related documents for more than
+30 years. The ADA Standards of Care is
+an essential resource for health care pro-
+fessionals caring for people with diabe-
+tes. ADA Statements, Consensus Reports,
+and Scientiﬁc Reviews support the rec-
+ommendations included in the Standards
+of Care.
+Standards of Care
+The annual Standards of Care supplement
+to Diabetes Care contains the ofﬁcial ADA
+position, is authored by the ADA, and
+provides all of the ADA’s current clinical
+practice recommendations.
+ADA Statement
+An ADA statement is an ofﬁcial ADA
+point of view or belief that does not
+contain clinical practice recommenda-
+tions and may be issued on advocacy,
+policy, economic, or medical issues re-
+lated to diabetes. ADA statements un-
+dergo a formal review process, including
+a review by the appropriate ADA national
+committee, ADA clinical leadership, sci-
+ence and health care staff, and the ADA
+Board of Directors.
+Consensus Report
+A consensus report on a particular topic
+contains a comprehensive examination,
+is authored by an expert panel (i.e., con-
+sensus panel), and represents the panel’s
+collective analysis, evaluation, and opin-
+ion. The need for a consensus report
+arises when clinicians, scientists, regula-
+tors, and/or policy makers desire guidance
+and/or clarity on a medical or scientiﬁc is-
+sue related to diabetes for which the evi-
+dence is contradictory, emerging, or
+incomplete. Consensus reports may also
+highlight evidence gaps and propose fu-
+ture research areas to address these
+gaps. A consensus report is not an ADA
+position but represents expert opinion
+only and is produced under the aus-
+pices of the ADA by invited experts. A
+consensus report may be developed af-
+ter an ADA Clinical Conference or Re-
+search Symposium.
+Scientific Review
+A scientiﬁc review is a balanced review
+and analysis of the literature on a scien-
+tiﬁc or medical topic related to diabetes.
+A scientiﬁc review is not an ADA position
+and does not contain clinical practice
+recommendations but is produced under
+the auspices of the ADA by invited ex-
+perts. The scientiﬁc review may provide
+a scientiﬁc rationale for clinical practice
+recommendations in the Standards of
+Care. The category may also include task
+force and expert committee reports.
+Acknowledgments
+The ADA thanks the following external peer
+reviewers:
+G. Todd Alonso, MD
+Caroline M. Apovian, MD, FACP, FTOS, DABOM
+Joan K. Bardsley, MBA, RN, CDCES
+Sharon L. Edelstein, ScM
+Robert Frykberg, DPM, MPH
+Laura Hieronymus, DNP, MSEd, RN, MLDE,
+BC-ADM, CDCES, FADCES
+Sylvia Kehlenbrink, MD
+Mary Korytkowski, MD
+Marie E. McDonell, MD
+Felicia A. Mendelsohn Curanaj, MD
+Rodica Pop-Busui, MD, PhD
+Jane E. Reusch, MD
+Connie M. Rhee, MD
+Giulio R. Romeo, MD
+Alissa R. Segal, PharmD, CDE, CDTC, FCCP
+Shanti S. Serdy, MD
+Viral Shah, MD
+Jay H. Shubrook, DO
+Ruth S. Weinstock, MD, PhD
+ACC peer reviewers (Section 10):
+Kim K. Birtcher, PharmD, FACC
+Dave L. Dixon, PharmD, FACC
+James L. Januzzi, MD
+Saurabh Sharma, MD, FACC, FASE, FACP
+The ADA thanks the following individuals for
+their support:
+Abdullah Almaqhawi
+Rajvinder K. Gill
+Joshua Neumiller, PharmD
+Anne L. Peters, MD
+Sarosh Rana, MD
+Guillermo Umpierrez, MD, CDCES
+Mohanad R. Youssef, MD
+Members of the PPC
+Nuha Ali ElSayed, MD, MMSc (Chair)
+Grazia Aleppo, MD
+Vanita R. Aroda, MD
+Raveendhara R. Bannuru, MD, PhD, FAGE
+(Chief Methodologist)
+Florence M. Brown, MD
+Dennis Bruemmer, MD, PhD
+Billy S. Collins, DHSc, PA-C
+Marisa E. Hilliard, PhD
+Diana Isaacs, PharmD, BCPS, BCACP, CDCES,
+BC-ADM, FADCES, FCCP
+Eric L. Johnson, MD
+Scott Kahan, MD, MPH
+Kamlesh Khunti, MD, PhD, FRCP, FRCGP, FMedSci
+Jose Leon, MD, MPH
+Sarah K. Lyons, MD
+Mary Lou Perry, MS, RDN, CDCES
+Priya Prahalad, MD, PhD
+Richard E. Pratley, MD
+Jane Jeffrie Seley, DNP, MPH, MSN, BSN, RN,
+GNP, BC-ADM, CDCES, CDTC, FADCES, FAAN
+Robert C. Stanton, MD
+Robert A. Gabbay, MD, PhD
+ACC–Designated Representatives (Section 10)
+Sandeep R. Das, MD, MPH, FACC
+Mikhail Kosiborod, MD, FACC, FAHA
+Designated Subject Matter Experts
+Kenneth Cusi, MD, FACP, FACE
+Christopher H. Gibbons, MD, MMSc
+John M. Giurini, DPM
+Lisa Murdock
+Jennifer K. Sun, MD, MPH
+Crystal C. Woodward
+Deborah Young-Hyman, PhD, FTOS, Fel SBM,
+CDCES
+ADA Staff
+Raveendhara
+R.
+Bannuru,
+MD,
+PhD,
+FAGE
+(corresponding author, rbannuru@diabetes.org)
+Nuha Ali ElSayed, MD, MMSc
+Robert A. Gabbay, MD, PhD
+Malaika I. Hill, MA
+Laura S. Mitchell
+References
+1. American Diabetes Association. Medical
+Management of Type 1 Diabetes. 7th ed.Wang CC,
+Shah AC, Eds. Alexandria, VA, American Diabetes
+Association, 2017
+2. American Diabetes Association. Medical
+Management of Type 2 Diabetes. 8th ed.
+Meneghini L, Ed. Alexandria, VA, American
+Diabetes Association, 2020
+3. Council of Medical Specialty Societies. CMSS
+Code for Interactions with Companies. Accessed
+13 October 2022. Available from https://cmss.org/
+code-for-interactions-with-companies/
+4. Council for Medical Specialty Societies. CMSS
+Principles for the Development of Specialty
+Society Clinical Guidelines. Accessed 16 August
+2022.
+Available
+from
+https://cmss.org/wp-
+content/uploads/2017/11/Revised-CMSS-Principles-
+for-Clinical-Practice-Guideline-Development.pdf
+S4
+Introduction and Methodology
+Diabetes Care Volume 46, Supplement 1, January 2023
+Downloaded from http://diabetesjournals.org/care/article-pdf/46/Supplement_1/S1/693607/dc23sint.pdf by guest on 21 July 2025
