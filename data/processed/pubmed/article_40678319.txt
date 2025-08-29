@@ -1,0 +1,71 @@
+Title: Association between gestational diabetes mellitus and risk of breast cancer: a systematic review and meta-analysis.
+
+Abstract: 1. Front Endocrinol (Lausanne). 2025 Jul 3;16:1621932. doi: 
+10.3389/fendo.2025.1621932. eCollection 2025.
+
+Association between gestational diabetes mellitus and risk of breast cancer: a 
+systematic review and meta-analysis.
+
+Li J(#)(1), Li J(#)(2), Jin J(3), Zhang R(3), Li R(4), Xu X(1), Wang Y(1), Hu 
+X(1), Wang L(5), Yu S(5).
+
+Author information:
+(1)Department of Geriatric Radiology, The Second Medical Centre & National 
+Clinical Research Centre, Chinese PLA General Hospital, Beijing, China.
+(2)Department of the Sixth Health Care, The Second Medical Centre & National 
+Clinical Research Centre, Chinese PLA General Hospital, Beijing, China.
+(3)Department of Geriatric Emergency, The Second Medical Centre & National 
+Clinical Research Centre, Chinese PLA General Hospital, Beijing, China.
+(4)Department of the First Health Care, The Second Medical Centre & National 
+Clinical Research Centre, Chinese PLA General Hospital, Beijing, China.
+(5)Department of Geriatric Cardiovascular, The Second Medical Centre & National 
+Clinical Research Centre, Chinese PLA General Hospital, Beijing, China.
+(#)Contributed equally
+
+BACKGROUND: Gestational diabetes mellitus (GDM), a prevalent metabolic 
+complication during pregnancy, has a global prevalence of approximately 14%. Its 
+onset is closely associated with insulin resistance, insufficient compensatory 
+function of β - cells, and abnormal placental function. Epidemiological studies 
+have indicated that type 2 diabetes is an independent risk factor for breast 
+cancer. However, the association between GDM and the risk of breast cancer 
+remains controversial.
+OBJECTIVE: This systematic review and meta-analysis aim to comprehensively 
+evaluate the association between GDM and the risk of breast cancer and explore 
+its underlying mechanisms.
+METHODS: This study systematically searched PubMed, Web of Science, Scopus, 
+EMBASE, and the Cochrane Library databases, covering the period from 
+establishing each database until April 14, 2025. Two researchers extracted 
+relevant data and assessed the quality of included studies using the 
+Newcastle-Ottawa Scale. The study evaluated inter-study heterogeneity using the 
+I² statistic. Based on the magnitude of heterogeneity, fixed-effect or 
+random-effect models were employed to calculate the pooled hazard ratio (HR) and 
+its corresponding 95% confidence interval (CI). Additionally, subgroup analyses, 
+sensitivity analyses, funnel plot analyses, and publication bias assessments 
+were performed. All data analyses were conducted using STATA 17 software.
+RESULTS: The overall analysis revealed no significant association between GDM 
+and breast cancer risk (HR=1.03, 95%CI: 0.92-1.15). However, subgroup analysis 
+revealed significant regional heterogeneity: within the regional subgroups, 
+North American results showed an association between GDM and a reduced breast 
+cancer risk (HR=0.89, 95%CI: 0.84-0.95), whereas Asian findings suggested an 
+association with an increased risk (HR=1.23, 95%CI: 1.15-1.31). No significant 
+associations were observed in subgroups based on study design 
+(cohort/case-control) or follow-up duration (short-term/long-term). Sensitivity 
+analysis demonstrated robust results, and there was no publication bias in this 
+study.
+CONCLUSION: In summary, there is no significant association between GDM and 
+breast cancer risk overall. However, notable regional heterogeneity exists: in 
+the North American subgroup, GDM is associated with a reduced risk of breast 
+cancer, while in the Asian subgroup, GDM is significantly associated with an 
+increased risk of breast cancer.
+SYSTEMATIC REVIEW REGISTRATION: https://www.crd.york.ac.uk/PROSPERO/, identifier 
+CRD420251032589.
+
+Copyright © 2025 Li, Li, Jin, Zhang, Li, Xu, Wang, Hu, Wang and Yu.
+
+DOI: 10.3389/fendo.2025.1621932
+PMCID: PMC12267041
+PMID: 40678319 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

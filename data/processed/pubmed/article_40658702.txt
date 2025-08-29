@@ -1,0 +1,57 @@
+Title: Depressive disorders, bad mental health days, and diabetes management behaviors among non-Hispanic American Indian/Alaska Native adults: Findings from the Behavioral Risk Factor Surveillance System.
+
+Abstract: 1. PLoS One. 2025 Jul 14;20(7):e0327870. doi: 10.1371/journal.pone.0327870. 
+eCollection 2025.
+
+Depressive disorders, bad mental health days, and diabetes management behaviors 
+among non-Hispanic American Indian/Alaska Native adults: Findings from the 
+Behavioral Risk Factor Surveillance System.
+
+Wang K(1), Jiang L(2), Zhu J(3), Manson SM(4).
+
+Author information:
+(1)Graduate School of Social Work, University of Denver, Denver, Colorado.
+(2)Joe C. Wen School of Population and Public Health, University of California 
+Irvine, Irvine, CA.
+(3)School of Family and Consumer Sciences, Texas State University, San Marcos, 
+Texas.
+(4)Centers for American Indian and Alaska Native Health, University of Colorado 
+Anschutz Medical Campus, Aurora, Colorado.
+
+OBJECTIVE: This study examined the association between diagnosis of depressive 
+disorder, the number of bad mental health days per month, and diabetes 
+management behaviors among American Indian/Alaska Native (AI/AN) adults with 
+diabetes.
+RESEARCH DESIGN AND METHODS: Data were drawn from the Behavioral Risk Factor 
+Surveillance System (2018-2021), including 2,272 self-identified non-Hispanic 
+AI/AN adults diagnosed with non-gestational diabetes. Key variables included a 
+self-reported prior diagnosis of depressive disorder and the number of bad 
+mental health days in the past month. Outcome variables were seven diabetes 
+management behaviors, such as taking a diabetes management class and performing 
+daily foot checks. Statistical analyses included descriptive statistics, 
+chi-squared tests, ANOVA, and logistic regression models.
+RESULTS: Among the participants, 24.8% were diagnosed with depressive disorder, 
+and 19.5% reported at least 14 bad mental health days in the past month. 
+Logistic regression models show that those reporting depressive disorders were 
+significantly less likely to check their feet daily (adjusted odds ratio (AOR) = 
+0.56, 95% CI: 0.34-0.92). Individuals with at least 14 bad mental health days 
+were significantly less likely to have ever taken a diabetes management class 
+(AOR = 0.59, 95% CI: 0.36-0.99) and check their feet daily (AOR = 0.37, 95% CI: 
+0.21-0.65) than those reporting no bad mental health days.
+CONCLUSIONS: Depressive disorders and frequent bad mental health days were 
+associated with lower odds of diabetes management behaviors among AI/AN adults. 
+These findings suggest that enhancing mental health support within diabetes 
+management programs may help address disparities in diabetes care among AI/AN 
+adults.
+
+Copyright: © 2025 Wang et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0327870
+PMCID: PMC12258579
+PMID: 40658702 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.

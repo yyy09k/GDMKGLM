@@ -1,0 +1,73 @@
+Title: Heterogeneity in the association between a dietary pattern high in fat, sugar, and sodium and adverse pregnancy outcomes by maternal characteristics: a US pregnancy cohort study.
+
+Abstract: 1. Am J Clin Nutr. 2025 Jul 11:S0002-9165(25)00394-6. doi: 
+10.1016/j.ajcnut.2025.07.005. Online ahead of print.
+
+Heterogeneity in the association between a dietary pattern high in fat, sugar, 
+and sodium and adverse pregnancy outcomes by maternal characteristics: a US 
+pregnancy cohort study.
+
+Bodnar LM(1), Kirkpatrick SI(2), Yu YH(3), Kennedy E(4), Parisi SM(5), Naimi 
+AI(3).
+
+Author information:
+(1)Department of Epidemiology, School of Public Health, University of 
+Pittsburgh, Pittsburgh, Pennsylvania, USA; Department of Obstetrics, Gynecology, 
+and Reproductive Sciences, School of Medicine, University of Pittsburgh, 
+Pittsburgh, Pennsylvania, USA. Electronic address: lbodnar@pitt.edu.
+(2)School of Public Health Sciences, University of Waterloo, Waterloo, Ontario, 
+Canada.
+(3)Department of Epidemiology, Rollins School of Public Health, Emory 
+University, Atlanta, Georgia, USA.
+(4)Department of Statistics, Carnegie Mellon University, Pittsburgh, 
+Pennsylvania, USA.
+(5)Department of Epidemiology, School of Public Health, University of 
+Pittsburgh, Pittsburgh, Pennsylvania, USA.
+
+BACKGROUND: "Precision nutrition" aims to recognize variation in response to 
+dietary patterns to inform tailored advice based on behavioral, social, 
+environmental, genetic, and metabolic factors.
+OBJECTIVE: We sought to identify characteristics of pregnant individuals that 
+modify the associations between a high fat, sugar, and sodium diet and poor 
+perinatal outcomes.
+DESIGN: We used data from 8054 participants in the Nulliparous Pregnancy 
+Outcomes Study: monitoring mothers-to-be (8 US medical centers, 2010‒2013), a 
+prospective cohort study. Usual periconceptional dietary intake was assessed at 
+6‒13 weeks gestation using a food frequency questionnaire. The exposure was a 
+high fat, sugar, and sodium dietary pattern versus all other diet patterns. The 
+outcome was a composite of one or more perinatal outcomes: preeclampsia, 
+gestational diabetes, preterm birth, or small-for-gestational-age birth. We used 
+the doubly-robust learner, which enables the use of machine learning to identify 
+maternal characteristics that modify the effect of the dietary pattern on the 
+composite outcome.
+RESULTS: Approximately 29% had a dietary pattern that was high in fat, sugar, 
+and sodium. One quarter had any adverse pregnancy outcome. The 
+confounder-adjusted association between a high fat, sugar, and sodium dietary 
+pattern and the risk of the adverse composite pregnancy outcome was stronger 
+among certain subgroups of the cohort than others, including individuals with a 
+higher BMI, lower socioeconomic status, and non-Hispanic Black race/ethnicity. 
+For instance, compared with other diet patterns, intake of a diet high in fat, 
+sugar, and sodium was associated with 5.9 excess cases per 100 pregnancies 
+(adjusted risk difference 0.059 (95% confidence interval 0.012, 0.11) among 
+individuals living in a high-poverty neighborhood, but 2.3 excess cases per 100 
+pregnancies (0.023; 95% CI -0.011, 0.057) among those residing in a low-poverty 
+neighborhood.
+CONCLUSIONS: This work may provide clues that contribute to a deeper 
+understanding of the heterogeneity in dietary responses in pregnancy.
+
+Copyright © 2025 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajcnut.2025.07.005
+PMID: 40653273
+
+Conflict of interest statement: Declaration of interests ☒ The authors declare 
+the following financial interests/personal relationships which may be considered 
+as potential competing interests: Lisa Bodnar reports financial support was 
+provided by National Institute of Child Health and Human Development. If there 
+are other authors, they declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence the 
+work reported in this paper. Ashley Isaac Naimi reports financial support was 
+provided by National Institutes of Health. If there are other authors, they 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.

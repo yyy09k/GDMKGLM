@@ -1,0 +1,54 @@
+Title: Optimal timing of delivery in pregnant individuals with pregestational diabetes mellitus.
+
+Abstract: 1. Am J Perinatol. 2025 Jul 17. doi: 10.1055/a-2657-6130. Online ahead of print.
+
+Optimal timing of delivery in pregnant individuals with pregestational diabetes 
+mellitus.
+
+Fleenor R(1), Jauk VC, Champion M(2), Battarbee AN(3).
+
+Author information:
+(1)Obstetrics and Gynecology, The University of Alabama at Birmingham Department 
+of Obstetrics and Gynecology Women's Health, Birmingham, United States.
+(2)Center for Women's Reproductive Health, Department of Obstetrics and 
+Gynecology, University of Alabama at Birmingham, Birmingham, United States.
+(3)Maternal Fetal Medicine, The University of Alabama at Birmingham, Birmingham, 
+United States.
+
+INTRODUCTION: SMFM and ACOG recommend delivery of gravidae with pregestational 
+diabetes at 36-39 6/7 weeks based on glycemic control and vascular 
+complications. The optimal gestational age within this wide range is unknown. 
+Our objective was to evaluate the risk of adverse outcomes with delivery versus 
+expectant management at increasing gestational ages.
+METHODS: Retrospective cohort study of gravidae with pregestational diabetes who 
+delivered a non-anomalous singleton at 36 weeks (2012-2022). The primary 
+outcome was composite neonatal morbidity: hypoglycemia, hyperbilirubinemia, 
+shoulder dystocia, and perinatal death. Secondary outcomes included composite 
+components, composite severe neonatal morbidity, LGA, SGA, NICU admission and 
+cesarean. Poisson regression with robust error variance estimated the 
+association between delivery at 36, 37, and 38 weeks and outcomes, compared with 
+expectant management.
+RESULTS: 843 gravidae met inclusion criteria: 235 (28%) type 1 diabetes and 602 
+(71%) type 2 diabetes. Overall, 146 (17%) delivered at 36 weeks, 283 (34%) at 37 
+weeks, 217 (26%) at 38 weeks, and 197 (23%) at 39 weeks. Compared with 
+expectant management, delivery at 36 weeks was associated with higher odds of 
+composite morbidity (aRR 1.31, 95% CI 1.11-1.55) as well as hypoglycemia, 
+hyperbilirubinemia, SGA and NICU admission. At 37 and 38 weeks, there was no 
+significant difference in composite morbidity among those delivered versus 
+expectantly managed. However, delivery at 37 weeks was associated with higher 
+odds of hyperbilirubinemia, compared with expectant management. No other 
+outcomes differed between with delivery versus expectant management at 37 or 38 
+weeks. Few associations differed by diabetes type.
+CONCLUSION: Based on these results and supporting literature, elective delivery 
+at 36 weeks should be avoided unless necessary. Although the data are 
+inconclusive regarding delivery at 37 weeks, delivery at 38 weeks should be 
+evaluated further for gravidae with pregestational diabetes. Confirmation in a 
+large, contemporary cohort or a randomized trial are needed.
+
+Thieme. All rights reserved.
+
+DOI: 10.1055/a-2657-6130
+PMID: 40675607
+
+Conflict of interest statement: The authors declare that they have no conflict 
+of interest.

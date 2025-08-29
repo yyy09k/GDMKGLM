@@ -1,0 +1,49 @@
+Title: Type 2 diabetes risk communication following a diagnosis of gestational diabetes mellitus: A qualitative study.
+
+Abstract: 1. Diabet Med. 2025 Jul 15:e70105. doi: 10.1111/dme.70105. Online ahead of print.
+
+Type 2 diabetes risk communication following a diagnosis of gestational diabetes 
+mellitus: A qualitative study.
+
+Caba M(1), Northern A(2), Virdee A(2), Khunti K(1)(2)(3)(4), Davies MJ(1)(2)(4), 
+Hadjiconstantinou M(1)(4).
+
+Author information:
+(1)Diabetes Research Centre, College of Life Sciences, University of Leicester, 
+Leicester, UK.
+(2)Leicester Diabetes Centre, University Hospitals of Leicester NHS Trust, 
+Leicester, UK.
+(3)NIHR Applied Research Collaboration East Midlands, Leicester, UK.
+(4)NIHR Leicester Biomedical Research Centre, Leicester, UK.
+
+BACKGROUND: Gestational diabetes mellitus (GDM) increases women's risk of 
+developing type 2 diabetes (T2DM) tenfold. Understanding of T2DM risk in women 
+with GDM is variable and can impact health behaviours. To better understand how 
+T2DM risk is communicated by healthcare professionals, we explored women's 
+experiences of T2DM risk communication and support following a diagnosis of GDM.
+METHODS: A qualitative study was conducted utilising semi-structured interviews. 
+Participants were 10 women previously diagnosed with GDM. Transcripts were 
+analysed following reflexive thematic analysis guidelines.
+RESULTS: Three themes and four sub-themes were created to describe women's 
+experiences of, and responses to, T2DM risk communication and support following 
+a diagnosis of GDM. Minimal T2DM risk communication during GDM and postnatally 
+was a common experience, and as a result, women forgot about their increased 
+risk and felt forgotten by the health service. The lack of correspondence and 
+support further fostered a dearth of knowledge and misunderstandings regarding 
+what T2DM is, how it affects a person's body, and the necessity of preventative 
+actions, all of which could impact women's management of their risk. Several 
+strategies were suggested by women to remedy the currently absent communication 
+and support. This included group education sessions, tangible and digital 
+support resources, providing individualised information, and continuous and 
+harmonious T2DM risk communication from healthcare professionals and health 
+services.
+CONCLUSIONS: Current deficiencies for communicating T2DM risk and providing 
+avenues of support following a diagnosis of GDM leaves many women feeling 
+under-supported. Improvements to current care are recommended to ameliorate 
+this.
+
+© 2025 The Author(s). Diabetic Medicine published by John Wiley & Sons Ltd on 
+behalf of Diabetes UK.
+
+DOI: 10.1111/dme.70105
+PMID: 40665564

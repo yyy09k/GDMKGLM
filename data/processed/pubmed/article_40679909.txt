@@ -1,0 +1,68 @@
+Title: GDM links to increased neonatal myocardial hypertrophy via ANGPTL7: prospective cohort study.
+
+Abstract: 1. J Obstet Gynaecol. 2025 Dec;45(1):2531366. doi: 10.1080/01443615.2025.2531366.
+ Epub 2025 Jul 18.
+
+GDM links to increased neonatal myocardial hypertrophy via ANGPTL7: prospective 
+cohort study.
+
+Jian W(1)(2), Shi S(1), Yang X(1), Huang Y(3), Du C(3), He M(1), Li X(1), Huang 
+M(1), Yuan R(1), Wei L(1), Yang S(2), Cai S(1), Yang J(2)(3).
+
+Author information:
+(1)Department of Neonatology, Zhongshan City People's Hospital, Zhongshan, 
+China.
+(2)Department of Neonatology, Guangdong Maternal and Children Hospital, 
+Guangzhou, China.
+(3)Department of Neonatology, Nanfang Hospital, Southern Medical University, 
+Guangzhou, China.
+
+BACKGROUND: Gestational diabetes mellitus (GDM) can negatively impact newborn 
+cardiac health, particularly causing myocardial hypertrophy. This study examined 
+the relationship between umbilical cord blood levels of angiopoietin-like 
+protein 7 (ANGPTL7) in term neonates born to mothers with GDM and myocardial 
+development, assessing its potential as an early predictive marker.
+METHODS: The study involved 46 newborns exposed to GDM and 46 healthy controls. 
+Measure the interventricular septum (IVS) thickness through cardiac ultrasound 
+and evaluate the level of ANGPTL7 in umbilical cord blood using the ELISA 
+method.
+RESULTS: The incidence of myocardial hypertrophy in the GDM group was 19.6%, 
+significantly higher than 0% in the control group, and increased to 27.3% in 
+neonates of mothers with GDM and poor glycaemic control. ANGPTL7 levels in the 
+GDM group were significantly elevated compared to the control group (1.87 vs. 
+1.11 ng/mL). Furthermore, these levels were positively correlated with IVS 
+thickness. In the poorly-controlled GDM subgroup (GDM-A), neonates had 
+significantly higher ANGPTL7 levels and IVS/LVPW ratio (1.19 vs. 1.03), 
+indicating more severe myocardial abnormalities.
+CONCLUSION: ANGPTL7 may contribute to myocardial hypertrophy in GDM neonates by 
+promoting insulin resistance. Monitoring ANGPTL7 levels in umbilical cord blood 
+could help identify high-risk neonates and guide optimal glycaemic management 
+during pregnancy. Although the sample size was small, the study offers new 
+evidence of ANGPTL7's clinical utility. Future research should expand the sample 
+size and investigate the molecular mechanisms of ANGPTL7 to develop personalised 
+interventions.
+TRIAL REGISTRATION: This study was not registered prospectively.
+
+Plain Language Summary: This study explored how diabetes during pregnancy 
+affects newborns’ heart health, focusing on a protein called ANGPTL7 in 
+umbilical cord blood that may relate to heart issues in infants. To explore 
+this, we compared 46 babies born to mothers with GDM to 46 babies born to 
+mothers without diabetes. Doctors performed heart ultrasounds on these babies to 
+measure the thickness of their heart walls and also tested the levels of ANGPTL7 
+in their umbilical cord blood.Our main discoveries were that babies born to 
+mothers with diabetes were more likely to have thicker heart walls compared to 
+babies born to mothers without diabetes. Furthermore, when diabetes was not well 
+managed during pregnancy, the babies faced an even higher risk of heart 
+problems. We also found that higher levels of ANGPTL7 in the umbilical cord 
+blood were associated with more severe changes in the heart structure of these 
+newborns.These findings are significant because testing for ANGPTL7 at birth 
+could help doctors in several ways. It could identify babies who need closer 
+monitoring of their heart health, guide mothers on how to better control their 
+diabetes during pregnancy to protect their baby’s heart, and pave the way for 
+developing new treatments aimed at safeguarding the hearts of babies born to 
+mothers with diabetes. Although further research is necessary, our study offers 
+hope for improved care and outcomes for both mothers with diabetes and their 
+newborns.
+
+DOI: 10.1080/01443615.2025.2531366
+PMID: 40679909 [Indexed for MEDLINE]

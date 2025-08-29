@@ -1,0 +1,59 @@
+Title: Mediating role of systemic inflammation on the association between periodontitis and gestational diabetes mellitus: a cross-sectional study.
+
+Abstract: 1. BMC Oral Health. 2025 Jul 16;25(1):1179. doi: 10.1186/s12903-025-06541-x.
+
+Mediating role of systemic inflammation on the association between periodontitis 
+and gestational diabetes mellitus: a cross-sectional study.
+
+Cheng J(#)(1), Jiang Q(#)(2), Liu Y(1), Zhang S(1), Wang Y(1), Lin D(3), Cheng 
+B(4).
+
+Author information:
+(1)Department of Stomatology, Zhongnan Hospital of Wuhan University, 169 Donghu 
+Rd, Wuhan, 430071, China.
+(2)Department of Epidemiology and Biostatistics, School of Public Health, Wuhan 
+University, Wuhan, 430071, China.
+(3)Department of Stomatology, Wuhan No.l Hospital, Wuhan, China. 
+99677268@qq.com.
+(4)Department of Stomatology, Zhongnan Hospital of Wuhan University, 169 Donghu 
+Rd, Wuhan, 430071, China. chengbo@znhospital.cn.
+(#)Contributed equally
+
+OBJECTIVES: This study aimed to explore the relationship between periodontitis 
+and gestational diabetes mellitus (GDM) and to ascertain the role of systemic 
+inflammation in mediating this association.
+METHODS: Data from 5,283 women of reproductive age ranging from 20 to 44 years 
+were retrieved from the National Health and Nutrition Examination Survey 
+(NHANES) III (1988-1994) and NHANES 2009-2014 cycles. The female participants 
+were categorized into three groups: non-diabetes, DM, and GDM. Multivariate 
+logistic and linear regression models were employed to assess the correlations 
+between periodontal variables and diabetes status. Additionally, a mediation 
+analysis was performed to explore the role of systemic inflammatory biomarkers.
+RESULTS: Compared to non-periodontitis, women with periodontitis have a 1.68 
+times higher risk of having GDM (OR = 1.68, 95% CI: 1.14-2.50). Clinical 
+attachment level (CAL), the continuous periodontal parameter, also presented a 
+significant association with GDM risk (OR = 1.50, 95% CI: 1.25-1.81 per 1-mm 
+increase). Linear regression analyses further revealed that hemoglobin A1c 
+(HbA1c) levels were positively associated with periodontitis (Beta = 0.19, 
+SE = 0.06, p < 0.01) and CAL (Beta = 0.06, SE = 0.03, p < 0.001), respectively. 
+The association between periodontitis and GDM risk was found to be mediated by 
+white blood cell count (WBC), monocyte count, and monocyte-lymphocyte ratio 
+(MLR), with mediation proportions of 5.02%, 5.88%, and 5.20%, respectively. 
+Similar mediation effects were observed for the CAL-GDM association.
+CONCLUSIONS: The present study indicated that periodontitis was associated with 
+GDM among women of childbearing age, with systemic inflammation potentially 
+serving as a partial mediator of this association.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12903-025-06541-x
+PMCID: PMC12269137
+PMID: 40670950 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The data collection protocols for NHANES were approved by the 
+National Center for Health Statistics (NCHS) Research Ethics Review Board, with 
+informed consent obtained from all participants. Due to the publicly available 
+anonymized data, it did not require further ethical approval. Consent for 
+publication: Not applicable. Competing interests: The authors declare no 
+competing interests.

@@ -1,0 +1,62 @@
+Title: Serum Uric Acid-to-Serum Creatinine Ratio, Thyroid Function, and Gestational Diabetes Mellitus Risk during Early Pregnancy among Chinese Women.
+
+Abstract: 1. Diabetes Metab Syndr Obes. 2025 Jul 7;18:2235-2246. doi: 10.2147/DMSO.S486695.
+ eCollection 2025.
+
+Serum Uric Acid-to-Serum Creatinine Ratio, Thyroid Function, and Gestational 
+Diabetes Mellitus Risk during Early Pregnancy among Chinese Women.
+
+Song S(1), Duo Y(1), Zhang Y(2), Qiao X(3), Chen Y(3), Fu Y(1), Dong Y(1), Yuan 
+T(1), Zhao W(1).
+
+Author information:
+(1)Department of Endocrinology, Key Laboratory of Endocrinology of Ministry of 
+Health, Peking Union Medical College Hospital, Chinese Academy of Medical 
+Science and Peking Union Medical College, Beijing, People's Republic of China.
+(2)Department of Obstetrics, Haidian District Maternal and Child Health Care 
+Hospital, Beijing, People's Republic of China.
+(3)Department of Obstetrics, Beijing Chaoyang District Maternal and Child Health 
+Care Hospital, Beijing, People's Republic of China.
+
+OBJECTIVE: This study aimed to explore the relationship between serum uric 
+acid-to-serum creatinine (UA:SCr) ratio and thyroid function within the normal 
+range and in gestational diabetes mellitus (GDM) during early pregnancy in 
+Chinese women.
+METHODS: A total of 958 pregnant women were enrolled in this prospective 
+double-center cohort study. Liver function, renal function, and thyroid function 
+were tested during 6-12 weeks of gestation and oral glucose tolerance tests were 
+conducted for 24-28 weeks to screen for GDM. Associations between UA:SCr ratio 
+and thyroid function and GDM were examined by linear and logistic regression 
+analyses.
+RESULTS: The incidence of GDM was 19.3% (185/958) in this study. UA:SCr ratio 
+and free thyroxine (FT4) were significantly higher in pregnant women with GDM in 
+the highest preBMI quartile than the normal glucose tolerance group (median 
+5.22, IQR 4.47-5.87 vs median 4.87, IQR 4.05-5.61, mean difference -0.52, 
+P=0.04; median 1.13, IQR 1.02-1.28 vs median 1.18, IQR 1.07-1.32, mean 
+difference 0.14, P=0.02). Both UA:SCr ratio and FT4 were associated with risk of 
+GDM in pregnant women in the highest preBMI quartile (RR 0.331, 95% CI 
+1.094-1.772, P=0.007; RR -1.533, 95% CI 0.055-0.853, P=0.029). For pregnant 
+women in the third and fourth preBMI quartiles, the UA:SCr ratio was 
+significantly correlated with euthyroid function (FT4 and UA:SCr ratio): preBMI 
+quartile 3 - β=0.659, 95% CI 0.231-1.087), P=0.003; FT4 and UA:SCr ratio in 
+preBMI quartile 4 - β=-0.263, 95% CI -0.516 to-0.011, P=0.041; TSH and UA:SCr 
+ratio in preBMI-quartile 4 - β=0.131, 95% CI 0.008-0.253, P=0.036. Further 
+analysis revealed that FT4 was associated with risk of GDM in pregnant women in 
+the highest UA:SCr ratio quartile (RR 0.052, 95% CI 1.010-1.096, P=0.012). There 
+was also an interaction effect between FT4 and UA:SCr ratio in relation to the 
+risk of GDM in the highest UA:SCr ratio quartile (P=0.02).
+CONCLUSION: Both UA:SCr ratio and FT4 were associated with the risk of GDM in 
+early pregnancy, particularly among women in the highest prepregnancy BMI 
+quartile. FT4 level within the normal range was correlated with UA:SCr ratio in 
+women in the third and fourth prepregnancy BMI quartiles. These results suggest 
+the complex interplay of metabolic changes during early pregnancy and provide 
+new insights for the early prevention and management of GDM.
+
+© 2025 Song et al.
+
+DOI: 10.2147/DMSO.S486695
+PMCID: PMC12248715
+PMID: 40655163
+
+Conflict of interest statement: The authors declare that there are no conflicts 
+of interest regarding the publication of this paper.

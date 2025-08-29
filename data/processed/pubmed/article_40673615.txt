@@ -1,0 +1,52 @@
+Title: Fasting plasma glucose performs better than glycated hemoglobin and glycated albumin for diagnosing gestational diabetes.
+
+Abstract: 1. Int J Gynaecol Obstet. 2025 Jul 17. doi: 10.1002/ijgo.70370. Online ahead of 
+print.
+
+Fasting plasma glucose performs better than glycated hemoglobin and glycated 
+albumin for diagnosing gestational diabetes.
+
+Khambule L(1), Chauke L(2), Crowther NJ(1)(3), George JA(4).
+
+Author information:
+(1)Department of Chemical Pathology, University of Witwatersrand, Johannesburg, 
+South Africa.
+(2)Department of Obstetrics and Gynecology, School of Clinical Medicine, Faculty 
+of Health Sciences, University of the Witwatersrand & Charlotte Maxeke 
+Johannesburg Academic Hospital, Johannesburg, South Africa.
+(3)Department of Chemical Pathology, National Health Laboratory Service, 
+Johannesburg, South Africa.
+(4)National Health Laboratory Service, South Africa, Department of Chemical 
+Pathology, University of Witwatersrand and Wits Diagnostic Innovation Hub, Wits 
+Health Consortium, Johannesburg, South Africa.
+
+OBJECTIVE: Universal screening for gestational diabetes mellitus (GDM) using the 
+oral glucose tolerance test (OGTT) has been recommended. In resource-poor 
+environments, OGTTs are only administered to high-risk cases. In countries such 
+as South Africa, where female obesity is common, this translates into high 
+numbers of tests. We therefore investigated glycated hemoglobin (HbA1c), 
+glycated albumin (GA) and fasting plasma glucose (FPG) as OGTT alternatives.
+METHODS: This was a cross-sectional study in black South African women between 
+24 and 32 weeks of gestation who were at high risk for GDM (N = 477). All women 
+underwent an OGTT and were classified as non-GDM or GDM based on the 
+International Association of Diabetes and Pregnancy Study Group (IADPSG) 
+criteria. Demographic and anthropometric data were documented, and blood 
+glucose, GA and HbA1c levels were measured using standardized laboratory 
+procedures. Cut-points for GDM diagnosis using HbA1c and GA were calculated 
+using receiver operating characteristic (ROC) curve analysis.
+RESULTS: The sensitivity and specificity of HbA1c at a 5.5% cut-point for GDM 
+diagnosis were 54% and 80% and for GA at a 37.56% cut-point were 54% and 83% 
+whilst FPG at a 5.1 mmol/L (92 mg/dL) cut-point were 87% and 100%, respectively, 
+missing 10 of 78 GDM cases. Applying an FPG cut-point of 4.6 mmol/L (83 mg/dL), 
+nine of the 10 remaining GDM cases were identified, with sensitivity and 
+specificity of 90% and 75%, respectively. This two-tiered approach missed one of 
+78 GDM cases.
+CONCLUSION: FPG is a viable method for GDM diagnosis that when used in a 
+two-tiered modality reduces the number of required OGTTs by 77%.
+
+© 2025 The Author(s). International Journal of Gynecology & Obstetrics published 
+by John Wiley & Sons Ltd on behalf of International Federation of Gynecology and 
+Obstetrics.
+
+DOI: 10.1002/ijgo.70370
+PMID: 40673615

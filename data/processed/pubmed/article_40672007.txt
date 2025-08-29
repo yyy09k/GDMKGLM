@@ -1,0 +1,81 @@
+Title: Impact of Gestational Diabetes on Neonatal Birth Weight and Maternal Postpartum Metabolic Changes.
+
+Abstract: 1. Cureus. 2025 Jun 15;17(6):e86060. doi: 10.7759/cureus.86060. eCollection 2025 
+Jun.
+
+Impact of Gestational Diabetes on Neonatal Birth Weight and Maternal Postpartum 
+Metabolic Changes.
+
+Khan AA(1)(2), Javed S(1)(2), Noreen S(1)(2), Chaudhry MR(3)(4), Afridi S(2).
+
+Author information:
+(1)Obstetrics and Gynaecology, Letterkenny University Hospital, Letterkenny, 
+IRL.
+(2)Obstetrics and Gynaecology, Health Net Hospital, Peshawar, PAK.
+(3)Internal Medicine, Letterkenny University Hospital, Letterkenny, IRL.
+(4)Medicine, Health Net Hospital, Peshawar, PAK.
+
+BACKGROUND: Gestational diabetes mellitus (GDM) is a growing public health 
+concern globally, particularly in the context of rising maternal obesity and 
+glucose intolerance. GDM poses significant risks to both neonatal and maternal 
+health, including fetal overgrowth, birth complications, and long-term metabolic 
+disorders. This study aimed to evaluate the impact of GDM on neonatal birth 
+weight and maternal postpartum metabolic changes. The primary objective was to 
+assess the incidence of macrosomia and small-for-gestational-age (SGA) births in 
+pregnancies complicated by GDM. Secondary objectives included evaluating 
+postpartum glycemic and lipid profiles, comparing metabolic parameters at six 
+weeks and six months between GDM and non-GDM groups, and identifying predictive 
+and moderating variables such as glycemic control, pre-pregnancy BMI, and 
+gestational weight gain.
+METHODOLOGY: A prospective cohort study was conducted over an 18-month period 
+(October 2023 to April 2025) at Health Net Hospital, a tertiary care and 
+referral center located in Peshawar, Pakistan. A total of 219 pregnant women 
+were initially screened for eligibility. Following the application of inclusion 
+and exclusion criteria, 189 women were enrolled, 94 diagnosed with GDM and 95 
+without GDM, serving as matched controls. Data were collected at three time 
+points: during the second trimester (baseline), at delivery, and during 
+postpartum follow-up at six weeks and six months. Maternal metabolic markers, 
+including glycemic and lipid profiles, were assessed longitudinally, while 
+neonatal outcomes such as birth weight, NICU admission, and hypoglycemia were 
+documented at birth. Follow-up adherence was ensured through scheduled reminders 
+and flexible appointment rescheduling. Clinical and laboratory data were 
+collected using standardized protocols by trained staff. Logistic regression 
+analysis was used to identify independent predictors of adverse maternal and 
+neonatal outcomes, with adjustments for potential confounders. Data analysis was 
+performed using IBM SPSS Statistics for Windows, Version 29.0.2.0 (IBM Corp., 
+Armonk, New York, United States).
+RESULTS: Neonates of GDM mothers had significantly higher birth weights (mean 
+3689 g vs. 3143 g; p<0.0001), with increased incidence of neonatal hypoglycemia 
+in 16 (17%) GDM cases compared to four (4.2%) non-GDM cases and NICU admissions 
+in 19 (20.2%) GDM neonates versus five (5.3%) non-GDM neonates. GDM mothers 
+exhibited elevated fasting glucose at six weeks (mean 98.5 mg/dL) and six months 
+(94.1 mg/dL) postpartum, compared to non-GDM mothers (85.3 mg/dL and 83.2 mg/dL, 
+respectively; p<0.0001). Homeostasis Model Assessment of Insulin Resistance 
+(HOMA-IR) and triglyceride levels were also significantly higher in the GDM 
+group. GDM (OR=2.8), higher pre-pregnancy BMI, and poor glycemic control (HbA1c 
+>5.9%) were independent predictors of neonatal macrosomia and maternal insulin 
+resistance.
+CONCLUSION: GDM significantly increases the risk of macrosomia, neonatal 
+complications, and sustained maternal metabolic dysfunction postpartum. These 
+findings underscore the importance of early diagnosis, effective glycemic 
+control, and structured postpartum follow-up to mitigate long-term risks.
+
+Copyright © 2025, Khan et al.
+
+DOI: 10.7759/cureus.86060
+PMCID: PMC12263459
+PMID: 40672007
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Ethics Review Committee of Health Net Hospital issued approval 
+3061/HNH/HR. Animal subjects: All authors have confirmed that this study did not 
+involve animal subjects or tissue. Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.

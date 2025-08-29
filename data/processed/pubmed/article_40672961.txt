@@ -1,0 +1,54 @@
+Title: Prediction and immune landscape study of potentially key autophagy-related biomarkers in preeclampsia with gestational diabetes mellitus.
+
+Abstract: 1. Front Immunol. 2025 Jul 2;16:1571795. doi: 10.3389/fimmu.2025.1571795. 
+eCollection 2025.
+
+Prediction and immune landscape study of potentially key autophagy-related 
+biomarkers in preeclampsia with gestational diabetes mellitus.
+
+Wang Q(1), Li X(2), Ye W(3), Lin L(4), Ye K(4), Peng M(4).
+
+Author information:
+(1)Department of Geriatric Integrative, Second Affiliated Hospital of Xinjiang 
+Medical University, Urumqi, Xinjiang, China.
+(2)The Second Affiliated Hospital of Xinjiang Medical University, The Second 
+Clinical Medical College, Xinjiang Medical University, Urumqi, Xinjiang, China.
+(3)Nephrology Department, Second Affiliated Hospital of Xinjiang Medical 
+University, Xinjiang, Urumqi, China.
+(4)Wenzhou Key Laboratory for the Diagnosis and Prevention of Diabetic 
+Complications, Department of Gynecology and Obstetrics, The Third Affiliated 
+Hospital of Wenzhou Medical University (Ruian People's Hospital), Rui'an, 
+Zhejiang, China.
+
+INTRODUCTION: Gestational diabetes mellitus (GDM) and preeclampsia are prevalent 
+pregnancy complications that threaten maternal and infant health while imposing 
+substantial socioeconomic burdens. Although several interventions exist, 
+shortcomings in individualized treatment and other limitations necessitate 
+urgent in-depth research. This study aimed to examine alterations in 
+autophagy-related gene expression in preeclampsia combined with GDM.
+METHODS: We conducted bioinformatics analyses including gene expression 
+profiling, weighted gene co-expression network analysis (WGCNA), gene ontology 
+(GO) and KEGG enrichment analyses, machine learning modeling, immune 
+infiltration analyses, and single-cell RNA sequencing. Differentially expressed 
+autophagy-related genes linked to preeclampsia with GDM were identified. 
+Expression levels of four key genes were validated in placental samples using 
+reverse transcription quantitative polymerase chain reaction (RT-qPCR).
+RESULTS: Our findings identified potential biomarkers and molecular mechanisms 
+underlying preeclampsia with GDM. Single-cell analysis corroborated these 
+results, revealing distinct autophagy-related gene signatures and enhancing 
+understanding of the pathophysiology.
+DISCUSSION: This study elucidates molecular mechanisms connecting GDM and 
+preeclampsia, identifies novel biomarkers and therapeutic targets, and provides 
+a valuable reference for future research and clinical applications. The 
+integration of multi-omics approaches advances precision medicine strategies for 
+these comorbid conditions.
+
+Copyright © 2025 Wang, Li, Ye, Lin, Ye and Peng.
+
+DOI: 10.3389/fimmu.2025.1571795
+PMCID: PMC12263617
+PMID: 40672961 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

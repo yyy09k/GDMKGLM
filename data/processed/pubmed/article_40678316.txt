@@ -1,0 +1,49 @@
+Title: Assessment of neonatologists' competency in managing gestational diabetes complications: a cross-sectional analysis from China.
+
+Abstract: 1. Front Endocrinol (Lausanne). 2025 Jul 3;16:1574480. doi: 
+10.3389/fendo.2025.1574480. eCollection 2025.
+
+Assessment of neonatologists' competency in managing gestational diabetes 
+complications: a cross-sectional analysis from China.
+
+Yang Y(1), Yang Y(1).
+
+Author information:
+(1)Department of Neonatal, The Central Hospital of Enshi Tujia and Miao 
+Autonomous, Enshi, Hubei, China.
+
+BACKGROUND: Gestational diabetes mellitus (GDM) significantly impacts long-term 
+child health outcomes. This study assessed neonatologists' knowledge, attitudes, 
+and practices (KAP) regarding GDM-related complications in offspring.
+METHODS: A cross-sectional study of 1,614 neonatologists in Hubei Province, 
+China, utilized a validated 28-item questionnaire examining knowledge (12 
+items), attitudes (8 items), and practices (8 items). Responses were scored on a 
+trichotomous scale. Binary logistic regression analyzed predictors of 
+satisfactory performance across domains.
+RESULTS: Among 1,614 neonatologists, 1,437 (89%) demonstrated satisfactory 
+knowledge, 1,513 (94%) positive attitudes, and 1,165 (72%) good practices. 
+Knowledgeable practitioners were significantly older (45.4 vs 36.2 years; OR 
+1.42 [95% CI 1.40-1.44]; p<.001) with greater experience (13.8 vs 10.5 years; 
+1.41 [1.35-1.46]; p<.001). Academic hospital affiliation showed higher 
+competency versus community settings (0.12 [0.08-0.20]; p<.001). Practice 
+patterns varied by education, with MD-PhD holders demonstrating higher odds of 
+good practice (1.32 [1.03-1.71]; P=.032) compared with fellowship training (0.69 
+[0.51-0.92]; p=.009). Universal documentation of maternal GDM coexisted with 
+suboptimal rates of periodic evaluations (81%) and specialist referrals (84%). 
+Knowledge competency (7.52 [5.90-9.60]; p<.001) and positive attitudes (15.81 
+[9.90-25.26]; p<.001) strongly predicted practice patterns.
+CONCLUSIONS: Despite high knowledge levels and positive attitudes, particularly 
+among experienced practitioners in academic settings, implementation gaps exist 
+in follow-up protocols and specialist referrals. Practice setting significantly 
+influences care delivery, suggesting the need for standardized protocols across 
+healthcare tiers.
+
+Copyright © 2025 Yang and Yang.
+
+DOI: 10.3389/fendo.2025.1574480
+PMCID: PMC12268886
+PMID: 40678316 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

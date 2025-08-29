@@ -1,0 +1,61 @@
+Title: Predictive value of Glycosylated Fibronectin (GlyFn)/Placenta Growth Factor (PlGF) ratio for high-risk pregnancies: a cohort study.
+
+Abstract: 1. BMC Pregnancy Childbirth. 2025 Jul 17;25(1):770. doi: 
+10.1186/s12884-025-07853-0.
+
+Predictive value of Glycosylated Fibronectin (GlyFn)/Placenta Growth Factor 
+(PlGF) ratio for high-risk pregnancies: a cohort study.
+
+Wirawan W(1), Krisnadi SR(2), Anwar AD(2), Nugrahani AD(3).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Faculty of Medicine, Fetomaternal 
+Division, Universitas Padjadjaran- Dr. Hasan Sadikin General Hospital Bandung, 
+Bandung, West Java, Indonesia. wahyudi22001@mail.unpad.ac.id.
+(2)Department of Obstetrics and Gynecology, Faculty of Medicine, Fetomaternal 
+Division, Universitas Padjadjaran- Dr. Hasan Sadikin General Hospital Bandung, 
+Bandung, West Java, Indonesia.
+(3)Doctoral Programme, Faculty of Medicine, Universitas Padjadjaran, Bandung, 
+West Java, Indonesia.
+
+BACKGROUND: Preeclampsia (PE) is a hypertensive disorder in pregnancy involving 
+multiple organ systems, primarily due to impaired placental development during 
+the first trimester. Reduced Placenta Growth Factor (PlGF) and elevated 
+Glycosylated Fibronectin (GlyFn) levels reflect these pathological changes. 
+Combining these biomarkers into a ratio may enhance PE prediction in high-risk 
+pregnancies.
+OBJECTIVE: To evaluate the GlyFn/PlGF ratio measured at 20-28 weeks of gestation 
+as a predictor of preeclampsia in high-risk pregnancies across four hospitals in 
+West Java, Indonesia, from April-October 2024.
+METHODS: This prospective cohort study involved 54 high-risk pregnant women. The 
+GlyFn/PlGF ratio was analyzed at 20-28 weeks to assess predictive accuracy for 
+PE.
+RESULTS: Significant differences were noted between PE and non-PE groups in 
+pre-pregnancy weight (65.54 ± 12.69 vs. 58.53 ± 7.85 kg), BMI (45.52 ± 53.73 vs. 
+19.84 ± 2.97), and systolic blood pressure (153.50 ± 19.42 vs. 100.80 ± 15.38 
+mmHg) (P > 0.05). Risk factors such as prior PE (P = 0.01), diabetes mellitus 
+(P = 0.03), and gestational hypertension (P = 0.02) were more frequent in the PE 
+group. A GlyFn cutoff of 34.31 ng/mL showed a 2.5-fold increased PE risk 
+(sensitivity: 83.33%, specificity: 66.67%, AUC: 0.8071). A PlGF cutoff of 26.72 
+pg/mL was associated with a 6.8-fold increased risk (sensitivity: 72.22%, 
+specificity: 97.22%, AUC: 0.9147). The GlyFn/PlGF ratio cutoff of 1.288 
+indicated a 28-fold higher PE risk (sensitivity: 77.78%, specificity: 97.37%, 
+AUC: 0.9244).
+CONCLUSION: The GlyFn/PlGF ratio outperforms individual biomarkers in predicting 
+preeclampsia in high-risk pregnancies, offering a valuable tool for early risk 
+identification and timely intervention.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12884-025-07853-0
+PMCID: PMC12273026
+PMID: 40676555 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: All methods were carried out in accordance with relevant guidelines 
+and regulations after obtaining approval and recommendations from the Ethics 
+Committee Review Board of Hasan Sadikin General Hospital– Faculty of Medicine, 
+Universitas Padjadjaran with reference number DP.04.03/D.XIV.6.5/125/2024, in 
+compliance with the Helsinki Declaration. Written informed consent were obtained 
+from patients. Consent for publication: Not Applicable. Competing interests: The 
+authors declare no competing interests.

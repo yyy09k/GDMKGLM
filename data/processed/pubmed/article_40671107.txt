@@ -1,0 +1,63 @@
+Title: Adiposity indices mediate the association between dietary inflammatory index and type 2 diabetes risk in women with prior gestational diabetes mellitus.
+
+Abstract: 1. Diabetol Metab Syndr. 2025 Jul 16;17(1):275. doi: 10.1186/s13098-025-01826-1.
+
+Adiposity indices mediate the association between dietary inflammatory index and 
+type 2 diabetes risk in women with prior gestational diabetes mellitus.
+
+Liang Y(#)(1), Hu L(#)(1), Shangguan F(1), Tan E(1), Shen J(1), Dai A(1), Zheng 
+Z(1), Su Y(2), Li Z(3).
+
+Author information:
+(1)School of Nursing, University of South China, No. 28, Changsheng West Road, 
+Hengyang, Hunan, 421001, China.
+(2)School of Nursing, University of South China, No. 28, Changsheng West Road, 
+Hengyang, Hunan, 421001, China. 382373646@qq.com.
+(3)School of Nursing, University of South China, No. 28, Changsheng West Road, 
+Hengyang, Hunan, 421001, China. lzhy1023@hotmail.com.
+(#)Contributed equally
+
+BACKGROUND: Women with prior gestational diabetes mellitus (GDM) are at a 
+significantly increased risk of developing type 2 diabetes after childbirth. 
+However, studies on the impact of dietary factors on the postpartum endocrine 
+metabolism of women with prior GDM, as well as the underlying mechanisms, remain 
+relatively limited. This study aims to investigate the association and 
+underlying pathways between dietary inflammatory index (DII) and the subsequent 
+development of type 2 diabetes in women with prior GDM, and to help identify 
+high-risk populations.
+METHODS: The sample included 788 participants from the National Health and 
+Nutrition Examination Survey (NHANES) from 2007 to 2018. Multivariate logistic 
+regression was utilized to examine the correlation of DII with diabetes and 
+adiposity indices, such as body mass index (BMI) and relative fat mass (RFM) in 
+participants with prior GDM. Mediation analysis was conducted to examine the 
+effects of adiposity indices as potential mediators between DII and diabetes. 
+Spearman correlation analysis was conducted to assess the relationship between 
+the 26 dietary components of the DII on adiposity indices and the occurrence of 
+diabetes in participants with prior GDM.
+RESULTS: Among participants with prior GDM, higher DII scores were associated 
+with the occurrence of diabetes after variable adjustment. Mediation analysis 
+disclosed that adiposity indices mediated a substantial portion of the 
+relationship between DII and diabetes, with BMI (12.19%) and RFM (11.84%) 
+showing significant mediating effects. Spearman correlation analysis indicated 
+that different dietary components exhibited varying degrees of correlation with 
+adiposity indices and diabetes among participants with prior GDM.
+CONCLUSIONS: Higher DII scores were associated with the occurrence of diabetes 
+in women with prior GDM, partly mediated by adiposity indices, emphasizing the 
+role of diet in diabetes risk. Additionally, the findings suggested that these 
+adiposity indices should be more broadly utilized to improve early diabetes 
+prevention and treatment strategies among women with prior GDM.
+CLINICAL TRIAL NUMBER: Not applicable.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13098-025-01826-1
+PMCID: PMC12269103
+PMID: 40671107
+
+Conflict of interest statement: Declarations. Human ethics and consent to 
+participate: This study adhered to the principles outlined in the Declaration of 
+Helsinki, with approval from the Institutional Review Board of the National 
+Center for Health Statistics for all procedures involving participants. And 
+written informed consent has been obtained from all participants involved in the 
+study. Consent for publication: Not applicable. Competing interests: The authors 
+declare no competing interests.

@@ -1,0 +1,62 @@
+Title: Gestational Diabetes-Screening, Prevalence and Postpartum Diabetes: Population-Based Cohort Study.
+
+Abstract: 1. Diabetes Metab Res Rev. 2025 Jul;41(5):e70068. doi: 10.1002/dmrr.70068.
+
+Gestational Diabetes-Screening, Prevalence and Postpartum Diabetes: 
+Population-Based Cohort Study.
+
+Lutski M(1)(2), Saban M(3), Novick D(1), Tirosh A(4)(5), Raz I(6)(7), Tsur 
+A(7)(8), Zucker I(2)(9).
+
+Author information:
+(1)Israel Center for Disease Control (ICDC), Ministry of Health, Sheba Medical 
+Center, Ramat Gan, Israel.
+(2)School of Public Health, Gray Faculty of Medical & Health Sciences, Tel Aviv 
+University, Tel Aviv, Israel.
+(3)The Stanley Steyer School of Health Professions, Faculty of Medicine, Tel 
+Aviv University, Tel-Aviv, Israel.
+(4)Division of Endocrinology, Diabetes and Metabolism, Sheba Medical Center, 
+Ramat Gan, Israel.
+(5)Gray Faculty of Medical & Health Sciences, Tel Aviv University, Tel Aviv, 
+Israel.
+(6)Diabetes Unit, Department of Endocrinology and Metabolism, Hadassah Medical 
+Center, Jerusalem, Israel.
+(7)The Faculty of Medicine, Hebrew University of Jerusalem, Jerusalem, Israel.
+(8)Department of Endocrinology and Metabolism, Clalit Health Services, 
+Jerusalem, Israel.
+(9)Medical Directorate, Ministry of Health, Jerusalem, Israel.
+
+AIMS: To evaluate GDM screening compliance and prevalence, and the association 
+between gestational glucose intolerance and 5-year postpartum diabetes mellitus 
+(DM).
+MATERIALS AND METHODS: We used population-based data from three Israeli health 
+maintenance organisations (HMOs), covering 75% of all births in 2016. GDM 
+screening followed a two-step approach: a 50-g 1-h oral glucose challenge test 
+(OGCT), followed by a 100-g 3-h oral glucose tolerance test (OGTT) using 
+Carpenter-Coustan criteria. Data included age, socioeconomic status (SES), 
+results of OGCT and OGTT tests, child birth weight, and gestational age. The 
+dataset was linked to the Israeli National Diabetes Registry to identify 
+postpartum DM. Logistic regression models estimated odds ratios (ORs) for GDM 
+and postpartum DM, adjusting for maternal age, SES, ethnicity, and glucose 
+tolerance status.
+RESULTS: Among 128,454 women, 10% were unscreened. Of those screened, 23,451 
+underwent the full OGTT. GDM prevalence was 4.3%. Postpartum DM incidence was 
+8.6% in women with GDM, 3.1% with unknown GDM status, and 2.1% with impaired 
+glucose tolerance (IGT) (defined as one abnormal value on the OGTT). Compared 
+with normoglycemia, adjusted ORs for the 5-year postpartum DM were 25.48 (95% 
+CI: 21.80-29.79) for GDM, 10.04 (95% CI: 8.59-11.74) for unknown GDM status, 
+6.48 (95% CI: 5.07-8.28) for IGT, and 2.17 (95% CI: 1.63-2.88) for abnormal OGCT 
+with normal OGTT. Older age, lower SES, and Arab or Bedouin ethnicity were 
+linked to higher GDM and postpartum DM.
+CONCLUSIONS: Gestational glucose intolerance and screening gaps were strong 
+predictors of postpartum DM. Age, SES, and ethnicity highlight the need for 
+targeted efforts to reduce health disparities.
+
+© 2025 The Author(s). Diabetes/Metabolism Research and Reviews published by John 
+Wiley & Sons Ltd.
+
+DOI: 10.1002/dmrr.70068
+PMCID: PMC12269537
+PMID: 40673650 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

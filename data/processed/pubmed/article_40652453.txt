@@ -1,0 +1,162 @@
+Title: Preexisting Diabetes and Pregnancy: An Endocrine Society and European Society of Endocrinology Joint Clinical Practice Guideline.
+
+Abstract: 1. J Clin Endocrinol Metab. 2025 Jul 13:dgaf288. doi: 10.1210/clinem/dgaf288. 
+Online ahead of print.
+
+Preexisting Diabetes and Pregnancy: An Endocrine Society and European Society of 
+Endocrinology Joint Clinical Practice Guideline.
+
+Wyckoff JA(1), Lapolla A(2), Asias-Dinh BD(3), Barbour LA(4), Brown FM(5)(6), 
+Catalano PM(7), Corcoy R(8)(9)(10), Di Renzo GC(11)(12), Drobycki N(13), 
+Kautzky-Willer A(14), Murad MH(15), Stephenson-Gray M(16), Tabák AG(17)(18), 
+Weatherup E(1), Zera C(19)(20), Singh-Ospina N(21).
+
+Author information:
+(1)Department of Internal Medicine, Division of Metabolism, Endocrinology and 
+Diabetes/Podiatry, Domino's Farms, University of Michigan, Lobby C, Suite 1300, 
+24 Frank Lloyd Wright Dr., PO Box 451, Ann Arbor, MI 48106-0451, USA.
+(2)Department of Medicine, University of Padova, 35100 Padova, Italy.
+(3)Pharmacy Practice and Translational Research, University of Houston, Houston, 
+TX 77204-5000, USA.
+(4)Endocrinology, Diabetes and Metabolism Department, University of Colorado 
+School of Medicine and Anschutz Medical Campus, 1635 N. Aurora Court, Aurora, CO 
+80045, USA.
+(5)Joslin Diabetes Center, One Joslin Place, Boston, MA 02215, USA.
+(6)Department of Medicine, Harvard Medical School, 25 Shattuck St, Boston, MA 
+02115, USA.
+(7)Reproductive Endocrinology Unit, Division of Endocrinology, Department of 
+Medicine, Massachusetts General Hospital, 275 Cambridge Street, Boston, MA 
+02114, USA.
+(8)Endocrinology and Nutrition Department, Hospital de la Santa Creu i Sant Pau, 
+Carrer de Sant Quintí, 08041 Barcelona, Spain.
+(9)CIBER-BBN, Instituto de Salud Carlos III, Calle Monforte de Lemos, 3-5, 28029 
+Madrid, Spain.
+(10)Department of Medicine, Universitat Autònoma de Barcelona, Plaça Cívica, 
+08193 Bellaterra, Spain.
+(11)PREIS International School, 50139 Firenze, Italy.
+(12)Meyer Children's University Hospital, 50139 Firenze, Italy.
+(13)Endocrinology Division, University of Texas Southwestern Medical Center of 
+Dallas, Dallas, TX 75390, USA.
+(14)Department of Medicine, Division of Endocrinology and Metabolism, Medical 
+University of Vienna, Vienna, Austria.
+(15)Mayo Clinic Evidence-Based Practice Center, Harwick Building, Room 2-54, 
+Rochester, MN 55905, USA.
+(16)National Health Service, Cardiff, UK.
+(17)Department of Internal Medicine and Oncology and Institute of Preventive 
+Medicine and Public Health, Semmelweis University Faculty of Medicine, 
+Semmelweis University of Medicine, H-1083 Budapest, Hungary.
+(18)UCL Brain Sciences, University College London, London W1T 7NF, UK.
+(19)Obstetrics Gynecology & Reproductive Biology Department, Harvard Medical 
+School, Shattuck St, Boston, MA 02115, USA.
+(20)Department of Obstetrics, Gynecology, and Reproductive Biology, Beth Israel 
+Deaconess Medical Center, 330 Brookline Ave, Boston, MA 02115, USA.
+(21)Division of Endocrinology, University of Florida, PO Box 100226, 
+Gainesville, FL 32610, USA.
+
+BACKGROUND: Preexisting diabetes (PDM) increases the risk of maternal and 
+perinatal mortality and morbidity. Reduction of maternal hyperglycemia prior to 
+and during pregnancy can reduce these risks. Despite compelling evidence that 
+preconception care (PCC), which includes achieving strict glycemic goals, 
+reduces the risk of congenital malformations and other adverse pregnancy 
+outcomes, only a minority of individuals receive PCC. Suboptimal pregnancy 
+outcomes demonstrated in real-world data highlight the need to further optimize 
+prenatal glycemia. New evolving technology shows promise in helping to achieve 
+that goal. Dysglycemia is not the only driver of poor pregnancy outcomes in PDM. 
+The increasing impact of obesity on pregnancy outcomes underscores the 
+importance of optimal nutrition and management of insulin sensitizing 
+medications during prenatal care for PDM.
+OBJECTIVE: To provide recommendations for the care of individuals with PDM that 
+lead to a reduction in maternal and neonatal adverse outcomes.
+METHODS: The Guideline Development Panel (GDP) composed of a multidisciplinary 
+panel of clinical experts, along with experts in guideline methodology and 
+systematic literature review, identified and prioritized 10 clinically relevant 
+questions related to the care of individuals with diabetes before, during and 
+after pregnancy. The GDP prioritized randomized controlled trials (RCTs) 
+evaluating the effects of different interventions (eg, PCC, nutrition, treatment 
+options, delivery) during the reproductive life cycle of individuals with 
+diabetes, including type 1 diabetes mellitus (T1DM) and type 2 diabetes mellitus 
+(T2DM). Systematic reviews queried electronic databases for publications related 
+to these 10 clinical questions. The Grading of Recommendations, Assessment, 
+Development, and Evaluation (GRADE) methodology was used to assess the certainty 
+of evidence and develop recommendations. The approach incorporated perspectives 
+from 2 patient representatives and considered patient values, costs and 
+resources required, acceptability and feasibility, and impact on health equity 
+of the proposed recommendations.
+RESULTS: In individuals with diabetes mellitus who have the possibility of 
+becoming pregnant, we suggest asking a screening question about pregnancy 
+intention at every reproductive, diabetes, and primary care visit. Screening for 
+pregnancy intent is also suggested at urgent care/emergency room visits when 
+clinically appropriate (2 | ⊕OOO). This was suggested based on indirect evidence 
+demonstrating a strong association between PCC and both reduced glycated 
+hemoglobin (HbA1c) at the first prenatal visit and congenital malformations.In 
+individuals with diabetes mellitus who have the possibility of becoming 
+pregnant, we suggest use of contraception when pregnancy is not desired (2 | 
+⊕⊕OO). This was suggested based on indirect evidence in women with diabetes, 
+where PCC-including contraception as a key component-showed a clinically 
+significant association with improvements in first-trimester HbA1c and the rate 
+of congenital malformations, together with indirect evidence from the general 
+population regarding the reduction of unplanned pregnancies and pregnancy 
+terminations with the use of contraception.In individuals with T2DM, we suggest 
+discontinuation of glucagon-like peptide-1 receptor agonist (GLP-1RA) before 
+conception rather than discontinuation between the start of pregnancy and the 
+end of the first trimester (2 | ⊕OOO). This was suggested based on limited data 
+on risk of exposure to GLP-1RA receptor agonists during pregnancy.In pregnant 
+individuals with T2DM already on insulin, we suggest against routine addition of 
+metformin (2 | ⊕OOO). This was suggested based on the GDP judgment that the 
+benefit of adding metformin to insulin to achieve decrease in rates of large for 
+gestational age infants did not outweigh the potential harm of increasing the 
+risk of small for gestational age infants or adverse childhood outcomes related 
+to changes in body composition.In individuals with PDM, we suggest either a 
+carbohydrate-restricted diet (<175 g/day) or usual diet (>175 g/day) during 
+pregnancy (2 | ⊕OOO). This was suggested based on the GDP judgment that the 
+available evidence was limited and very indirect, resulting in significant 
+uncertainty about the net benefits or harms. As such, the evidence was 
+insufficient to support a recommendation either for or against a carbohydrate 
+intake cutoff of 175 g/day.In pregnant individuals with T2DM, we suggest either 
+the use of a continuous glucose monitor (CGM) or self-monitoring of blood 
+glucose (SMBG) (2 | ⊕OOO). There is lack of direct evidence supporting 
+superiority of CGM use over SMBG for T2DM during pregnancy. There is indirect 
+evidence supporting improved glucometrics with the use of CGM for individuals 
+with T2DM outside of pregnancy, substantial improvements in neonatal outcomes 
+for individuals with T1DM using CGM during pregnancy and the potential for 
+decreasing adverse pregnancy outcomes with improved glucometrics in individuals 
+with T2DM.In individuals with PDM using a CGM, we suggest against the use of a 
+single 24-hour CGM target <140 mg/dL (7.8 mmol/L) in place of standard-of-care 
+pregnancy glucose targets of fasting <95 mg/dL (5.3 mmol/L), 1-hour postprandial 
+<140 mg/dL (7.8 mmol/L), and 2-hour postprandial < 120 mg/dL (6.7 mmol/L) (2 | 
+⊕OOO). This was suggested based on indirect evidence that associated adverse 
+pregnancy outcomes with a fasting glucose > 126 mg/dL (7 mmol/L).In individuals 
+with T1DM who are pregnant, we suggest the use of a hybrid closed-loop pump 
+(pump adjusting automatically based on CGM) rather than an insulin pump with CGM 
+(without an algorithm) or multiple daily insulin injections with CGM (2 | ⊕OOO). 
+This was suggested based on a meta-analysis of RCTs which demonstrated 
+improvement in glucometrics with increased time in range (MD +3.81%; CI -4.24 to 
+11.86) and reduced time below range (MD -0.85%; CI -1.98 to 0.28) with the use 
+of hybrid closed-loop pump technology.In individuals with PDM, we suggest early 
+delivery based on risk assessment rather than expectant management (2 | ⊕OOO). 
+This was suggested based on indirect evidence that risks may outweigh benefits 
+of expectant management beyond 38 weeks gestation and that risk assessment 
+criteria may be useful to inform ideal delivery timing.In individuals with PDM 
+(including those with pregnancy loss or termination), we suggest postpartum 
+endocrine care (diabetes management), in addition to usual obstetric care (2 | 
+⊕OOO). As the postpartum period frequently overlaps with preconception, this was 
+suggested based on indirect evidence demonstrating a strong association between 
+PCC and both reduced HbA1c at the first prenatal visit and congenital 
+malformations.
+CONCLUSION: The data supporting these recommendations were of very low to low 
+certainty, highlighting the urgent need for research designed to provide high 
+certainty evidence to support the care of individuals with diabetes before, 
+during, and after pregnancy. Investment in implementation science for PCC is 
+crucial to prevent significant mortality and morbidity for individuals with PDM 
+and their children. RCTs to further define glycemic targets in pregnancy and 
+refinement of emerging technology to achieve those targets can lead to 
+significant reduction of harm and in the burden of diabetes care. Data on 
+optimal nutrition and obesity management in pregnancy are lacking. More research 
+on timing of delivery in women with PDM is also needed.
+
+This article has been co-published with permission in The Journal of Clinical 
+Endocrinology & Metabolism and European Journal of Endocrinology. © The Authors 
+2025. Published by Oxford University Press on behalf of the Endocrine Society.
+
+DOI: 10.1210/clinem/dgaf288
+PMID: 40652453

@@ -1,0 +1,60 @@
+Title: Cell-free circulating epigenomic signatures: Non-invasive biomarkers of pregnancy-related outcomes associated with plasticizer exposure.
+
+Abstract: 1. Reprod Toxicol. 2025 Jul 18:109000. doi: 10.1016/j.reprotox.2025.109000.
+Online  ahead of print.
+
+Cell-free circulating epigenomic signatures: Non-invasive biomarkers of 
+pregnancy-related outcomes associated with plasticizer exposure.
+
+Rajan AK(1), Mohanty A(1), Swain P(1), Tiwari R(1), Gurjar V(2), Srivasatava 
+RK(3), Mishra PK(4).
+
+Author information:
+(1)Division of Environmental Biotechnology, Genetics & Molecular Biology 
+(EBGMB), ICMR-National Institute for Research in Environmental Health (NIREH), 
+Bhopal, India.
+(2)Division of Environmental Biotechnology, Genetics & Molecular Biology 
+(EBGMB), ICMR-National Institute for Research in Environmental Health (NIREH), 
+Bhopal, India; Faculty of Medical Research, Academy of Scientific and Innovative 
+Research (AcSIR), Ghaziabad, India.
+(3)Department of Biotechnology, All India Institute of Medical Sciences (AIIMS), 
+New Delhi, India.
+(4)Division of Environmental Biotechnology, Genetics & Molecular Biology 
+(EBGMB), ICMR-National Institute for Research in Environmental Health (NIREH), 
+Bhopal, India; Faculty of Medical Research, Academy of Scientific and Innovative 
+Research (AcSIR), Ghaziabad, India. Electronic address: pkm_8bh@yahoo.co.uk.
+
+Globally, plastics have revolutionized industrial and societal advancements, but 
+their durability and low degradability have led to significant environmental 
+pollution. Plasticizers, such as bisphenol A (BPA) and phthalates, are widely 
+used to enhance the flexibility and durability of plastics; however, they are 
+also recognized as endocrine-disrupting chemicals (EDCs) with severe health 
+implications. These chemicals are associated with reproductive toxicity, 
+developmental disruptions, and multigenerational health effects. Recent research 
+has highlighted the impact of plasticizers on irreversible epigenetic 
+modifications, which influence abnormal gene expression patterns without 
+altering the DNA sequence. Histone alterations, DNA methylation, and non-coding 
+RNA regulation are essential pathways. Exposure to BPA and phthalates disrupts 
+these epigenetic processes, leading to long-term reproductive health issues, 
+including infertility, implantation failures, preterm birth, and pregnancy 
+complications such as gestational diabetes and preeclampsia. Cell-free 
+circulating nucleic acids are promising non-invasive biomarkers for the early 
+detection of pregnancy complications, such as preeclampsia, with the potential 
+to predict sensitivity and track gestational age and underlying 
+pathophysiological processes. Combining circulating nucleic acid analysis with 
+evaluations of plasticizer exposure may aid in stratifying high-risk 
+pregnancies. Here, we examined the mechanisms by which plasticizers induce 
+epigenetic alterations, their impact on reproductive health and pregnancy 
+outcomes, and potential biomarkers for identifying these changes to facilitate 
+tailored management of pregnancy complications and assess reproductive health 
+risks.
+
+Copyright © 2025 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.reprotox.2025.109000
+PMID: 40685096
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper

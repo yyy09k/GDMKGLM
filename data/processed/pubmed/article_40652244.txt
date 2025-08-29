@@ -1,0 +1,81 @@
+Title: Paternal and maternal exposures to per- and polyfluoroalkyl substances (PFAS) and birth outcomes: a multi-country cohort study.
+
+Abstract: 1. Environ Health. 2025 Jul 12;24(1):48. doi: 10.1186/s12940-025-01199-y.
+
+Paternal and maternal exposures to per- and polyfluoroalkyl substances (PFAS) 
+and birth outcomes: a multi-country cohort study.
+
+Guo P(1)(2), Luo J(3)(4), Zhang J(5), Bonde JP(6), Struciński P(7), Ohniev V(8), 
+Arah OA(9)(10)(11)(12), Deziel NC(1)(2), Warren JL(2)(13), Toft G(5), Liew 
+Z(14)(15).
+
+Author information:
+(1)Department of Environmental Health Sciences, Yale School of Public Health, 60 
+College Street, CT, 06510, New Haven, USA.
+(2)Yale Center for Perinatal, Pediatric, and Environmental Epidemiology, Yale 
+School of Public Health, New Haven, CT, USA.
+(3)Department of Surgery, Biological Sciences Division, University of Chicago, 
+Chicago, IL, USA.
+(4)Institute for Population and Precision Health, University of Chicago, 
+Chicago, IL, USA.
+(5)Steno Diabetes Center Aarhus, Aarhus University Hospital, Aarhus, Denmark.
+(6)Department of Occupational and Environmental Medicine, 
+Bispebjerg-Frederiksberg University Hospital, Copenhagen, Denmark.
+(7)Department of Toxicology and Health Risk Assessment, National Institute of 
+Public Health, NIH - National Research Institute, Warsaw, Poland.
+(8)Department of Public Health and Healthcare Management, Kharkiv National 
+Medical University, Kharkiv, Ukraine.
+(9)Department of Epidemiology, Fielding School of Public Health, University of 
+California, Los Angeles (UCLA), Los Angeles, CA, USA.
+(10)Department of Statistics and Data Science, UCLA College, Los Angeles, CA, 
+USA.
+(11)Practical Causal Inference Lab, UCLA, Los Angeles, CA, USA.
+(12)Research Unit for Epidemiology, Department of Public Health, Aarhus 
+University, Aarhus, Denmark.
+(13)Department of Biostatistics, Yale School of Public Health, New Haven, CT, 
+USA.
+(14)Department of Environmental Health Sciences, Yale School of Public Health, 
+60 College Street, CT, 06510, New Haven, USA. zeyan.liew@yale.edu.
+(15)Yale Center for Perinatal, Pediatric, and Environmental Epidemiology, Yale 
+School of Public Health, New Haven, CT, USA. zeyan.liew@yale.edu.
+
+BACKGROUND: Maternal prenatal exposures to per- and polyfluoroalkyl substances 
+(PFAS) have been linked to adverse birth outcomes. However, few investigations 
+have considered paternal PFAS exposure. We estimated the parent-specific 
+associations of prenatal PFAS exposures with adverse birth outcomes.
+METHODS: This study included 498 couples from the INUENDO cohort recruited at 
+antenatal care visits in Greenland, Poland, and Ukraine during 2002-2004. We 
+measured five major types of PFAS in parental serum during pregnancy. We 
+analyzed three birth outcomes ascertained from medical records, including 
+gestational age, birth weight, and birth length. We used weighted least squares 
+linear regression to evaluate parent-specific associations of serum PFAS with 
+the birth outcomes, adjusting for parental co-exposures and covariates. We also 
+used quantile g-computation for mixture modeling of the birth outcomes of 
+paternal and/or maternal exposures to multiple PFAS.
+RESULTS: No associations were found between maternal and paternal PFAS exposures 
+and gestational age. However, after adjusting for paternal PFOA, a higher level 
+of maternal serum perfluorooctanoate (PFOA) was linked to a tendency towards 
+lower birth weight and shorter birth length. Paternal exposure to several PFAS 
+was also associated with a tendency for shorter birth length, but the estimated 
+effect sizes were small. We found no joint exposure effects in the mixture 
+analyses.
+CONCLUSIONS: While the evidence was inconclusive, maternal PFOA and paternal 
+PFAS exposures seemed to be associated with lower offspring birth weight and 
+shorter birth length, respectively. Parent-specific effects of PFAS exposures on 
+offspring growth and development warrant further research.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12940-025-01199-y
+PMCID: PMC12255010
+PMID: 40652244 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study was approved by local ethical committees; Ethical 
+Committee for Human Research in Greenland (approval no. 2010–13), Polish 
+Bioethical Committee (approval no. 6/2002 of 3.07.2002), and the Commission on 
+Ethics, Bioethics Kharkiv National Medical University in Ukraine (protocol 
+number 7, October 7, 2009). All participating parents signed informed consent. 
+Consent for publication: The authors declare that they agree with the 
+publication of this paper in this journal. Competing interests: The authors 
+declare no competing interests.

@@ -1,0 +1,78 @@
+Title: First-trimester triglyceride-glucose index and birth weight: a retrospective cohort mediation analysis of preterm birth and gestational complications.
+
+Abstract: 1. BMC Pregnancy Childbirth. 2025 Jul 16;25(1):765. doi: 
+10.1186/s12884-025-07885-6.
+
+First-trimester triglyceride-glucose index and birth weight: a retrospective 
+cohort mediation analysis of preterm birth and gestational complications.
+
+Cui J(#)(1), Jiang H(#)(2), Huang F(#)(3), Xie M(4), Cui Z(5), Chen X(1), OUYang 
+L(1), Li P(6), Wang Y(7).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, Third Affiliated Hospital of Sun 
+Yat-Sen University, No. 600, Tianhe Road, Guangzhou, 510630, China.
+(2)Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, 
+Shenzhen, China.
+(3)Department of Anesthesiology, Third Affiliated Hospital of Sun Yat-Sen 
+University, No. 600, Tianhe Road, Guangzhou, 510630, China.
+(4)Department of obstetrics, Shenzhen Longhua District Central Hospital, 
+Shenzhen, China.
+(5)Department of Preventive Medicine, Guangxi Medical University, Nanning, 
+China.
+(6)Department of Obstetrics and Gynecology, Third Affiliated Hospital of Sun 
+Yat-Sen University, No. 600, Tianhe Road, Guangzhou, 510630, China. 
+liping23@mail.sysu.edu.cn.
+(7)Department of Anesthesiology, Third Affiliated Hospital of Sun Yat-Sen 
+University, No. 600, Tianhe Road, Guangzhou, 510630, China. 
+wangyl5@mail.sysu.edu.cn.
+(#)Contributed equally
+
+BACKGROUND: Insulin resistance during pregnancy, while physiologically adaptive 
+to enhance fetal nutrient supply, becomes pathological when excessive, 
+contributing to low birth weight (LBW). The triglyceride-glucose (TyG) index, a 
+biomarker of insulin resistance, predicts gestational complications, but its 
+pathways to birth weight disparities remain unclear. This study investigates 
+whether and to what extent first-trimester TyG index influences birth weight 
+through preterm birth and gestational complications.
+METHODS: In this retrospective cohort study, 8,605 singleton pregnancies from a 
+Chinese hospital (2015-2021) were analyzed. TyG index was calculated from 
+first-trimester fasting glucose and triglycerides. Outcomes included gestational 
+diabetes mellitus (GDM), hypertension, preeclampsia, preterm birth, LBW, 
+macrosomia, and small/large-for-gestational-age (SGA/LGA). Logistic/multinomial 
+regression assessed associations, followed by causal mediation analysis (R 
+medflex package) to decompose direct/indirect effects. Models adjusted for 
+maternal age, body mass index, education, parity, and diabetes family history.
+RESULTS: A 1-standard deviation TyG index increase was associated with elevated 
+risks of gestational complications (i.e., GDM, gestational hypertension, and 
+preeclampsia). Higher TyG index level also showed positive associations with 
+adverse birth outcomes: preterm birth (OR = 1.20, 95% CI: 1.08-1.34), LBW 
+(OR = 1.11, 95% CI: 1.00-1.24), and LGA (OR = 1.12, 95% CI: 1.05-1.21), but not 
+with macrosomia or SGA. Mediation analysis revealed that individual gestational 
+complications mediated 17.7% (GDM), 11.1% (gestational hypertension), and 18.9% 
+(preeclampsia) of the TyG-LBW association, with a joint mediation effect of 
+37.5%. Preterm birth alone mediated 89.0% of the TyG index-LBW association. When 
+considering all mediators together (preterm birth and gestational 
+complications), the joint natural indirect effect was 1.12 (95% CI 1.05-1.18) 
+with a null natural direct effect being 1.00 (95% CI 0.90-1.11), indicating full 
+mediation. These mediation patterns were primarily evident among women with 
+normal pre-pregnancy weight. Quartile-based comparisons (4th vs. 1st ) yielded 
+similar results.
+CONCLUSION: Our findings highlight a significant association between the 
+first-trimester TyG index and LBW with preterm birth emerging as the primary 
+mediating pathway and gestational complications contributing partially to this 
+relationship. Future research should explore whether interventions aimed at 
+preventing preterm birth and gestational complications can mitigate the LBW 
+risk.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12884-025-07885-6
+PMCID: PMC12265213
+PMID: 40670958 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study was approved by the ethics committee of the Third 
+Affiliated Hospital of Sun Yat-Sen University (serial number: [2021]02–266-01). 
+Consent for publication: Not applicable. Competing interests: The authors 
+declare no competing interests.

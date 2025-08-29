@@ -1,0 +1,94 @@
+Title: Early prediction of gestational diabetes mellitus based on systematically selected multi-panel biomarkers and clinical accessibility-a longitudinal study of a multi-racial pregnant cohort.
+
+Abstract: 1. BMC Med. 2025 Jul 18;23(1):430. doi: 10.1186/s12916-025-04258-w.
+
+Early prediction of gestational diabetes mellitus based on systematically 
+selected multi-panel biomarkers and clinical accessibility-a longitudinal study 
+of a multi-racial pregnant cohort.
+
+Yang J(1)(2)(3), Cao Y(4)(5), Qian F(6)(7), Grewal J(8), Sacks DB(9), Chen 
+Z(10), Tsai MY(11), Chen J(#)(5), Zhang C(#)(12)(13)(14)(15).
+
+Author information:
+(1)Global Center for Asian Women's Health, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore, Singapore.
+(2)Department of Obstetrics and Gynecology, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore, Singapore.
+(3)Bia-Echo Asia Center for Reproductive Longevity & Equality (ACRLE), Yong Loo 
+Lin School of Medicine, National University of Singapore, Singapore, Singapore.
+(4)Department of Statistics, School of Science, Minzu University of China, 
+Beijing, China.
+(5)Department of Biostatistics, Epidemiology & Informatics, University of 
+Pennsylvania Perelman School of Medicine, Philadelphia, PA, USA.
+(6)Center for Sustainable Finance Innovation, Nanyang Business School, Nanyang 
+Technological University, Singapore, Singapore.
+(7)Department of Pediatrics, Yong Loo Lin School of Medicine, National 
+University of Singapore, Singapore, Singapore.
+(8)Division of Population Health Research, Eunice Kennedy Shriver National 
+Institute of Child Health and Human Development, National Institutes of Health, 
+Bethesda, MD, USA.
+(9)Department of Laboratory Medicine, Clinical Center, National Institutes of 
+Health, Bethesda, MD, USA.
+(10)Biostatistics and Bioinformatics Branch, Eunice Kennedy Shriver National 
+Institute of Child Health and Human Development, National Institutes of Health, 
+Bethesda, MD, USA.
+(11)Department of Laboratory Medicine and Pathology, University of Minnesota, 
+Minneapolis, MN, USA.
+(12)Global Center for Asian Women's Health, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore, Singapore. obgzc@nus.edu.sg.
+(13)Department of Obstetrics and Gynecology, Yong Loo Lin School of Medicine, 
+National University of Singapore, Singapore, Singapore. obgzc@nus.edu.sg.
+(14)Bia-Echo Asia Center for Reproductive Longevity & Equality (ACRLE), Yong Loo 
+Lin School of Medicine, National University of Singapore, Singapore, Singapore. 
+obgzc@nus.edu.sg.
+(15)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA. obgzc@nus.edu.sg.
+(#)Contributed equally
+
+BACKGROUND: Early identification of high-risk women is critical for preventing 
+gestational diabetes mellitus (GDM). We aimed to improve early prediction of GDM 
+using multiple panels of cardiometabolic biomarkers assessed in early and 
+mid-pregnancy, considering clinical accessibility.
+METHODS: In a US study of 2802 pregnant individuals, we assessed 91 
+cardiometabolic biomarkers at 10-14 (random blood) and 15-26 (fasting) 
+gestational weeks (GW) in 107 GDM cases and 214 controls. Candidate biomarkers 
+were categorized by clinical accessibility from high to low: group I (clinically 
+accessible tests like HbA1c, lipids), group II (clinically accessible biomarkers 
+upon request like insulin-like growth factor (IGF) axis markers, adipokines), 
+and group III (specialty lab-required targeted metabolomics: amino acids (AAs) 
+and phospholipid fatty acids (FAs)). At each visit, we constructed a full model 
+incorporating all candidate biomarkers and conventional predictors. We built 
+alternative models utilizing different groups of biomarkers considering clinical 
+accessibility. Variable selection was performed to retain variables with a p 
+value < 0.10 for a parsimonious model. Model performance was evaluated by area 
+under receiver operating characteristics curve (AUC), proportion of cases 
+followed (PCF, %) and proportion needed to follow (PNF, %), and decision curve 
+analysis.
+RESULTS: A full model comprising conventional predictors, clinical and 
+non-clinical cardiometabolic biomarkers, and metabolomic markers achieved the 
+highest discriminative accuracy (AUC: 0.842 at 10-14 GW, 0.829 at 15-26 GW). The 
+addition of novel biomarkers increased PCF and decreased PNF, suggesting 
+increased clinical utility. For example, at 10-14 GW, 69.5% of GDM cases are 
+expected to be detected from women whose risk is above the 80% percentile 
+estimated by the full model vs. 49.1% by the conventional model. Additionally, 
+46.1% of women identified as being at the highest risk by the full model are 
+expected to account for 90.0% of GDM cases vs. 71.1% by the conventional model. 
+Decision curve analysis showed that models incorporating novel biomarkers 
+performed better than the conventional model including glucose, and the full 
+model at 10-14 GW had the highest net benefit, overall.
+CONCLUSIONS: This study suggested that a selected panel of cardiometabolic 
+biomarkers using early-pregnancy random plasma samples predicted GDM comparably 
+to those using mid-pregnancy fasting samples.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12916-025-04258-w
+PMCID: PMC12275388
+PMID: 40682053 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The study protocol was reviewed and approved by institutional 
+review boards at NICHD and each of the clinical sites. Written informed consent 
+was obtained from all the participants. The IRB approval number is NICHD 
+(09-CH-N152). Consent for publication: Not applicable. Competing interests: The 
+authors declare no competing interests.

@@ -1,0 +1,76 @@
+Title: Risk of Postpartum Depression and Postpartum Psychosis in Patients With Obstetric Complications: A Case-Control Study.
+
+Abstract: 1. Cureus. 2025 Jun 16;17(6):e86156. doi: 10.7759/cureus.86156. eCollection 2025 
+Jun.
+
+Risk of Postpartum Depression and Postpartum Psychosis in Patients With 
+Obstetric Complications: A Case-Control Study.
+
+Kamal MZ(1), Naseer N(2), Khan AA(1), Khan ZA(1), Hayat MA(3), Mahmood Y(4), 
+Danish T(5).
+
+Author information:
+(1)Department of Community Medicine, Khyber Medical College, Peshawar, Peshawar, 
+PAK.
+(2)Department of Internal Medicine, Khyber Teaching Hospital, Peshawar, PAK.
+(3)Department of Pharmacology, Peshawar Medical College, Peshawar, PAK.
+(4)Department of Surgery, Khyber Teaching Hospital, Peshawar, PAK.
+(5)Department of Medicine, Khyber Teaching Hospital, Peshawar, PAK.
+
+BACKGROUND: Postpartum psychiatric disorders, including postpartum depression 
+(PPD) and postpartum psychosis (PPP), are major contributors to maternal 
+morbidity and adverse child outcomes globally. While psychosocial risk factors 
+are well established, the potential mechanistic role of obstetric complications 
+in precipitating these conditions remains less clearly delineated.
+OBJECTIVE: This study aimed to evaluate the association between specific 
+obstetric complications and the risk of postpartum depression and psychosis 
+within six months after delivery, using a biopsychosocial framework.
+METHODS: We conducted a retrospective, matched case-control study using medical 
+records from Khyber Teaching Hospital, Peshawar (Pakistan), covering deliveries 
+from January 2018 to December 2023. Cases included women aged 18-45 years 
+diagnosed with PPD or PPP within six months postpartum based on DSM-5 criteria. 
+Controls were women who delivered during the same period without psychiatric 
+diagnoses, matched 2:1 by age, parity, and delivery mode. Obstetric 
+complications assessed included preeclampsia/eclampsia, gestational diabetes 
+mellitus (GDM), postpartum hemorrhage, preterm birth, placental abruption, 
+intrauterine growth restriction (IUGR), chorioamnionitis, and cesarean delivery. 
+Conditional logistic regression was used to calculate adjusted odds ratios (aOR) 
+with 95% confidence intervals (CI).
+RESULTS: A total of 220 cases and 440 matched controls were analyzed. 
+Preeclampsia/eclampsia (aOR: 2.30; 95% CI: 1.45-3.64; p<0.001), postpartum 
+hemorrhage (aOR: 2.10; 95% CI: 1.30-3.38; p=0.002), preterm birth (aOR: 1.85; 
+95% CI: 1.20-2.85; p=0.004), and GDM (aOR: 1.55; 95% CI: 1.00-2.40; p=0.049) 
+were significantly associated with increased risk of postpartum psychiatric 
+disorders. No significant associations were found for placental abruption, IUGR, 
+chorioamnionitis, or cesarean delivery.
+CONCLUSION: Obstetric complications-particularly preeclampsia/eclampsia, 
+postpartum hemorrhage, preterm birth, and gestational diabetes-may act as 
+physiological stressors that interact with underlying vulnerabilities, 
+consistent with stress-diathesis and inflammatory models of psychopathology. 
+These findings support a multifactorial conceptualization of postpartum 
+psychiatric illness and emphasize the importance of integrating obstetric risk 
+profiles into postpartum mental health screenings. In low-resource settings like 
+Pakistan, targeting women with complicated deliveries and known psychosocial 
+risk factors through collaborative, interdisciplinary care models can help 
+prevent chronic maternal mental health conditions and improve developmental 
+outcomes for children.
+
+Copyright © 2025, Kamal et al.
+
+DOI: 10.7759/cureus.86156
+PMCID: PMC12266803
+PMID: 40672030
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Institutional Review Board (IRB) of Khyber Teaching Hospital, Peshawar 
+issued approval 967/DM/KMC. Animal subjects: All authors have confirmed that 
+this study did not involve animal subjects or tissue. Conflicts of interest: In 
+compliance with the ICMJE uniform disclosure form, all authors declare the 
+following: Payment/services info: All authors have declared that no financial 
+support was received from any organization for the submitted work. Financial 
+relationships: All authors have declared that they have no financial 
+relationships at present or within the previous three years with any 
+organizations that might have an interest in the submitted work. Other 
+relationships: All authors have declared that there are no other relationships 
+or activities that could appear to have influenced the submitted work.

@@ -1,0 +1,43 @@
+Title: Single-center prospective study on thyroid function outcomes and neurological prognoses at 3 years of age in children with mild neonatal hyperthyrotropinemia.
+
+Abstract: 1. Front Endocrinol (Lausanne). 2025 Jul 3;16:1548086. doi: 
+10.3389/fendo.2025.1548086. eCollection 2025.
+
+Single-center prospective study on thyroid function outcomes and neurological 
+prognoses at 3 years of age in children with mild neonatal hyperthyrotropinemia.
+
+Sun G(1), Zhang R(1), Zhang J(1), Zhou Y(1), Tang Z(1), Liu L(1), Hou X(1).
+
+Author information:
+(1)Department of Pediatrics, Peking University First Hospital, Beijing, China.
+
+OBJECTIVE: To explore early management strategies for full-term neonates with 
+TSH 5-10 mU/L and normal FT4.
+METHODS: In this single-center longitudinal prospective study, 88 neonates 
+diagnosed at 7-14 days were followed to age three.
+RESULTS: 94.3% (83/88) had transient TSH elevation; 77 normalized within two 
+months without treatment, while six received levothyroxine (3-5µg/kg/day). Five 
+neonates (5.7%) exhibited persistent hyperthyrotropinemia and had significantly 
+higher initial TSH. No hyperthyroidism was observed. Following up to 3 years 
+old, only one child (1/81, 1.2%) exhibited development delay in personal-social 
+development. Neonates with transient hyperthyrotropinaemia scored higher in 
+problem-solving and personal-social domains than those with persistent 
+hyperthyrotropinaemia. Neonatal FT4 at 7-14 days, timing of TSH normalization, 
+and maternal early-pregnancy FT4 influenced the neurodevelopment of neonates. 
+Infants of mothers with gestational diabetes scored lower in the personal-social 
+domain.
+CONCLUSIONS: Persistent hyperthyrotropinemia occurs in 5.7% of mild cases and is 
+associated with higher initial TSH. Levothyroxine at 3-5 µg/kg/day is both 
+adequate and safe. The majority of neonates got a normal neurodevelopment by age 
+3, and the subtle difference between transient and persistent 
+hyperthyrotropinemia was impacted by both maternal and neonatal factors.
+
+Copyright © 2025 Sun, Zhang, Zhang, Zhou, Tang, Liu and Hou.
+
+DOI: 10.3389/fendo.2025.1548086
+PMCID: PMC12267032
+PMID: 40678318 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

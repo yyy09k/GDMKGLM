@@ -1,0 +1,43 @@
+Title: Pregnancy and Neonatal Outcomes in Maturity-Onset Diabetes of the Young: A Systematic Review.
+
+Abstract: 1. Int J Mol Sci. 2025 Jun 24;26(13):6057. doi: 10.3390/ijms26136057.
+
+Pregnancy and Neonatal Outcomes in Maturity-Onset Diabetes of the Young: A 
+Systematic Review.
+
+Ługowski F(1), Babińska J(1), Makowska K(1), Ludwin A(1), Stanirowski PJ(1).
+
+Author information:
+(1)1st Department of Obstetrics and Gynecology, Medical University of Warsaw, 
+02-091 Warsaw, Poland.
+
+Maturity-onset diabetes of the young (MODY)-a monogenic form of 
+diabetes-accounts for approximately 1-2% of all diabetes cases, with GCK-MODY 
+being the second most commonly diagnosed type. Although the inherited nature of 
+the disease implies that the interplay between maternal glycemia and fetal 
+genotype directly influences neonatal outcomes, clinical guidelines for 
+MODY-complicated pregnancies remain underdeveloped. A systematic literature 
+search in the PubMed, Scopus, Web of Science, and Cochrane databases was 
+conducted following the PRISMA guidelines. The study protocol has been logged in 
+the PROSPERO registry with the identification number CRD42024609390. Data, such 
+as MODY type, the gestational age at delivery, mode of delivery, insulin 
+administration, mutational status of the fetus, fetal birthweight (FBW), 
+occurrence of small-/large-for-gestational age fetus, shoulder dystocia, and 
+neonatal hypoglycemia, were extracted and evaluated. Among 19 studies selected 
+for the final analysis, 15 investigated perinatal outcomes in the GCK-MODY 
+variant. Women diagnosed with GCK-MODY treated with insulin delivered 
+approximately 1-2 weeks earlier than those managed with diet alone. FBW was 
+significantly higher in GCK-negative as compared to GCK-positive offspring. 
+Accordingly, fetal macrosomia was notably more common among unaffected neonates. 
+In GCK-affected fetuses, insulin therapy was associated with a significantly 
+lower FBW. Fetal genotype critically modifies perinatal outcomes in GCK-MODY 
+pregnancies. In the absence of fetal genotyping, conservative management should 
+be prioritized to mitigate the risks of fetal growth restriction and iatrogenic 
+prematurity. As data regarding other types of MODY in pregnancy remain sparse, 
+there is an urgent need for more research in this area.
+
+DOI: 10.3390/ijms26136057
+PMCID: PMC12250487
+PMID: 40649834 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

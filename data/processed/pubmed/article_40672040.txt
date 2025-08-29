@@ -1,0 +1,63 @@
+Title: Maternal and Neonatal Outcomes Associated With Preeclampsia and Gestational Diabetes Mellitus: A Retrospective Cohort Study.
+
+Abstract: 1. Cureus. 2025 Jun 16;17(6):e86120. doi: 10.7759/cureus.86120. eCollection 2025 
+Jun.
+
+Maternal and Neonatal Outcomes Associated With Preeclampsia and Gestational 
+Diabetes Mellitus: A Retrospective Cohort Study.
+
+Umer A(1), Kanwal S(2), Ahmad A(3), Fatima A(4), Fatima A(5), Farooq F(4), 
+Fatima N(6), Jawad S(7).
+
+Author information:
+(1)Radiology, Combined Military Hospital, Lahore, Lahore, PAK.
+(2)Obstetrics and Gynecology, Shalamar Hospital, Lahore, PAK.
+(3)Obstetrics and Gynecology, Services Institute of Medical Sciences, Lahore, 
+PAK.
+(4)Obstetrics and Gynecology, Lady Willingdon Hospital, Lahore, PAK.
+(5)Obstetrics and Gynecology, Divisional Headquarters (DHQ) Teaching Hospital, 
+Mirpur, Mirpur, PAK.
+(6)Internal Medicine, Fauji Foundation Hospital, Lahore, Lahore, PAK.
+(7)Obstetrics and Gynecology, Divisional Headquarters (DHQ) Teaching Hospital, 
+Gujranwala, Gujranwala, PAK.
+
+Background Preeclampsia and gestational diabetes mellitus (GDM) are common 
+pregnancy complications associated with significant maternal and neonatal 
+morbidity. Objectives This study aims to evaluate and compare maternal and 
+neonatal outcomes in pregnancies complicated by preeclampsia, GDM, and the 
+coexistence of both conditions. Methods This retrospective observational study 
+included 230 pregnant women who delivered at Shalamar Hospital, Lahore, 
+Pakistan, between January 2023 and December 2024. The participants were divided 
+into three groups: preeclampsia only (n = 80), GDM only (n = 75), and both 
+conditions (n = 75). Results The coexistence of preeclampsia and GDM was 
+associated with the highest rates of cesarean section (82.7%, n = 62), preterm 
+birth (46.7%, n = 35), neonatal intensive care unit (NICU) admission (49.3%, n = 
+37), and neonatal hypoglycemia (18.7%, n = 14). Maternal complications, 
+including intensive care unit (ICU) admission (10.7%, n = 8) and postpartum 
+hemorrhage (9.3%, n = 7), were also more frequent in this group. Logistic 
+regression confirmed that combined preeclampsia and GDM independently predicted 
+adverse outcomes such as cesarean delivery (odds ratio {OR}: 2.4), NICU 
+admission (OR: 2.1), and preterm birth (OR: 1.9). Conclusion It is concluded 
+that the co-occurrence of preeclampsia and GDM significantly worsens both 
+maternal and neonatal outcomes compared to either condition alone. Early 
+diagnosis, multidisciplinary management, and targeted interventions are crucial 
+to mitigating these risks and improving perinatal care.
+
+Copyright © 2025, Umer et al.
+
+DOI: 10.7759/cureus.86120
+PMCID: PMC12265387
+PMID: 40672040
+
+Conflict of interest statement: Human subjects: Informed consent for treatment 
+and open access publication was obtained or waived by all participants in this 
+study. Animal subjects: All authors have confirmed that this study did not 
+involve animal subjects or tissue. Conflicts of interest: In compliance with the 
+ICMJE uniform disclosure form, all authors declare the following: 
+Payment/services info: All authors have declared that no financial support was 
+received from any organization for the submitted work. Financial relationships: 
+All authors have declared that they have no financial relationships at present 
+or within the previous three years with any organizations that might have an 
+interest in the submitted work. Other relationships: All authors have declared 
+that there are no other relationships or activities that could appear to have 
+influenced the submitted work.

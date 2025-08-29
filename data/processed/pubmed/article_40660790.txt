@@ -1,0 +1,57 @@
+Title: Neurodevelopmental Consequences of Maternal Diabetes: Autophagy and Spatial Arrangement of Hippocampal Neurons.
+
+Abstract: 1. CNS Neurosci Ther. 2025 Jul;31(7):e70518. doi: 10.1111/cns.70518.
+
+Neurodevelopmental Consequences of Maternal Diabetes: Autophagy and Spatial 
+Arrangement of Hippocampal Neurons.
+
+Boutegaz SM(1), Namavar MR(2)(3)(4), Shadi M(1)(5), Kabiri-Rad H(5), 
+Vafaei-Nezhad S(1)(5).
+
+Author information:
+(1)Department of Anatomical Sciences, Faculty of Medicine, Birjand University of 
+Medical Sciences, Birjand, Iran.
+(2)Histomorphometry and Stereology Research Center, Shiraz University of Medical 
+Sciences, Shiraz, Iran.
+(3)Clinical Neurology Research Center, Shiraz University of Medical Sciences, 
+Shiraz, Iran.
+(4)Department of Anatomical Sciences, School of Medicine, Shiraz University of 
+Medical Sciences, Shiraz, Iran.
+(5)Cellular & Molecular Research Center, Birjand University of Medical Sciences, 
+Birjand, Iran.
+
+BACKGROUND: Gestational diabetes mellitus (GDM) is a prevalent metabolic 
+disorder that disrupts fetal central nervous system (CNS) development. This 
+study investigates the effects of maternal diabetes on hippocampal structure and 
+autophagy-related mechanisms in neonatal rats, focusing on the PI3K/mTOR 
+signaling pathway.
+METHODS: Forty female Wistar rats were divided into three groups: control (CON), 
+diabetic (STZ-D), and insulin-treated diabetic (STZ-INS). Hyperglycemia was 
+induced using streptozotocin, and offspring were analyzed at postnatal day 14 
+(P14). Histological evaluations of hippocampal structure were conducted using 
+hematoxylin and eosin (H&E) staining, and neuronal damage was assessed with 
+toluidine blue staining. Autophagy-related gene expression (Beclin-1, LC-3, 
+ATG-7) and the PI3K/mTOR signaling pathway were examined using real-time PCR.
+RESULTS: Offspring from the STZ-D group exhibited significant reductions in 
+hippocampal volume and increased dark neurons in the CA1 and CA2 regions 
+compared to the CON and STZ-INS groups. Gene expression analysis revealed a 
+marked downregulation of ATG-7 and significant upregulation of PI3K and mTOR in 
+the STZ-D group, while Beclin-1 and LC-3 showed no significant changes. Insulin 
+treatment mitigated these adverse effects, preserving hippocampal structure and 
+reducing neuronal damage. In addition, the results of the Voronoi tessellation 
+method showed that hippocampal neural cells depict a regular pattern in 
+different subfields in all experimental groups.
+CONCLUSION: Maternal hyperglycemia disrupts hippocampal development by altering 
+autophagy and activating the PI3K/mTOR pathway, contributing to neuronal damage. 
+Insulin treatment during pregnancy can counteract these effects, emphasizing the 
+importance of glycemic control. These findings highlight potential therapeutic 
+targets for mitigating CNS impairments in the offspring of diabetic mothers.
+
+© 2025 The Author(s). CNS Neuroscience & Therapeutics published by John Wiley & 
+Sons Ltd.
+
+DOI: 10.1111/cns.70518
+PMCID: PMC12260216
+PMID: 40660790 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

@@ -1,0 +1,52 @@
+Title: Metformin use in gestational diabetes is not associated with an increased risk of preterm labor and small for gestational age infants compared to diet control alone.
+
+Abstract: 1. BMC Pregnancy Childbirth. 2025 Jul 14;25(1):762. doi: 
+10.1186/s12884-025-07869-6.
+
+Metformin use in gestational diabetes is not associated with an increased risk 
+of preterm labor and small for gestational age infants compared to diet control 
+alone.
+
+D'Souza A(1), Abdullahi H(1)(2), Badri F(2), Ibrahim I(3)(4).
+
+Author information:
+(1)Weill Cornell Medicine-Qatar, Doha, Qatar.
+(2)Sidra Medicine, Al Gharrafa Street, Ar-Rayyan, Doha, Qatar.
+(3)Weill Cornell Medicine-Qatar, Doha, Qatar. iibrahim1@sidra.org.
+(4)Sidra Medicine, Al Gharrafa Street, Ar-Rayyan, Doha, Qatar. 
+iibrahim1@sidra.org.
+
+AIMS: Given the limited data on the effects of metformin exposure in pregnancy, 
+this study aims to investigate the association between metformin use in 
+Gestational Diabetes (GDM) and the risk of short-term maternal and neonatal 
+outcomes.
+METHODS: This retrospective cohort study included women with GDM who sought 
+prenatal care at Sidra Medicine, Qatar, between January 2019 and December 2020 
+and compared maternal and neonatal outcomes in patients treated with metformin 
+to those treated with diet control alone.
+RESULTS: Six hundred forty nine GDM patients were included, of which 438 were 
+treated with diet only, and 211 were treated with metformin. At baseline, the 
+metformin-treated group was older (33.3 ± 4.8 vs. 31.2 ± 5.0 years), had higher 
+pre-pregnancy Body Mass Index (BMI) (27.9 ± 4.6 vs. 26.0 ± 4.7 kg/m2), but had 
+lower gestational weight gain (0.28 ± 0.20 vs. 0.34 ± 0.17 kg/week) than the 
+diet group (p <.001). When adjusted for age, fasting glucose at diagnosis, 
+pre-pregnancy weight, and gestational weight gain, metformin treatment was not 
+associated with an increased risk of any adverse pregnancy outcomes.
+CONCLUSIONS: Treatment with metformin was not associated with an increased risk 
+of adverse outcomes, including small for gestational age and preterm labor in 
+women with GDM.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12884-025-07869-6
+PMCID: PMC12261725
+PMID: 40660177 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study was approved by the Institutional Review Boards (IRB) at 
+Sidra Medicine and Weill Cornell Medicine– Qatar (IRB#1904345) and the need for 
+informed consent was waived by both IRBs due to the retrospective nature of the 
+study, and lack of patient identifiers. The study was conducted following the 
+ethical principles for medical research mentioned in the Declaration of Helsinki 
+as revised in 2013. Consent for publication: “Not Applicable”. Competing 
+interests: The authors declare no competing interests.

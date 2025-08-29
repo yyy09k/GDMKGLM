@@ -1,0 +1,49 @@
+Title: The effect of patient education on maternal fasting blood glucose in gestational diabetes mellitus in randomized controlled trials: a systematic review and meta-analysis.
+
+Abstract: 1. J Matern Fetal Neonatal Med. 2025 Dec;38(1):2523582. doi: 
+10.1080/14767058.2025.2523582. Epub 2025 Jul 9.
+
+The effect of patient education on maternal fasting blood glucose in gestational 
+diabetes mellitus in randomized controlled trials: a systematic review and 
+meta-analysis.
+
+Paudel A(1), Pearson RC(2), Mirsky E(3), Quesenberry Wilson A(4), Hunzicker 
+A(1), Grabeel KL(4), Thorne J(5), Maples JM(1).
+
+Author information:
+(1)College of Medicine - Knox, University of Tennessee Graduate School of 
+Medicine, Department of Obstetrics and Gynecology, University of Tennessee 
+Health Science Center, Knoxville, TN, USA.
+(2)Injury Prevention Branch, Defense Centers for Public Health, Aberdeen, WA, 
+USA.
+(3)Division of Maternal-Fetal Medicine, University of Kentucky College of 
+Medicine, Lexington, KY, USA.
+(4)Preston Medical Library, University of Tennessee Graduate School of Medicine, 
+Knoxville, TN, USA.
+(5)Alabama College of Osteopathic Medicine, School of Medicine, Dothan, AL, USA.
+
+OBJECTIVE: To evaluate the effect of patient education interventions on fasting 
+blood glucose (FBG) in patients with gestational diabetes mellitus (GDM).
+METHODS: Electronic search of MEDLINE/PubMed, CINAHL (EBSCO), Embase (Elsevier), 
+Cochrane Central Register of Controlled Trials (CENTRAL), and Clinicaltrials.gov 
+was conducted from inception to September 16, 2022. Randomized controlled trials 
+which evaluated the effect of GDM-specific education on biochemical assessment 
+of FBG during pregnancy or within 6 weeks postpartum in patients with GDM were 
+included. Meta-analysis was performed of studies reporting FBG using a fixed 
+effects model to determine mean blood glucose difference and corresponding 95% 
+confidence intervals. Cochrane risk of bias tool was used to assess study 
+quality.
+RESULTS: Fourteen randomized controlled trials enrolling 1885 patients were 
+included. A total of 8 studies with 893 participants were eligible for inclusion 
+in the meta-analysis. The mean effect size was significant: Cohen's d = -0.53 
+(95% CI [-0.67, -0.34], z = -7.36; p < 0.001). The overall risk of bias for 
+included studies was low.
+CONCLUSION: A GDM-specific education intervention resulted in improved glucose 
+control during pregnancy and up to 6 weeks postpartum. Due to the number of 
+studies a moderator analysis could not be conducted to determine the most 
+effective educational intervention strategies. More studies are needed to 
+determine efficacious interventions that are cost-effective and can be broadly 
+implemented throughout health systems.
+
+DOI: 10.1080/14767058.2025.2523582
+PMID: 40634131 [Indexed for MEDLINE]

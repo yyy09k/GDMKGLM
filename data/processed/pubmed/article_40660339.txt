@@ -1,0 +1,71 @@
+Title: Efficacy and safety of recombinant human granulocyte colony-stimulating factor in patients with unexplained recurrent pregnancy loss: a protocol for a multicenter, randomized, double-blind, controlled trial.
+
+Abstract: 1. Trials. 2025 Jul 14;26(1):245. doi: 10.1186/s13063-025-08951-2.
+
+Efficacy and safety of recombinant human granulocyte colony-stimulating factor 
+in patients with unexplained recurrent pregnancy loss: a protocol for a 
+multicenter, randomized, double-blind, controlled trial.
+
+Mu F(1), Cai Z(2), Du L(3), Zeng X(1), Zhou Q(4), Chen Y(4), Wang F(5).
+
+Author information:
+(1)Department of Reproductive Medicine, Lanzhou University Second Hospital, 
+Lanzhou, 730030, China.
+(2)Department of Obstetrics and Gynecology, The Third Affiliated Hospital of 
+Wenzhou Medical University, Wenzhou, 325035, China.
+(3)Hebei Key Laboratory of Reproductive Medicine, Hebei Reproductive Health 
+Hospital (Research Institute), Shijiazhuang, 050071, China.
+(4)Evidence-Based Medicine Center, School of Basic Medical Sciences, Lanzhou 
+University, Lanzhou, 730030, China.
+(5)Department of Reproductive Medicine, Lanzhou University Second Hospital, 
+Lanzhou, 730030, China. ery_fwang@lzu.edu.cn.
+
+BACKGROUND: Unexplained recurrent pregnancy loss (uRPL), defined as the loss of 
+two or more pregnancies without an identified cause, affects approximately 1-2% 
+of women trying to conceive. Emerging evidence suggests that an imbalance in 
+maternal-fetal immunological tolerance may play a key role in its pathogenesis. 
+Granulocyte colony-stimulating factor (G-CSF), a glycosylated polypeptide chain 
+cell growth factor, has shown promise in improving pregnancy outcomes in uRPL, 
+although findings from previous clinical trials are inconsistent. High-quality, 
+adequately powered studies are urgently needed to determine its clinical 
+utility. This study aims to evaluate the efficacy and safety of G-CSF in Chinese 
+women with uRPL, providing a more theoretical basis for clinical practice.
+METHODS: A randomized, double-blind, placebo-controlled, multicenter clinical 
+trial will enroll 528 eligible participants, assigned to test group (n = 264, 
+G-CSF 150 μg, subcutaneously every other day) and control group (n = 264, 
+placebo), starting after confirmation of early pregnancy and ending at 
+10 weeks + 0 days of gestation. All participants will also receive 
+dydrogesterone and aspirin as supportive care. The primary endpoint is fetal 
+survival to 24 weeks, and secondary endpoints are early pregnancy loss, 
+clinically confirmed pregnancy, ongoing pregnancy, fetal survival to 28 weeks, 
+ectopic pregnancy, preterm birth, stillbirth, and pregnancy complications 
+(preeclampsia, gestational diabetes mellitus, HELLP syndrome, placental 
+abruption). The trial will also explore subgroup effects based on research 
+centers (4 centers), age, number of pregnancy losses, and body mass index.
+DISCUSSION: This trial aims to provide high-quality evidence on the efficacy and 
+safety of G-CSF in the treatment of uRPL, particularly in the Chinese population 
+where existing data are limited. The findings may support evidence-based 
+recommendations and inform treatment decisions in a population where therapeutic 
+options remain limited and controversial.
+TRIAL REGISTRATION: ChiCTR2300077436. Prospectively registered on 2023-11-08.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13063-025-08951-2
+PMCID: PMC12257775
+PMID: 40660339 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate {24}.: According to the Declaration of Helsinki, the protocol 
+obtained approval from the Lanzhou University Second Hospital (2023A-530) and 
+was registered in the Chinese Clinical Trial Registry (ChiCTR2300077436) prior 
+to the study’s initiation. The principal investigator will strive to draft the 
+informed consent form and supporting documents in simple language to obtain 
+informed consent from patients and their legally authorized representatives. No 
+study procedures will be performed until written informed consent is provided. 
+The clinical findings of this trial will be compiled into a manuscript for 
+presentation at scientific conferences or publication in scientific journals 
+following the completion of the trial. The manuscript will be discussed and 
+approved by all principal investigators of the centers involved in the study. 
+Consent for publication {32}: N/A. Competing interests {28}.: The authors 
+declare that they have no competing interests.

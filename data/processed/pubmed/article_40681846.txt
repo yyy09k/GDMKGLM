@@ -1,0 +1,115 @@
+Title: Pregnancy-associated acute kidney injury - consensus report of the 32nd Acute Disease Quality Initiative workgroup.
+
+Abstract: 1. Nat Rev Nephrol. 2025 Jul 18. doi: 10.1038/s41581-025-00979-6. Online ahead of
+ print.
+
+Pregnancy-associated acute kidney injury - consensus report of the 32nd Acute 
+Disease Quality Initiative workgroup.
+
+Nelson-Piercy C(1), Srisawat N(2)(3), Kashani K(4)(5), Lumlertgul N(2)(3), 
+Murugan R(6), Rhee H(7), Chakravarthi R(8), Surapaneni T(9), Acharya A(10), 
+Ankawi G(11), Bramham K(12), Cerda J(13), Clark K(12), Claure-Del Granado R(14), 
+Gowrishankar S(15), Luyckx V(16), Menon S(17), Poli-de-Figueiredo CE(18), 
+Ramachandran R(19), Sahay M(20), Samavedam S(21), Shemies R(22), Shetty MS(23), 
+Wiles K(24), Wium L(25), Wu VC(26), Yadla M(27), Ronco C(28), Mehta RL(29), 
+Ostermann M(30).
+
+Author information:
+(1)Department of Obstetric Medicine, Guy's & St Thomas' Foundation Trust, 
+London, UK.
+(2)Excellence Centre for Critical Care Nephrology, King Chulalongkorn Memorial 
+Hospital, Bangkok, Thailand.
+(3)Centre of Excellence for Critical Care Nephrology, Faculty of Medicine, 
+Chulalongkorn University, Bangkok, Thailand.
+(4)Division of Nephrology and Hypertension, Mayo Clinic, Rochester, MN, USA.
+(5)Division of Pulmonary and Critical Care Medicine, Mayo Clinic, Rochester, MN, 
+USA.
+(6)Program for Critical Care Nephrology, Department of Critical Care Medicine, 
+University of Pittsburgh School of Medicine, Pittsburgh, PA, USA.
+(7)Department of Medicine, Pusan National University School of Medicine, Busan, 
+Republic of Korea.
+(8)Department of Nephrology, Yasodha Hospitals, Hyderabad, India.
+(9)Department of Obstetric Medicine, Fernandez Hospitals, Hyderguda, Hyderabad, 
+India.
+(10)Division of Nephrology, Jacobi Medical Center, New York City Health and 
+Hospital Corporation (NYCHHC), Albert Einstein College of Medicine, New York 
+City, NY, USA.
+(11)Division of Nephrology, Department of Medicine, King Abdulaziz University, 
+Jeddah, Saudi Arabia.
+(12)Department of Women & Children's Health, School of Life Course & Population 
+Sciences, King's College London, London, UK.
+(13)Division of Nephrology, Department of Medicine, Albany Medical College, 
+Albany, NY, USA.
+(14)Division of Nephrology, Department of Medicine, Hospital Obrero No 2 - Caja 
+Nacional de Salud, Cochabamba, Bolivia.
+(15)Department of Pathology, Apollo Health City, Hyderabad, India.
+(16)Department of Nephrology, University Children's Hospital, University of 
+Zurich, Zurich, Switzerland.
+(17)Division of Nephrology, Department of Pediatrics, Lucile Packard Children's 
+Hospital and Stanford University School of Medicine, Palo Alto, CA, USA.
+(18)Division of Nephrology, School of Medicine, Pontifical Catholic University 
+of Rio Grande do Sul (PUCRS), Porto Alegre, Brazil.
+(19)Department of Nephrology, Post Graduate Institute of Medical Education and 
+Research, Chandigarh, India.
+(20)Department of Nephrology, Osmania Medical College and General Hospital, 
+Hyderabad, India.
+(21)Ramdev Rao Hospital, Hyderabad, India.
+(22)Mansoura Nephrology and Dialysis Unit, Mansoura University, Mansoura, Egypt.
+(23)Department of Nephrology, JSS Medical College, JSSAHER, Mysuru, India.
+(24)Department of Women's Health, Barts Health NHS Trust, London, UK.
+(25)Department of Obstetric Medicine, King's College Hospital NHS Trust, London, 
+UK.
+(26)Department of Nephrology, Department of Internal Medicine, National Taiwan 
+University Hospital, Taipei, Taiwan.
+(27)Department of Nephrology, Gandhi Medical College, Hyderabad, India.
+(28)Department of Nephrology, Dialysis and Transplantation, San Bortolo 
+Hospital, International Renal Research Institute of Vicenza, Vicenza, Italy.
+(29)Department of Medicine, University of California San Diego, San Diego, CA, 
+USA.
+(30)Department of Critical Care, King's College London, Guy's & St Thomas' 
+Hospital, London, UK. Marlies.Ostermann@gstt.nhs.uk.
+
+Acute kidney injury (AKI) during pregnancy and the postpartum period, known as 
+pregnancy-associated AKI (PrAKI), is an important health concern and driver of 
+health inequity worldwide. Causes of PrAKI include sepsis, autoimmune disorders 
+and pregnancy-specific pathologies such as hypertensive disorders. Common risk 
+factors include maternal comorbidities and use of nephrotoxic medications. PrAKI 
+accounts for a substantial proportion of maternal mortality and morbidity, 
+particularly in low-income and middle-income countries, and may also adversely 
+affect the fetus, resulting in death, premature birth and small for gestational 
+age. In this Consensus Statement, we present recommendations on the causes, 
+diagnosis, management and follow-up of PrAKI from the 32nd Acute Disease Quality 
+Initiative meeting, which involved international experts in obstetrics, 
+midwifery, obstetric medicine, paediatrics, internal medicine, anaesthesiology, 
+nephrology and critical care. We suggest that pregnant and postpartum women at a 
+high risk of PrAKI should be identified to enable prevention, surveillance and 
+timely diagnosis. The multidisciplinary management of these patients should be 
+tailored to treat their specific causes of PrAKI to optimize short-term and 
+long-term neonatal and maternal outcomes. Further observational and 
+interventional studies are needed to address existing gaps in knowledge of PrAKI 
+and improve maternal and fetal outcomes.
+
+© 2025. Springer Nature Limited.
+
+DOI: 10.1038/s41581-025-00979-6
+PMID: 40681846
+
+Conflict of interest statement: Competing interests: C.N.-P. has received 
+speakers fees from UCB and Sanofi unrelated to this manuscript. R.M. is a 
+consultant for Baxter, Vantive and Fresenius, and has received grants from the 
+US National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) and 
+Vantive, unrelated to this study. M.O. has received research funding from Baxter 
+and BioMérieux. K.K. declares patents for direct GFR measurement and net 
+ultrafiltration calculator; consulting fees and travel support from Baxter 
+Healthcare; research grants from Google; speaker honorarium from Nikkiso 
+Critical Care Medical Supplies (Shanghai); funding from NIDDK grant; 
+and research grants to his institution from the following companies: Fresenius, 
+Spectral, ExThera, Renibus, Novartis and Astute Medical. K.B. has received 
+consulting fees from GSK, Vertex, Maze, AstraZeneca and Bayer; honoraria from 
+AstraZeneca, Boehringer Ingelheim and Vertex; and industry grants from 
+AstraZeneca and Roche. R.C.-D.G. has received speaker honoraria from Nova 
+Biomedical and Baxter Healthcare. R.L.M. has received consulting fees from Am 
+Pharma, Baxter, Fresenius, Guard Therapeutics, Abbott, Sphingotec, Mallinckrodt, 
+Novartis, Idorsia, Renasym, Abiomed and Alexion. S.M. has received research 
+funding from the Gerber Foundation. The other authors declare no competing 
+interests.

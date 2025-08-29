@@ -1,0 +1,55 @@
+Title: The consequences of ultra-processed foods on brain development during prenatal, adolescent and adult stages.
+
+Abstract: 1. Front Public Health. 2025 Jun 23;13:1590083. doi: 10.3389/fpubh.2025.1590083. 
+eCollection 2025.
+
+The consequences of ultra-processed foods on brain development during prenatal, 
+adolescent and adult stages.
+
+Mottis G(1), Kandasamey P(1)(2)(3), Peleg-Raibstein D(1)(2)(3)(4).
+
+Author information:
+(1)Department of Health Sciences and Technology, ETH Zurich, Zurich, 
+Switzerland.
+(2)Institute for Neuroscience, Department of Health Sciences and Technology, ETH 
+Zurich, Zurich, Switzerland.
+(3)Institute of Food, Nutrition and Health, Department of Health Sciences and 
+Technology, ETH Zurich, Zurich, Switzerland.
+(4)Neuroscience Center Zurich, University of Zurich, ETH Zurich, Zurich, 
+Switzerland.
+
+Ultra-processed foods (UPFs) are highly refined formulations of non-nutritive 
+compounds containing elevated amounts of sugar, fat, sodium, food additives, and 
+dietary emulsifiers. Consumption of UPF is robustly linked to a range of 
+non-communicable diseases, including obesity, type 2 diabetes, cardiovascular 
+disease, and mental disorders in adults. While substantial research highlights 
+the negative health impacts of UPFs in adulthood, their effects on brain 
+development during critical periods of biological vulnerability, pregnancy, 
+childhood, and adolescence, remain underexplored. During pregnancy, significant 
+metabolic and physiological adaptations occur to support fetal growth, making 
+maternal diet quality essential for optimal perinatal outcomes. Poor maternal 
+nutrition, including high UPF consumption, has been associated with an increased 
+risk of hypertensive disorders, gestational diabetes, and adverse birth weights, 
+potentially predisposing offspring to metabolic health disorders later in life. 
+Similarly, in early childhood, inadequate nutrition is a key risk factor for 
+developmental impairments, influencing cognitive function and long-term health 
+outcomes. Adolescence, another critical stage of brain maturation, is 
+particularly susceptible to the effects of micronutrient deficiencies, often 
+exacerbated by diets high in UPFs, which can impair neurodevelopment and 
+cognitive performance. As UPFs continue to dominate modern diets, accounting for 
+over 50% of total energy intake in some developed nations, understanding their 
+long-term impact on brain development is crucial. Early-life exposure to UPFs 
+may contribute to lasting cognitive deficits and increased susceptibility to 
+mental health disorders, emphasizing the urgent need for targeted dietary 
+interventions and public health strategies aimed at pregnant women, children, 
+and adolescents.
+
+Copyright © 2025 Mottis, Kandasamey and Peleg-Raibstein.
+
+DOI: 10.3389/fpubh.2025.1590083
+PMCID: PMC12235085
+PMID: 40630399 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

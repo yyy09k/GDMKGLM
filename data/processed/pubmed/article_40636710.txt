@@ -1,0 +1,66 @@
+Title: A murine model of gestational diabetes reveals MASLD risk and alterations in markers of hepatic mitochondrial metabolism.
+
+Abstract: 1. Front Endocrinol (Lausanne). 2025 Jun 25;16:1498764. doi: 
+10.3389/fendo.2025.1498764. eCollection 2025.
+
+A murine model of gestational diabetes reveals MASLD risk and alterations in 
+markers of hepatic mitochondrial metabolism.
+
+Shryack GE(1)(2)(3), Krause AA(1)(2)(3), Hernandez Ruano S(4), Schulz LC(5), 
+Pennington KA(4), Rector RS(1)(2)(3).
+
+Author information:
+(1)Research Service, Harry S Truman Memorial Veterans Medical Center, Columbia, 
+MO, United States.
+(2)NextGen Precision Health, University of Missouri, Columbia, MO, United 
+States.
+(3)Department of Nutrition and Exercise Physiology, University of Missouri, 
+Columbia, MO, United States.
+(4)Department of Obstetrics and Gynecology, Baylor College of Medicine, Houston, 
+TX, United States.
+(5)Deparment of Obstetrics, Gynecology, and Women's Health, University of 
+Missouri, Columbia, MO, United States.
+
+INTRODUCTION: Gestational Diabetes Mellitus (GDM) impacts roughly 1 in 7 
+pregnancies and results in metabolic dysfunction-associated steatotic liver 
+disease (MASLD) in 30% of these women. Nonetheless, there exists a dearth of 
+investigation into the relationship between GDM and MASLD. Here, we sought to 
+investigate the potential role of hepatic mitochondrial function in GDM and 
+MASLD.
+METHODS: One week prior to conception and throughout pregnancy, mice were fed 
+either a low-fat control diet (CD) or a high-fat, high-sucrose (HFHS) diet to 
+induce an established model of GDM. Maternal livers were collected at day 0, 
+6.5, 13.5 and 17.5 of pregnancy. Hepatic markers (via mRNA and western blot 
+analyses) of mitochondrial biogenesis, autophagy, mitophagy, activity, and 
+function were assessed, as well as markers of inflammation and antioxidant 
+status were evaluated.
+RESULTS: Progressing gestation in both CD and GDM dams significantly decreased 
+protein and mRNA markers of hepatic mitochondrial biogenesis (Pgc1-α, Tfam), 
+autophagy (Atg5, Sqstm1), mitophagy (Pink1, Bnip3) and lipid handling (Ampk, 
+pAMPK/AMPK, FAS, ACC, pACC, Mttp) with a main effect for time (P<0.05). 
+HFHS-induced model of GDM lead to significant elevations in liver triglycerides 
+and NAFLD Activity Score (NAS) (P<0.0001, P<0.0001) independent of body weight 
+gain during gestation. MASLD development in the GDM mice occurred in conjunction 
+with significant reductions in hepatic mitochondrial activity at day 6.5 
+(citrate synthase, p<0.01) and day 17.5 (β-HAD, citrate synthase, P<0.001) 
+compared to CD mice. However, GDM lead to elevated protein and/or mRNA markers 
+of mitochondrial biogenesis (Tfam), mitophagy (BNIP3, Bnip3, Sqstm1, Pink1), 
+lipid handling (Mttp), inflammation (Il-1β, Tnf-α, Tgf-β) and antioxidant 
+defense (Gxp1, Nfe2l2, Sod2) (P<0.05).
+DISCUSSION: Pregnancy, independent of diet, decreased markers of liver 
+mitochondrial biogenesis, autophagy, and mitophagy in dams. The GDM mouse model 
+exhibited elevated hepatic TG and NAS, as well as decreased liver mitochondrial 
+activity. These findings demonstrate that pregnancy and GDM significantly impact 
+maternal liver mitochondrial metabolism and unveil new insight on the potential 
+relationship between MASLD and GDM.
+
+Copyright © 2025 Shryack, Krause, Hernandez Ruano, Schulz, Pennington and 
+Rector.
+
+DOI: 10.3389/fendo.2025.1498764
+PMCID: PMC12237674
+PMID: 40636710 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.

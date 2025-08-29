@@ -1,0 +1,50 @@
+Title: Increased fractalkine expression in placental tissue and HUVECs from pregnant women with gestational diabetes mellitus and its correlation with clinicopathological variables in a case-control study.
+
+Abstract: 1. J Matern Fetal Neonatal Med. 2025 Dec;38(1):2534505. doi: 
+10.1080/14767058.2025.2534505. Epub 2025 Jul 20.
+
+Increased fractalkine expression in placental tissue and HUVECs from pregnant 
+women with gestational diabetes mellitus and its correlation with 
+clinicopathological variables in a case-control study.
+
+Usta A(1), Sancakli Usta C(1), Lafci D(1), Tekcan C(2), Turan G(3).
+
+Author information:
+(1)Department of Obstetrics and Gynecology, School of Medicine, Balikesir 
+University, Balıkesir, Turkey.
+(2)Clinic of Obstetrics and Gynecology, Private Clinic, Istanbul, Turkey.
+(3)Department of Pathology, School of Medicine, Balikesir University, Balıkesir, 
+Turkey.
+
+AIM: Gestational diabetes mellitus is defined as any glucose intolerance that 
+begins during pregnancy, and it is one of the most common metabolic disorders 
+complicating pregnancies, affecting approximately 10-14% of all pregnancies. 
+Maternal carbohydrate metabolism changes during pregnancy to ensure adequate 
+nutrition for the fetus, with the human umbilical vein and the placenta being 
+important regulators of this physiological state. This study aimed to evaluate 
+fractalkine (FKN) immunoreactivity in GDM pregnancies and its association with 
+maternal/fetal health outcomes.
+METHODS: In this case-control study, a total of 89 pregnant women (44 GDM and 45 
+non-GDM) underwent a 50 g glucose loading test (GCT) between 24 and 28 weeks of 
+gestation. GCT cutoff value was chosen as <140 mg/dl. Women with high GCT values 
+underwent rapid diagnostic testing with a 3-hour glucose tolerance test (GTT). 
+Placenta samples were obtained after cesarean section. Immunohistochemistry for 
+FKN was performed on formalin-fixed and paraffin-embedded sections. Finally, the 
+relationship between FKN expression and clinical manifestations of GDM was 
+evaluated.
+RESULTS: FKN expression was significantly different between pregnant women with 
+and without GDM. Specifically, FKN expression was increased in the capillary 
+endothelium (p < 0.0001) and human umbilical vein endothelial cells (HUVECs) 
+(p = 0.0011) in pregnant women with GDM compared to those without GDM. 
+Furthermore, FKN expression in HUVECs was found to be associated with fetal 
+macrosomia (p = 0.0099) and neonatal hypoglycemia (p = 0.0291). Additionally, 
+FKN expression in the capillary endothelium was found to be associated with 
+preeclampsia (p = 0.0250). Regarding the pathological changes of the placenta 
+with FKN expression, significant correlations were identified with both 
+capillary endothelial FKN expression and HUVEC FKN expression.
+CONCLUSIONS: The observed differences suggest a potential association between 
+the immunohistochemical expression of FKN and the presence of GDM, placental 
+changes, and adverse outcomes of pregnancy.
+
+DOI: 10.1080/14767058.2025.2534505
+PMID: 40685323 [Indexed for MEDLINE]

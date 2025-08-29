@@ -1,0 +1,83 @@
+Title: Adverse perinatal outcomes associated with respiratory distress syndrome in preterm infants: a retrospective analysis.
+
+Abstract: 1. Ital J Pediatr. 2025 Jul 16;51(1):235. doi: 10.1186/s13052-025-02061-0.
+
+Adverse perinatal outcomes associated with respiratory distress syndrome in 
+preterm infants: a retrospective analysis.
+
+Ma YJ(1), Sun Y(2), Zhang CH(3).
+
+Author information:
+(1)Department of Pediatrics, Qilu Hospital of Shandong University (Qingdao), 758 
+Hefei Road, Qingdao, Shandong, 266035, China.
+(2)Department of Neonatology, Weihai Women and Children's Hospital, Weihai, 
+Shandong, 264200, China.
+(3)Department of Pediatrics, Qilu Hospital of Shandong University (Qingdao), 758 
+Hefei Road, Qingdao, Shandong, 266035, China. rainbowzhang001@163.com.
+
+BACKGROUND: With the development of perinatal medicine and the continuous 
+improvement of neonatal treatment technology, the birth rate of preterm infants 
+is increasing. Respiratory distress syndrome (RDS) is one of the most prevalent 
+complications with a high mortality rate among preterm infants. It is associated 
+with short and long-term adverse outcomes for newborns, and seriously affects 
+their survival rate and long-term quality of life. The aim of the present study 
+was to investigate the perinatal risk factors for RDS, and the major 
+complications and mortality rate associated with RDS in preterm infants, thereby 
+providing a basis for preventing the occurrence of RDS and improving the 
+prognosis of preterm infants.
+METHODS: A retrospective cohort study was conducted by selecting all preterm 
+infants who were admitted to the Neonatal Intensive Care Unit (NICU) of Qilu 
+Hospital, Shandong University (Qingdao) after obstetric delivery from January 
+2018 to December of 2021. According to whether preterm infants suffered from 
+RDS, they were divided into RDS group (n = 319) and Non- RDS group (n = 366).
+RESULTS: A total of 685 preterm infants were included. In the RDS group, the 
+mothers of preterm infants with RDS were older (P < 0.001) and more of advanced 
+maternal age (≥ 35 years, P < 0.005), tended to have a higher rate of cesarean 
+section (P = 0.033), and were more likely to be complicated with pregnancy 
+diabetes and hypertensive disorders during pregnancy (all P < 0.001). Preterm 
+infants with RDS were more prevalent in males (P = 0.025), with smaller 
+gestational age, lighter weight and a higher risk of asphyxia at birth (all 
+P < 0.001). Preterm infants with RDS after birth had a higher rate of pneumonia, 
+sepsis, hypoxic-ischemic encephalopathy (HIE), bronchopulmonary dysplasia (BPD), 
+and had longer anti-infection times (duration of antimicrobial use) and 
+hospitalization times (all P < 0.001), as well as a higher mortality rate of 
+6.0%, while none died in Non-RDS group (P < 0.001). Among preterm infants who 
+had died, most of them were males, with a mortality rate 8.5 times higher than 
+that of females. Multivariate logistic regression analysis indicated that 
+gestational diabetes (OR = 2.283, 95% CI 1.483-3.513), hypertensive disorders 
+during pregnancy (OR = 2.201, 95% CI 1.215-3.988), gestational age < 32 weeks 
+(OR = 3.914, 95% CI 2.972-5.155), birth weight < 1500 g (OR = 6.610, 95% CI 
+2.777-13.735), and asphyxia (OR = 5.239, 95% CI 2.602-10.551) were independent 
+risk factors for the occurrence of RDS in preterm infants. Through further 
+analysis, we found that the incidence rate of asphyxia in preterm infants with 
+RDS who used corticosteroids before delivery was decreased (P = 0.02), while the 
+incidence rate of hyperbilirubinemia was increased (P = 0.004), and the 
+hospitalization time was prolonged (P = 0.043), however the mortality rate was 
+not significantly different between the two groups (P > 0.05). With different 
+ventilation modes, the incidence rates of sepsis, BPD and mortality of RDS in 
+preterm infants were significantly increased, and the anti-infection times and 
+the hospitalization time was prolonged in mechanical ventilation group compared 
+with the nasal continuous positive airway pressure ventilation (NCPAP) group 
+(all P < 0.001).
+CONCLUSION: RDS is associated with a higher risk of adverse perinatal outcomes 
+and adverse neonatal outcomes in preterm infants. Reasonable use of 
+corticosteroid before birth and standardized use of ventilators after birth can 
+prevent the occurrence of RDS and improve the prognosis of RDS in preterm 
+infants.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13052-025-02061-0
+PMCID: PMC12269104
+PMID: 40671065 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: This study involving human participants has been performed in 
+accordance with the ethical standards of the Institutional Research Committee 
+and with the 1964 Helsinki Declaration and its later amendments or comparable 
+ethical standards. The study has been approved by the Ethical Commission of Qilu 
+Hospital of Shandong University (Qingdao, China). Patients who participated in 
+this research had complete clinical data. Written informed consent was obtained 
+from the parents of the pediatric patients Consent for publication: Not 
+applicable. Competing interests: The authors declare that they have no competing 
+interests.

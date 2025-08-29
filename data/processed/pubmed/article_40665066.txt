@@ -1,0 +1,45 @@
+Title: From Glucotoxicity to Lung Injury: Emerging Perspectives on Diabetes-Associated Respiratory Complications.
+
+Abstract: 1. Lung. 2025 Jul 15;203(1):80. doi: 10.1007/s00408-025-00834-2.
+
+From Glucotoxicity to Lung Injury: Emerging Perspectives on Diabetes-Associated 
+Respiratory Complications.
+
+Yu H(1), Liu J(2), He X(2).
+
+Author information:
+(1)Department of Geriatrics, The First Affiliated Hospital of Chongqing Medical 
+University, No.1 Youyi Road, Yuzhong, Chongqing, 400016, China. yhm920@126.com.
+(2)Department of Geriatrics, The First Affiliated Hospital of Chongqing Medical 
+University, No.1 Youyi Road, Yuzhong, Chongqing, 400016, China.
+
+Emerging evidence highlights glucose toxicity as a pivotal driver of diabetic 
+respiratory complications, characterized by hyperglycemia-induced metabolic 
+dysregulation and multi-organ damage. The lung, a metabolically active organ, 
+exhibits unique susceptibility to glucose toxicity due to its exposure to 
+oxidative stress, inflammatory cascades, and disrupted metabolic reprogramming, 
+particularly in glycolysis and mitochondrial dysfunction. Diabetes-associated 
+respiratory complications encompass increased susceptibility to respiratory 
+infections, acute respiratory distress syndrome (ARDS) with macrophage-driven 
+glycolytic shifts, and gestational diabetes mellitus (GDM)-associated fetal lung 
+dysplasia via impaired epithelial differentiation. Future research should 
+prioritize metabolic dysregulation-targeted therapies, gut-lung axis modulation, 
+and personalized approaches to address the interplay between hyperglycemia, 
+oxidative stress, and immune dysregulation. Elucidating genetic and epigenetic 
+modifiers of glucotoxicity will further advance therapeutic strategies for 
+diabetes-associated pneumopathy. This review provides an overview of 
+epidemiological burden, lung structural and functional changes, 
+pathophysiological mechanisms, clinical outcomes and complications, therapeutic 
+and preventive strategies, unanswered questions, and future directions of 
+diabetes-associated respiratory complications.
+
+© 2025. The Author(s), under exclusive licence to Springer Science+Business 
+Media, LLC, part of Springer Nature.
+
+DOI: 10.1007/s00408-025-00834-2
+PMID: 40665066 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare that they have no competing interests. Ethical Approval: Not applicable. 
+Consent to Participate: Not applicable. Consent for Publication: The authors 
+consent to publication. Clinical Trial Number: Not applicable.

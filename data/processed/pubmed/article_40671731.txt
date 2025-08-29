@@ -1,0 +1,58 @@
+Title: The association between husband-reported snoring and gestational diabetes mellitus: a study of sleep-disordered breathing in pregnancy.
+
+Abstract: 1. J Diabetes Metab Disord. 2025 Jul 14;24(2):165. doi:
+10.1007/s40200-025-01678-6.  eCollection 2025 Dec.
+
+The association between husband-reported snoring and gestational diabetes 
+mellitus: a study of sleep-disordered breathing in pregnancy.
+
+Mohsenzadeh-Ledari F(1), Delavar MA(1), Nikpour M(2), Esmaeilzadeh S(1), Khafri 
+S(3).
+
+Author information:
+(1)Infertility and Health Reproductive Research Center, Health Research 
+Institute, Babol University of Medical Sciences, Babol-Amol old highway, after 
+Mohammad hasan Khan bridge, Po. Box: 47135-547, Babol, Mazandaran, I. R. of 
+Iran.
+(2)Non-Communicable Pediatric Disease Research Center, Health Research 
+Institute, Babol University of Medical Sciences, Babol, I. R. of Iran.
+(3)Department of Epidemiology and Biostatistics, School of Public Health, Babol 
+University of Medical Sciences, Babol, I. R. of Iran.
+
+BACKGROUND: Gestational diabetes mellitus (GDM) poses health risks to mothers 
+and infants. This study investigates the link between husband-reported snoring 
+in early pregnancy and GDM risk.
+METHODS: From July 2021 to June 2023, 1200 pregnant women were recruited at 
+Babol University of Medical Sciences. Data collection included the Snoring 
+Questionnaire and Epworth Sleepiness Scale (ESS) at the first antenatal visit. 
+GDM was diagnosed at 24-28 weeks using an oral glucose tolerance test based on 
+ADA criteria.
+RESULTS: Persistent snorers had significantly higher fasting blood sugar levels, 
+elevated 1-3-hour glucose levels, and a higher GDM prevalence (19.1% vs. 9.3%; 
+p < 0.001) compared to soft snorers. After adjusting for confounding variables, 
+occasional snoring (AOR: 3.93; 95% CI: 1.73-8.95; p = 0.001), frequent snoring 
+(AOR: 4.02; 95% CI: 1.56-10.36; p = 0.004), and persistent snoring (AOR: 3.24; 
+95% CI: 2.04-5.13; p < 0.001) were associated with significantly increased GDM 
+risk. A forest plot showed a significant trend of increased GDM risk with higher 
+husband-reported snoring frequency (P < 0.001). No significant association was 
+observed between daytime sleepiness and GDM.
+CONCLUSIONS: Husband-reported snoring in early pregnancy, especially frequent 
+snoring, is significantly associated with an increased risk of GDM. These 
+findings highlight the potential role of sleep assessments in prenatal care for 
+early identification and management of GDM risk.
+SUPPLEMENTARY INFORMATION: The online version contains supplementary material 
+available at 10.1007/s40200-025-01678-6.
+
+© The Author(s), under exclusive licence to Tehran University of Medical 
+Sciences 2025. Springer Nature or its licensor (e.g. a society or other partner) 
+holds exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of such 
+publishing agreement and applicable law.
+
+DOI: 10.1007/s40200-025-01678-6
+PMCID: PMC12260140
+PMID: 40671731
+
+Conflict of interest statement: Competing interestsThe authors declare no 
+competing interests.

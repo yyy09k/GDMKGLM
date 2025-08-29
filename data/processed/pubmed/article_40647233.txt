@@ -1,0 +1,45 @@
+Title: High-Calorie Diet Exacerbates the Crosstalk Between Gestational Diabetes and Youth-Onset Diabetes in Female Offspring Through Disrupted Estrogen Signaling.
+
+Abstract: 1. Nutrients. 2025 Jun 26;17(13):2128. doi: 10.3390/nu17132128.
+
+High-Calorie Diet Exacerbates the Crosstalk Between Gestational Diabetes and 
+Youth-Onset Diabetes in Female Offspring Through Disrupted Estrogen Signaling.
+
+Jia X(1), Cao X(1), Wang Y(1), Yang S(1), Ji L(1)(2).
+
+Author information:
+(1)Department of Pharmacology, School of Pharmacy, Qingdao University, Qingdao 
+266021, China.
+(2)Key Laboratory of Maternal & Fetal Medicine of National Health Commission of 
+China, Shandong Provincial Maternal and Child Health Care Hospital Affiliated to 
+Qingdao University, Jinan 250014, China.
+
+Background/Objectives: Recent global trends highlight a concerning rise in 
+youth-onset type 2 diabetes (YOT2D), with a marked female preponderance. We aim 
+to explore the crosstalk between gestational diabetes mellitus (GDM) and YOT2D 
+in female offspring. Methods: In vivo, GDM mice were induced by Western diet 
+(WD), and their female offspring were fed normal diet or WD within 3 to 8 weeks. 
+We continuously detected the glucose metabolism disorders, serum estradiol level 
+(ELISA), and the process of ovarian maturation. Meanwhile, the dynamic changes 
+in ERα and insulin signal in liver were monitored (qPCR, Western blot). In 
+vitro, LO2 cells were treated with estradiol or ER antagonist BHPI to further 
+explore the mechanism. Results: More than 85% of pregnant mice induced by WD 
+were GDM models. The serum estradiol level in GDM offspring mice was decreased 
+during sexual maturation, accompanied by marked oral glucose intolerance, 
+insulin resistance, and even diabetes. The advance of sexual maturation and the 
+decrease in serum estradiol in GDM offspring were mainly due to the 
+downregulation of CYP19A1 in the ovaries, the reduced area of secondary 
+follicles, and the increased number of atresia follicles, which could be greatly 
+worsened by WD. Furthermore, GDM suppressed the protein levels of ERα, p-IRS-1, 
+and p-Akt in liver tissue, that is, estrogen signals and insulin signaling were 
+simultaneously weakened. WD further exacerbated the above changes. In vitro, 
+estradiol upregulated the protein levels of ERα, p-IRS-1, and p-Akt in LO2 
+cells, while BHPI inhibited these changes. Conclusions: Maternal GDM promotes a 
+high incidence of YOT2D in female offspring by affecting ovarian maturation, and 
+a high-calorie diet exacerbates this process.
+
+DOI: 10.3390/nu17132128
+PMCID: PMC12251584
+PMID: 40647233 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.

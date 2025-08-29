@@ -1,0 +1,92 @@
+Title: Letrozole ovulation regimen for frozen-thawed embryo transfer in women with polycystic ovary syndrome: a muti-centre randomised controlled trial.
+
+Abstract: 1. Reprod Biol Endocrinol. 2025 Jul 17;23(1):103. doi:
+10.1186/s12958-025-01432-w.
+
+Letrozole ovulation regimen for frozen-thawed embryo transfer in women with 
+polycystic ovary syndrome: a muti-centre randomised controlled trial.
+
+Xie Y(#)(1)(2), Li P(#)(3)(4), Hao G(#)(5), Deng W(#)(6), Zhao J(#)(7), Gao 
+S(#)(8), Deng B(3)(4), Li Y(9), Deng M(1)(2), Yuan Y(7), Fan Q(1)(2), Zhang 
+N(10), Zhao Z(5), Shi Y(11)(12).
+
+Author information:
+(1)Guangdong Provincial People's Hospital (Guangdong Academy of Medical 
+Sciences), Southern Medical University, Guangzhou, 510080, China.
+(2)Guangdong Cardiovascular Institute, Guangdong Provincial People's Hospital, 
+Guangdong Academy of Medical Sciences, Guangzhou, 510080, China.
+(3)Department of Reproductive Medicine, Women and Children's Hospital, School of 
+Medicine, Xiamen university, Xiamen, 361003, China.
+(4)Xiamen Key Laboratory of Reproduction and Genetics, Women and Children's 
+Hospital, School of Medicine, Xiamen University, Xiamen, 361003, China.
+(5)Department of Reproductive Medicine, the Second Hospital of Hebei Medical 
+University, Shijiazhuang, 050000, China.
+(6)Reproductive Medicine Center, Shenzhen Hengsheng Hospital, Shenzhen, 518102, 
+China.
+(7)Reproductive Medicine Center, General Hospital of Ningxia Medical University, 
+Ningxia Medical University, Yinchuan, 750004, China.
+(8)State Key Laboratory of Reproductive Medicine and Offspring Health, Center 
+for Reproductive Medicine, Institute of Women, Children and Reproductive Health, 
+Shandong University, Jinan, 250012, China.
+(9)Reproductive Medicine Center, Xiangya Hospital of Central South University, 
+Changsha, 410008, China.
+(10)Department of Obstetrics and Gynecology, Center for Reproductive Medicine, 
+Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China.
+(11)Guangdong Provincial People's Hospital (Guangdong Academy of Medical 
+Sciences), Southern Medical University, Guangzhou, 510080, China. 
+shiyuhua2003@126.com.
+(12)Department of Obstetrics and Gynecology, Center for Reproductive Medicine, 
+Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China. 
+shiyuhua2003@126.com.
+(#)Contributed equally
+
+BACKGROUND: Polycystic ovary syndrome (PCOS) patients typically undergo either 
+an ovulation induction regimen or a programmed regimen for endometrial 
+preparation before frozen embryo transfer (FET). However, the superiority of one 
+approach over the other remains controversial. While previous studies suggest 
+that the letrozole regimen may improve pregnancy outcomes, prospective studies 
+are insufficient. Therefore, we designed a multi-center randomized controlled 
+trial to compare the pregnancy outcomes between these two regimens in PCOS 
+patients undergoing FET.
+METHODS: This multicentre, randomised controlled, open-label trial included 155 
+PCOS patients from six hospitals in China between September 2022 and February 
+2024. Patients were randomised into either the letrozole ovulation regimen group 
+(n = 81) or the programmed regimen group (n = 74) during FET cycles. Subgroup 
+analysis was used among patients with single blastocyst transfer. The primary 
+outcome was clinical pregnancy rate, with secondary outcomes including abortion 
+rate, live birth rate, and other pregnancy and neonatal outcomes.
+RESULTS: Analysis of 155 FET women showed no significant difference in clinical 
+pregnancy rates between the letrozole group (62.96%) and the programmed group 
+(60.81%, P > 0.05). Similarly, no differences were observed in abortion rate, 
+live birth rate, hypertensive disorders of pregnancy, gestational diabetes 
+mellitus, preterm birth, or neonatal birth weight. However, more patients in the 
+letrozole group received single-drug luteal support (53.16% vs. 16.67%, 
+P < 0.05). A subgroup analysis of 108 women involving patients who underwent 
+single blastocyst transfer revealed no significant differences in clinical 
+pregnancy rates (66.67% vs. 73.33%, P > 0.05) or live birth rates (58.73% vs. 
+55.56%, P > 0.05) between the two groups. A higher proportion of women in the 
+letrozole ovulation regimen group received single-drug luteal support compared 
+to those in the programmed regimen group (58.73% vs. 22.22%, P < 0.05). No 
+statistically significant differences were observed between the groups in terms 
+of fertilization method, abortion rate, or obstetric and neonatal outcomes.
+CONCLUSIONS: The letrozole ovulation regimen demonstrated comparable clinical 
+pregnancy rates to the programmed regimen in PCOS patients undergoing FET, while 
+requiring only simple luteal support. These findings suggest that the letrozole 
+regimen may be a favourable alternative for endometrial preparation in this 
+population.
+TRIAL REGISTRATION: Chinese Clinical Trial Registry ChiCTR2200062244 ( 
+https://www.chictr.org.cn ). Registered on 31 July 2022.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12958-025-01432-w
+PMCID: PMC12269307
+PMID: 40676584 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval: The study was 
+conducted in accordance with the Declaration of Helsinki and GCP, and approved 
+by the Ethics Review Committee of Guangdong Provincial People’s Hospital 
+(KY-Q-2022-228-02) for studies involving humans. Additionally, it was registered 
+in the ChiCTR (ChiCTR2200062244). Consent for publication: Written informed 
+consent was obtained from all participants prior to their inclusion in the 
+study. Competing interests: The authors declare no competing interests.
