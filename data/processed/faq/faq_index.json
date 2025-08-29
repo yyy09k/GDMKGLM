@@ -1,0 +1,65 @@
+[
+  {
+    "category": "基础知识",
+    "text_file": "faq_基础知识.txt",
+    "text_length": 402,
+    "faq_count": 4,
+    "type": "faq"
+  },
+  {
+    "category": "诊断与筛查",
+    "text_file": "faq_诊断与筛查.txt",
+    "text_length": 356,
+    "faq_count": 3,
+    "type": "faq"
+  },
+  {
+    "category": "治疗管理",
+    "text_file": "faq_治疗管理.txt",
+    "text_length": 770,
+    "faq_count": 7,
+    "type": "faq"
+  },
+  {
+    "category": "饮食建议",
+    "text_file": "faq_饮食建议.txt",
+    "text_length": 336,
+    "faq_count": 3,
+    "type": "faq"
+  },
+  {
+    "category": "分娩与产后",
+    "text_file": "faq_分娩与产后.txt",
+    "text_length": 508,
+    "faq_count": 5,
+    "type": "faq"
+  },
+  {
+    "category": "并发症",
+    "text_file": "faq_并发症.txt",
+    "text_length": 231,
+    "faq_count": 2,
+    "type": "faq"
+  },
+  {
+    "category": "心理健康",
+    "text_file": "faq_心理健康.txt",
+    "text_length": 274,
+    "faq_count": 2,
+    "type": "faq"
+  },
+  {
+    "category": "生活调整",
+    "text_file": "faq_生活调整.txt",
+    "text_length": 312,
+    "faq_count": 2,
+    "type": "faq"
+  },
+  {
+    "category": "全部",
+    "text_file": "all_faqs.txt",
+    "text_length": 3366,
+    "faq_count": 28,
+    "type": "faq_all"
+  }
+]
