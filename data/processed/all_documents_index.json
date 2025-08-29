@@ -1,0 +1,532 @@
+[
+  {
+    "source": "1734155579558013299.pdf",
+    "text_file": "1734155579558013299.txt",
+    "text_length": 66945,
+    "type": "guideline"
+  },
+  {
+    "source": "attachments-60.pdf",
+    "text_file": "attachments-60.txt",
+    "text_length": 27612,
+    "type": "guideline"
+  },
+  {
+    "source": "dc23sint.pdf",
+    "text_file": "dc23sint.txt",
+    "text_length": 23757,
+    "type": "guideline"
+  },
+  {
+    "source": "NICE_Diabetes_Pregnancy.pdf",
+    "text_file": "NICE_Diabetes_Pregnancy.txt",
+    "text_length": 70929,
+    "type": "guideline"
+  },
+  {
+    "source": "PB-190-Gestational-Diabetes-Mellitus.pdf",
+    "text_file": "PB-190-Gestational-Diabetes-Mellitus.txt",
+    "text_length": 81171,
+    "type": "guideline"
+  },
+  {
+    "source": "PMC4283661.xml",
+    "text_file": "PMC4283661.txt",
+    "text_length": 23711,
+    "type": "textbook",
+    "title": "Screening and Diagnosis of Gestational Diabetes Mellitus",
+    "source_name": "NCBI Bookshelf"
+  },
+  {
+    "source": "PMC7011201.xml",
+    "text_file": "PMC7011201.txt",
+    "text_length": 87682,
+    "type": "textbook",
+    "title": "Nutrition Therapy for Adults With Diabetes or Prediabetes",
+    "source_name": "ADA Guidelines"
+  },
+  {
+    "source": "PMC7144926.xml",
+    "text_file": "PMC7144926.txt",
+    "text_length": 62767,
+    "type": "textbook",
+    "title": "Gestational Diabetes Mellitus",
+    "source_name": "Endotext"
+  },
+  {
+    "source": "PMC9036566.xml",
+    "text_file": "PMC9036566.txt",
+    "text_length": 49844,
+    "type": "textbook",
+    "title": "Diabetes Mellitus in Pregnancy",
+    "source_name": "StatPearls"
+  },
+  {
+    "pmid": "40604570",
+    "title": "Which dietary pattern should be adopt by age-appropriate pregnant women to avoid gestational weight gain and gestational diabetes mellitus.",
+    "text_file": "article_40604570.txt",
+    "text_length": 2908,
+    "year": "2025",
+    "journal": "BMC pregnancy and childbirth",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40609899",
+    "title": "Effectiveness of self-care interventions for the prevention of type 2 diabetes among women with previous gestational diabetes: a systematic review and meta-analysis.",
+    "text_file": "article_40609899.txt",
+    "text_length": 3947,
+    "year": "2025",
+    "journal": "American journal of obstetrics & gynecology MFM",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40618386",
+    "title": "Diet in Pregnancy: A Review of Current Challenges and Recommendations. A British Nutrition Foundation Briefing Paper.",
+    "text_file": "article_40618386.txt",
+    "text_length": 4050,
+    "year": "2025",
+    "journal": "Nutrition bulletin",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40630399",
+    "title": "The consequences of ultra-processed foods on brain development during prenatal, adolescent and adult stages.",
+    "text_file": "article_40630399.txt",
+    "text_length": 3087,
+    "year": "2025",
+    "journal": "Frontiers in public health",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40634131",
+    "title": "The effect of patient education on maternal fasting blood glucose in gestational diabetes mellitus in randomized controlled trials: a systematic review and meta-analysis.",
+    "text_file": "article_40634131.txt",
+    "text_length": 2829,
+    "year": "2025",
+    "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40635636",
+    "title": "Predictability of fetal pulmonary artery Doppler on neonatal outcomes in pregnant women with gestational diabetes mellitus.",
+    "text_file": "article_40635636.txt",
+    "text_length": 2635,
+    "year": "2025",
+    "journal": "Congenital anomalies",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40636710",
+    "title": "A murine model of gestational diabetes reveals MASLD risk and alterations in markers of hepatic mitochondrial metabolism.",
+    "text_file": "article_40636710.txt",
+    "text_length": 3682,
+    "year": "2025",
+    "journal": "Frontiers in endocrinology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40647233",
+    "title": "High-Calorie Diet Exacerbates the Crosstalk Between Gestational Diabetes and Youth-Onset Diabetes in Female Offspring Through Disrupted Estrogen Signaling.",
+    "text_file": "article_40647233.txt",
+    "text_length": 2708,
+    "year": "2025",
+    "journal": "Nutrients",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40649834",
+    "title": "Pregnancy and Neonatal Outcomes in Maturity-Onset Diabetes of the Young: A Systematic Review.",
+    "text_file": "article_40649834.txt",
+    "text_length": 2472,
+    "year": "2025",
+    "journal": "International journal of molecular sciences",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40652244",
+    "title": "Paternal and maternal exposures to per- and polyfluoroalkyl substances (PFAS) and birth outcomes: a multi-country cohort study.",
+    "text_file": "article_40652244.txt",
+    "text_length": 4723,
+    "year": "2025",
+    "journal": "Environmental health : a global access science source",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40652449",
+    "title": "A Systematic Review Supporting the Clinical Practice Guidelines on the Management of Preexisting Diabetes and Pregnancy.",
+    "text_file": "article_40652449.txt",
+    "text_length": 3509,
+    "year": "2025",
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40652450",
+    "title": "Preexisting Diabetes and Pregnancy: An Endocrine Society and European Society of Endocrinology Joint Clinical Practice Guideline.",
+    "text_file": "article_40652450.txt",
+    "text_length": 11007,
+    "year": "2025",
+    "journal": "European journal of endocrinology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40652453",
+    "title": "Preexisting Diabetes and Pregnancy: An Endocrine Society and European Society of Endocrinology Joint Clinical Practice Guideline.",
+    "text_file": "article_40652453.txt",
+    "text_length": 10992,
+    "year": "2025",
+    "journal": "The Journal of clinical endocrinology and metabolism",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40653273",
+    "title": "Heterogeneity in the association between a dietary pattern high in fat, sugar, and sodium and adverse pregnancy outcomes by maternal characteristics: a US pregnancy cohort study.",
+    "text_file": "article_40653273.txt",
+    "text_length": 4331,
+    "year": "2025",
+    "journal": "The American journal of clinical nutrition",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40655163",
+    "title": "Serum Uric Acid-to-Serum Creatinine Ratio, Thyroid Function, and Gestational Diabetes Mellitus Risk during Early Pregnancy among Chinese Women.",
+    "text_file": "article_40655163.txt",
+    "text_length": 3648,
+    "year": "2025",
+    "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40658702",
+    "title": "Depressive disorders, bad mental health days, and diabetes management behaviors among non-Hispanic American Indian/Alaska Native adults: Findings from the Behavioral Risk Factor Surveillance System.",
+    "text_file": "article_40658702.txt",
+    "text_length": 3204,
+    "year": "2025",
+    "journal": "PloS one",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40660177",
+    "title": "Metformin use in gestational diabetes is not associated with an increased risk of preterm labor and small for gestational age infants compared to diet control alone.",
+    "text_file": "article_40660177.txt",
+    "text_length": 2828,
+    "year": "2025",
+    "journal": "BMC pregnancy and childbirth",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40660339",
+    "title": "Efficacy and safety of recombinant human granulocyte colony-stimulating factor in patients with unexplained recurrent pregnancy loss: a protocol for a multicenter, randomized, double-blind, controlled trial.",
+    "text_file": "article_40660339.txt",
+    "text_length": 4516,
+    "year": "2025",
+    "journal": "Trials",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40660790",
+    "title": "Neurodevelopmental Consequences of Maternal Diabetes: Autophagy and Spatial Arrangement of Hippocampal Neurons.",
+    "text_file": "article_40660790.txt",
+    "text_length": 3151,
+    "year": "2025",
+    "journal": "CNS neuroscience & therapeutics",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40665066",
+    "title": "From Glucotoxicity to Lung Injury: Emerging Perspectives on Diabetes-Associated Respiratory Complications.",
+    "text_file": "article_40665066.txt",
+    "text_length": 2581,
+    "year": "2025",
+    "journal": "Lung",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40665564",
+    "title": "Type 2 diabetes risk communication following a diagnosis of gestational diabetes mellitus: A qualitative study.",
+    "text_file": "article_40665564.txt",
+    "text_length": 2714,
+    "year": "2025",
+    "journal": "Diabetic medicine : a journal of the British Diabetic Association",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40670950",
+    "title": "Mediating role of systemic inflammation on the association between periodontitis and gestational diabetes mellitus: a cross-sectional study.",
+    "text_file": "article_40670950.txt",
+    "text_length": 3350,
+    "year": "2025",
+    "journal": "BMC oral health",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40670958",
+    "title": "First-trimester triglyceride-glucose index and birth weight: a retrospective cohort mediation analysis of preterm birth and gestational complications.",
+    "text_file": "article_40670958.txt",
+    "text_length": 4553,
+    "year": "2025",
+    "journal": "BMC pregnancy and childbirth",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40671065",
+    "title": "Adverse perinatal outcomes associated with respiratory distress syndrome in preterm infants: a retrospective analysis.",
+    "text_file": "article_40671065.txt",
+    "text_length": 5259,
+    "year": "2025",
+    "journal": "Italian journal of pediatrics",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40671107",
+    "title": "Adiposity indices mediate the association between dietary inflammatory index and type 2 diabetes risk in women with prior gestational diabetes mellitus.",
+    "text_file": "article_40671107.txt",
+    "text_length": 3725,
+    "year": "2025",
+    "journal": "Diabetology & metabolic syndrome",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40671602",
+    "title": "The science of frozen embryo transfer, is modified natural cycle better?",
+    "text_file": "article_40671602.txt",
+    "text_length": 2374,
+    "year": "2025",
+    "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40671731",
+    "title": "The association between husband-reported snoring and gestational diabetes mellitus: a study of sleep-disordered breathing in pregnancy.",
+    "text_file": "article_40671731.txt",
+    "text_length": 3226,
+    "year": "2025",
+    "journal": "Journal of diabetes and metabolic disorders",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40671733",
+    "title": "Proper diagnosis of latent autoimmune diabetes in adults prompts appropriate pharmacotherapy; C-peptide is just one component.",
+    "text_file": "article_40671733.txt",
+    "text_length": 3454,
+    "year": "2025",
+    "journal": "Journal of diabetes and metabolic disorders",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40672007",
+    "title": "Impact of Gestational Diabetes on Neonatal Birth Weight and Maternal Postpartum Metabolic Changes.",
+    "text_file": "article_40672007.txt",
+    "text_length": 5023,
+    "year": "2025",
+    "journal": "Cureus",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40672030",
+    "title": "Risk of Postpartum Depression and Postpartum Psychosis in Patients With Obstetric Complications: A Case-Control Study.",
+    "text_file": "article_40672030.txt",
+    "text_length": 4628,
+    "year": "2025",
+    "journal": "Cureus",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40672040",
+    "title": "Maternal and Neonatal Outcomes Associated With Preeclampsia and Gestational Diabetes Mellitus: A Retrospective Cohort Study.",
+    "text_file": "article_40672040.txt",
+    "text_length": 3617,
+    "year": "2025",
+    "journal": "Cureus",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40672961",
+    "title": "Prediction and immune landscape study of potentially key autophagy-related biomarkers in preeclampsia with gestational diabetes mellitus.",
+    "text_file": "article_40672961.txt",
+    "text_length": 3042,
+    "year": "2025",
+    "journal": "Frontiers in immunology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40673615",
+    "title": "Fasting plasma glucose performs better than glycated hemoglobin and glycated albumin for diagnosing gestational diabetes.",
+    "text_file": "article_40673615.txt",
+    "text_length": 2954,
+    "year": "2025",
+    "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40673650",
+    "title": "Gestational Diabetes-Screening, Prevalence and Postpartum Diabetes: Population-Based Cohort Study.",
+    "text_file": "article_40673650.txt",
+    "text_length": 3278,
+    "year": "2025",
+    "journal": "Diabetes/metabolism research and reviews",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40675607",
+    "title": "Optimal timing of delivery in pregnant individuals with pregestational diabetes mellitus.",
+    "text_file": "article_40675607.txt",
+    "text_length": 3050,
+    "year": "2025",
+    "journal": "American journal of perinatology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40676555",
+    "title": "Predictive value of Glycosylated Fibronectin (GlyFn)/Placenta Growth Factor (PlGF) ratio for high-risk pregnancies: a cohort study.",
+    "text_file": "article_40676555.txt",
+    "text_length": 3457,
+    "year": "2025",
+    "journal": "BMC pregnancy and childbirth",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40676584",
+    "title": "Letrozole ovulation regimen for frozen-thawed embryo transfer in women with polycystic ovary syndrome: a muti-centre randomised controlled trial.",
+    "text_file": "article_40676584.txt",
+    "text_length": 5665,
+    "year": "2025",
+    "journal": "Reproductive biology and endocrinology : RB&E",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40678316",
+    "title": "Assessment of neonatologists' competency in managing gestational diabetes complications: a cross-sectional analysis from China.",
+    "text_file": "article_40678316.txt",
+    "text_length": 2699,
+    "year": "2025",
+    "journal": "Frontiers in endocrinology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40678318",
+    "title": "Single-center prospective study on thyroid function outcomes and neurological prognoses at 3 years of age in children with mild neonatal hyperthyrotropinemia.",
+    "text_file": "article_40678318.txt",
+    "text_length": 2390,
+    "year": "2025",
+    "journal": "Frontiers in endocrinology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40678319",
+    "title": "Association between gestational diabetes mellitus and risk of breast cancer: a systematic review and meta-analysis.",
+    "text_file": "article_40678319.txt",
+    "text_length": 4211,
+    "year": "2025",
+    "journal": "Frontiers in endocrinology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40679909",
+    "title": "GDM links to increased neonatal myocardial hypertrophy via ANGPTL7: prospective cohort study.",
+    "text_file": "article_40679909.txt",
+    "text_length": 4085,
+    "year": "2025",
+    "journal": "Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40681846",
+    "title": "Pregnancy-associated acute kidney injury - consensus report of the 32nd Acute Disease Quality Initiative workgroup.",
+    "text_file": "article_40681846.txt",
+    "text_length": 6856,
+    "year": "2025",
+    "journal": "Nature reviews. Nephrology",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40682053",
+    "title": "Early prediction of gestational diabetes mellitus based on systematically selected multi-panel biomarkers and clinical accessibility-a longitudinal study of a multi-racial pregnant cohort.",
+    "text_file": "article_40682053.txt",
+    "text_length": 5763,
+    "year": "2025",
+    "journal": "BMC medicine",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40685096",
+    "title": "Cell-free circulating epigenomic signatures: Non-invasive biomarkers of pregnancy-related outcomes associated with plasticizer exposure.",
+    "text_file": "article_40685096.txt",
+    "text_length": 3488,
+    "year": "2025",
+    "journal": "Reproductive toxicology (Elmsford, N.Y.)",
+    "type": "pubmed_article"
+  },
+  {
+    "pmid": "40685323",
+    "title": "Increased fractalkine expression in placental tissue and HUVECs from pregnant women with gestational diabetes mellitus and its correlation with clinicopathological variables in a case-control study.",
+    "text_file": "article_40685323.txt",
+    "text_length": 3081,
+    "year": "2025",
+    "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+    "type": "pubmed_article"
+  },
+  {
+    "category": "基础知识",
+    "text_file": "faq_基础知识.txt",
+    "text_length": 402,
+    "faq_count": 4,
+    "type": "faq"
+  },
+  {
+    "category": "诊断与筛查",
+    "text_file": "faq_诊断与筛查.txt",
+    "text_length": 356,
+    "faq_count": 3,
+    "type": "faq"
+  },
+  {
+    "category": "治疗管理",
+    "text_file": "faq_治疗管理.txt",
+    "text_length": 770,
+    "faq_count": 7,
+    "type": "faq"
+  },
+  {
+    "category": "饮食建议",
+    "text_file": "faq_饮食建议.txt",
+    "text_length": 336,
+    "faq_count": 3,
+    "type": "faq"
+  },
+  {
+    "category": "分娩与产后",
+    "text_file": "faq_分娩与产后.txt",
+    "text_length": 508,
+    "faq_count": 5,
+    "type": "faq"
+  },
+  {
+    "category": "并发症",
+    "text_file": "faq_并发症.txt",
+    "text_length": 231,
+    "faq_count": 2,
+    "type": "faq"
+  },
+  {
+    "category": "心理健康",
+    "text_file": "faq_心理健康.txt",
+    "text_length": 274,
+    "faq_count": 2,
+    "type": "faq"
+  },
+  {
+    "category": "生活调整",
+    "text_file": "faq_生活调整.txt",
+    "text_length": 312,
+    "faq_count": 2,
+    "type": "faq"
+  },
+  {
+    "category": "全部",
+    "text_file": "all_faqs.txt",
+    "text_length": 3366,
+    "faq_count": 28,
+    "type": "faq_all"
+  }
+]
