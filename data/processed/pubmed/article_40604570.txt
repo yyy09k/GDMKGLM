@@ -1,0 +1,52 @@
+Title: Which dietary pattern should be adopt by age-appropriate pregnant women to avoid gestational weight gain and gestational diabetes mellitus.
+
+Abstract: 1. BMC Pregnancy Childbirth. 2025 Jul 2;25(1):683. doi:
+10.1186/s12884-025-07801-y.
+
+Which dietary pattern should be adopt by age-appropriate pregnant women to avoid 
+gestational weight gain and gestational diabetes mellitus.
+
+Li Y(1), Zheng H(1), Jiang W(1), Chi Y(1), Meng Y(1), Mo Y(1), Chen C(1), Qu 
+B(1), He J(1), Chen F(2).
+
+Author information:
+(1)Department of Obstetrics, Obstetrics and Gynecology Center, The First 
+Hospital of Jilin University, No.1 Xinmin Road, Changchun, 130000, China.
+(2)Department of General Gynecology I, Obstetrics and Gynecology Center, The 
+First Hospital of Jilin University, No.1 Xinmin Road, 130000, Changchun, China. 
+chenfeng0715@jlu.edu.cn.
+
+BACKGROUND: Gestational weight gain (GWG) and gestational diabetes mellitus 
+(GDM), as two major adverse pregnancy outcomes, could be affected by diet 
+patterns, and GWG also influenced GDM. Therefore, we aimed to explore the four 
+diet quality scores and two adverse pregnancy outcomes in a more macroscopic 
+way.
+METHODS: 667 women for GWG part and 333 women for GDM part who were pregnant 
+from the National Health and Nutrition Examination Survey (NHANES), aged 20 to 
+44 years, were involved in this study, respectively. Four diet quality scores 
+including dietary inflammatory index (DII), dietary Approaches to Stop 
+Hypertension (DASH), Healthy Eating Index-2015 (HEI-2015), and Alternative 
+Healthy Eating Index-2010 (AHEI-2010) were chosen in this study.
+RESULTS: We found that higher HEI-2015 and AHEI-2010 were associated with lower 
+risk of GWG, especially for advanced maternal age. Lower DII and higher DASH 
+were associated with lower risk of GDM. These associations were robust after 
+excluding the diabetic patients. For pregnant women with GWG, DASH was 
+negatively associated with the risk of GDM. Summarily, adherence of healthy 
+dietary pattern associated with decreased risk of adverse pregnancy outcomes.
+CONCLUSION: Adherence of healthy dietary pattern associated with decreased risk 
+of adverse pregnancy outcomes. We recommend that pregnant women take dietary 
+precautions with foods consisting of fruits and vegetables, low-fat dairy 
+products, whole grains, and legumes.
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s12884-025-07801-y
+PMCID: PMC12220641
+PMID: 40604570 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: The NCHS Research Ethics Review Board approved the protocols of 
+NHANES of the National Center for Health Statistics, CDC. ID: NCHS IRB/ERB 
+Protocol # 2011-17、Continuation of Protocol #2011-17. All subjects were provided 
+with written informed consent. Consent for publication: Not applicable. 
+Competing interests: The authors declare no competing interests.
