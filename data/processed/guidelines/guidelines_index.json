@@ -1,0 +1,32 @@
+[
+  {
+    "source": "1734155579558013299.pdf",
+    "text_file": "1734155579558013299.txt",
+    "text_length": 66945,
+    "type": "guideline"
+  },
+  {
+    "source": "attachments-60.pdf",
+    "text_file": "attachments-60.txt",
+    "text_length": 27612,
+    "type": "guideline"
+  },
+  {
+    "source": "dc23sint.pdf",
+    "text_file": "dc23sint.txt",
+    "text_length": 23757,
+    "type": "guideline"
+  },
+  {
+    "source": "NICE_Diabetes_Pregnancy.pdf",
+    "text_file": "NICE_Diabetes_Pregnancy.txt",
+    "text_length": 70929,
+    "type": "guideline"
+  },
+  {
+    "source": "PB-190-Gestational-Diabetes-Mellitus.pdf",
+    "text_file": "PB-190-Gestational-Diabetes-Mellitus.txt",
+    "text_length": 81171,
+    "type": "guideline"
+  }
+]
