@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GDM智能助手</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/css/style.css') }}">
+</head>
+<body>
+    <div class="chat-container">
+        <!-- 头部 -->
+        <header class="chat-header">
+            <div class="header-content">
+                <div class="logo">
+                    <span class="logo-icon">🤱</span>
+                    <span class="logo-text">GDM智能助手</span>
+                </div>
+                <div class="status-indicator" id="status">
+                    <span class="status-dot"></span>
+                    <span class="status-text">准备就绪</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- 消息区域 -->
+        <main class="chat-main">
+            <div class="messages-container" id="messages">
+                <div class="message assistant-message">
+                    <div class="message-avatar">🤖</div>
+                    <div class="message-content">
+                        <p>您好！我是妊娠期糖尿病(GDM)智能助手。</p>
+                        <p>我可以回答关于GDM的诊断、治疗、症状、饮食管理等专业问题。请随时提问！</p>
+                        <div class="quick-questions">
+                            <button class="quick-btn" onclick="sendMessage('什么是妊娠期糖尿病？')">
+                                什么是妊娠期糖尿病？
+                            </button>
+                            <button class="quick-btn" onclick="sendMessage('GDM有哪些症状？')">
+                                GDM有哪些症状？
+                            </button>
+                            <button class="quick-btn" onclick="sendMessage('如何预防妊娠期糖尿病？')">
+                                如何预防GDM？
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- 输入区域 -->
+        <footer class="chat-footer">
+            <div class="input-container">
+                <form class="input-form" id="chatForm">
+                    <div class="input-wrapper">
+                        <textarea 
+                            id="messageInput" 
+                            placeholder="询问关于妊娠期糖尿病的任何问题..." 
+                            rows="1"
+                            maxlength="500">
+                        </textarea>
+                        <button type="submit" class="send-button" id="sendButton">
+                            <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+                            </svg>
+                        </button>
+                    </div>
+                </form>
+                <div class="input-footer">
+                    <span class="disclaimer">⚠️ 仅供学术研究，不可替代专业医疗建议</span>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', path='/js/app.js') }}"></script>
+</body>
+</html>
