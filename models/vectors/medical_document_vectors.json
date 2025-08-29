@@ -1,0 +1,48 @@
+{
+  "summary": {
+    "model_name": "all-mpnet-base-v2",
+    "chunk_size": 512,
+    "overlap_size": 50,
+    "total_chunks": 1570,
+    "vector_dimension": 768,
+    "version": "2.0"
+  },
+  "data_type_distribution": {
+    "guidelines": 605,
+    "pubmed": 420,
+    "textbooks": 529,
+    "faq": 16
+  },
+  "sample_chunks": [
+    {
+      "chunk_id": "guidelines_0",
+      "text_preview": "中国研究型医院 2024 年12 月第 11 卷第 6 期 CHINESE RESEARCH HOSPITALS, December 2024, Vol。11, No。6 中国妊娠期糖尿病母儿共同管理指南 （2024版） 中国研究型医院学会糖尿病学专业委员会 通信作者：肖新华，中国医学科学院 北京协和医学院 北京协和医院内分泌科 国家卫生 健康委员会内分泌重点实验室，北京 100730，Email...",
+      "source": "1734155579558013299",
+      "data_type": "guidelines"
+    },
+    {
+      "chunk_id": "guidelines_1",
+      "text_preview": "该指南强调 GDM 孕妇及其子代共同管理的重要性及必要性，阐述了 GDM 孕妇及其子代监测和管理 的具体策略。该指南的颁布将有助于指导和帮助临床医师对 GDM孕妇及其子代进行全方位、全生命 周期的规范化管理，旨在进一步改善母儿近远期健康。【关键词】 糖尿病， 妊娠。母代。子代。共同管理。",
+      "source": "1734155579558013299",
+      "data_type": "guidelines"
+    },
+    {
+      "chunk_id": "guidelines_2",
+      "text_preview": "指南 基金项目：中央高水平医院临床科研专项重点培育项目（2022‑PUMCH‑C‑019） Guidelines for the co‑management of gestational diabetes mellitus in mothers and their offspring (2024 edition) Diabetology Committee of Chinese Research ...",
+      "source": "1734155579558013299",
+      "data_type": "guidelines"
+    },
+    {
+      "chunk_id": "guidelines_3",
+      "text_preview": "diabetes mellitus in mothers and their offspring (2024 edition) Diabetology Committee of Chinese Research Hospital Association Corresponding author: XIAO Xinhua, Department of Endocrinology, Peking Un...",
+      "source": "1734155579558013299",
+      "data_type": "guidelines"
+    },
+    {
+      "chunk_id": "guidelines_4",
+      "text_preview": "the further relaxation of the fertility control policy, the prevalence of gestational diabetes mellitus (GDM) in China has been increasing annually, which is a serious threat to the health of mothers ...",
+      "source": "1734155579558013299",
+      "data_type": "guidelines"
+    }
+  ]
+}
