@@ -1,7 +1,7 @@
-# GDMKGLM(妊娠期糖尿病管理本地大模型)
+# GDMKGLM(基于知识图谱的混合检索机制和GraphRAG架构的妊娠期糖尿病大模型)
 
-A GraphRAG-Enhanced Knowledge Management System for Gestational Diabetes Mellitus
-基于GraphRAG架构的妊娠期糖尿病知识问答系统。
+A GraphRAG-Enhanced Intelligent Knowledge-based Question Answering System for Gestational Diabetes Mellitus
+基于GraphRAG架构的妊娠期糖尿病智能知识问答系统。
 
 ## 项目结构
 
